@@ -1,0 +1,43 @@
+[project]
+name = "internship"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "datasketch>=1.6.5",
+    "joblib>=1.4.2",
+    "levenshtein>=0.27.1",
+    "matplotlib>=3.10.1",
+    "pandas>=2.2.3",
+    "rdflib>=7.1.4",
+    "torch>=2.6.0",
+    "tqdm-joblib>=0.0.4",
+    "tqdm>=4.67.1",
+    "ipywidgets>=8.1.6",
+    "jupyter>=1.1.1",
+    "grakel>=0.1.10",
+    "networkx>=3.4.2",
+    "numpy>=2.2.4",
+    "keybert>=0.9.0",
+    "lxml>=5.4.0",
+    "beautifulsoup4>=4.13.4",
+    "sentence-transformers>=4.1.0",
+    "openai>=1.81.0",
+    "nltk>=3.9.1",
+    "fugashi[unidic-lite]>=1.5.1",
+    "mecab>=0.996.11",
+    "faiss-cpu>=1.11.0.post1",
+    "rich>=14.0.0",
+    "pydantic>=2.11.4",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=6.29.5",
+    "uv>=0.6.11",
+]
+
+[tool.pyright]
+venvPath = "."
+venv = ".venv"

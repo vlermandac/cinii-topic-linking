@@ -1,0 +1,6643 @@
+Found 10 buckets with >=3 members
+Bucket 1: size 1659
+Bucket 2: size 35
+Bucket 3: size 9
+Bucket 4: size 8
+Bucket 5: size 8
+
+Members of bucket 5 (size 1659):
+- URI: https://cir.nii.ac.jp/crid/1050570022175045248.rdf
+  Title: 産婦人科領域におけるCA130の有用性
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050570022175260416.rdf
+  Title: 必須脂肪酸欠乏ダイコクネズミ睾丸の高度不飽和脂肪酸の化学イオン化マススペクトロメトリー
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050570022175521280.rdf
+  Title: 細胞傷害性リンパ球によるラウス肉腫ウイルス変換細胞認識に及ぼすツニカマイシンの影響
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050570022175859072.rdf
+  Title: 人工股関節置換術後のosteolysisに対する組織学的検討.
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050570022176083328.rdf
+  Title: 膵蛋白合成能測定による移植膵のViability評価法に関する研究
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050570032656020992.rdf
+  Title: covert repetition
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050570078057967488.rdf
+  Title: Symposium
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050570078072388224.rdf
+  Title: Another Language
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050570264722579072.rdf
+  Title: 21世紀長崎華僑華人的新動向 : 関于時中小學校的変遷的分析
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050570264725398272.rdf
+  Title: Prosopography
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050570543440252928.rdf
+  Title: 東京慈恵会医科大学附属病院救急部における画像検査での患者安全の取り組み (第137回成医会総会一般演題)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050570543445740544.rdf
+  Title: デング熱媒介蚊における越冬卵形成メカニズムの解明 (第137回成医会総会一般演題)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050570543445743488.rdf
+  Title: 薬剤誘導細胞除去システムを用いた腎間質再生 (第137回成医会総会一般演題)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050570543450873728.rdf
+  Title: CPAP使用がインフルエンザ再罹患に与える影響について (第137回成医会総会一般演題)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050570543450884096.rdf
+  Title: 希有なミトコンドリア11696変異を有するレーベル遺伝性視神経症の１例 (第137回成医会総会一般演題)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050570543450888064.rdf
+  Title: 東京慈恵会医科大学附属病院の実状に応じた透析導入減少のための戦略 (第137回成医会総会一般演題)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050570543450890368.rdf
+  Title: 光切断方式による3Dスキャナを用いた新たな手術ナビゲーションシステムの開発 (第137回成医会総会一般演題)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050570543450893184.rdf
+  Title: 要介護者の貧血 (第137回成医会総会一般演題)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050570543455944704.rdf
+  Title: カルシウムによるカルシウム放出機構のファミリーヒストリー(筋生理の集い)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050570543455952000.rdf
+  Title: 細胞外分泌されたPKCδの受容体同定と肝がん形成における役割 (第137回成医会総会一般演題)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050570543455957120.rdf
+  Title: 社会的優位個体の炎症性疼痛によるマウス集団内階位の不安定化 (第137回成医会総会一般演題)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050570543456653184.rdf
+  Title: NEXCESS
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050570807326179328.rdf
+  Title: Front Cover
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050570807339997184.rdf
+  Title: Colophon
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050570852900542208.rdf
+  Title: Forward
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050570884491819904.rdf
+  Title: Dedication
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050570884493553024.rdf
+  Title: Research presentation
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050570961917606656.rdf
+  Title: Contents
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050570961917607296.rdf
+  Title: Contents
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050570961917608192.rdf
+  Title: Contents
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050570961918507776.rdf
+  Title: Contents
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050570961918508544.rdf
+  Title: Contents
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050570961918509440.rdf
+  Title: Contents
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050570961919395968.rdf
+  Title: Contents
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571106586006656.rdf
+  Title: [Cover]
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571106587905664.rdf
+  Title: Sexual Harassment
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571239986339200.rdf
+  Title: Series Foreword
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571339764370816.rdf
+  Title: Preface
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571470216555264.rdf
+  Title: 難治性遺伝性網膜疾患の治療に向けた遺伝子解析研究 (第122回成医会葛飾支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571470226799616.rdf
+  Title: 同側同時性に腎細胞癌と腎盂癌を認めた腹膜透析患者の1例 (第122回成医会葛飾支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571948037525248.rdf
+  Title: Rethinking Assimilation
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571967996342272.rdf
+  Title: On dharmisvarupaviparitasadhana
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968003618560.rdf
+  Title: カメラパラメータの簡易校正法
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968003619328.rdf
+  Title: 超音波法を利用した摩擦によるせん断応力の評価
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968003620224.rdf
+  Title: 海綿骨骨梁構造三次元再構築の試み
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968003621888.rdf
+  Title: 下肢における姿勢制御特性パターンの解析
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968003623040.rdf
+  Title: 改良型レオゴニオメータによる流体弾性力の測定
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968003629184.rdf
+  Title: フローティングプラットフォーム
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968003647488.rdf
+  Title: C10 医療画像の蓄積と伝送に関する研究
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968003650944.rdf
+  Title: R7 スポーツ動作の3次元姿勢推定
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968003651968.rdf
+  Title: G2 対話型進化計算手法による自動作曲システム
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968003654656.rdf
+  Title: H2 時間ホッピングUWB伝送におけるジッタの影響に関する一検討
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968003720320.rdf
+  Title: 51 Hopfield型ニューラルネットを用いたフレキシブルハイブリッドチャネル割当に関する一考察
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968003721472.rdf
+  Title: T7 輪郭情報と表面パターンを利用した3次元追跡
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968003724032.rdf
+  Title: L3 非可視型2次元コードの高密度化の検討
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968003732352.rdf
+  Title: 空間的文脈を再現するカオスニューラルネットワーク
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968003733504.rdf
+  Title: Rb吸収線のファラデー効果を用いた半導体レーザの発振周波数安定化システムの検討
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968003735168.rdf
+  Title: 気球設置カメラの方位制御に関する基礎的検討
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968003736192.rdf
+  Title: パルス変調広帯域波長走査半導体レーザ干渉計の構成
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968003737344.rdf
+  Title: α波帯域とβ波帯域を用いたリアルタイムBMIシステムの研究
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968003738368.rdf
+  Title: 原位置における不飽和浸透特性値の非定常算定方法
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968003739648.rdf
+  Title: ウェアラブル計測制御ユニットを用いた自転車エルゴメータの負荷制御法
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968003740928.rdf
+  Title: 放電加工面の特性(機械的性質に及ぼす影響)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968003741824.rdf
+  Title: 非接触式ねじり動力計に関する研究
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968003743360.rdf
+  Title: ステレオPIVを用いた速度のフィールド計測に関する研究
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968003744640.rdf
+  Title: 連続硬さ試験方式を利用した材料特性評価法の研究
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968003746048.rdf
+  Title: 地中レーダを用いた浅層地盤における土中水分量の原位置計測
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968015501824.rdf
+  Title: 粘弾性流体の逆スクイズ流れに関する実験的研究
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968015502720.rdf
+  Title: 伝達関数法による多孔性材料の音響特性の測定
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968015503744.rdf
+  Title: 楕円加工機構と運動解析
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968015505280.rdf
+  Title: 骨の電気特性に関する研究
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968015508480.rdf
+  Title: 音響信号を利用した気体の流量測定 : 定常流における気体の微小流量の測定
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968015509376.rdf
+  Title: 膝関節の動作解析における軟部組織の影響
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968015510528.rdf
+  Title: 極低温下におけるEL-850の接触面剛性
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968015511168.rdf
+  Title: セラミックスと金属のしまりばめ部強度に関する研究(寸法効果)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968015512064.rdf
+  Title: パソコンを組み合わせた超音波探傷器による接触圧力の測定
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968015513088.rdf
+  Title: ε法を用いたコンピュータによる構造解析
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968015587968.rdf
+  Title: B4 アンチェイリアスフィルタに関する考察
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968015588992.rdf
+  Title: M3 直接FSK変調時における半導体レーザの周波数安定化とその評価方法の改善
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968015598976.rdf
+  Title: 2種類の外部周波数基準を用いた半導体レーザの発振周波数の安定化
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968015601152.rdf
+  Title: 蛍光灯通信における受光方式の基礎研究
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968015603712.rdf
+  Title: K-Band同軸矩形コルゲート導波管の軸対称モード及び遅波相互作用の数値解析
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968015606272.rdf
+  Title: 同軸導波管における固有モードの曲率依存性の解析
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968015607680.rdf
+  Title: 新潟大学工学部における教育改革の効果
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968015609472.rdf
+  Title: 道案内を目的とした略地図作成補助システムの開発
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968015610752.rdf
+  Title: 希薄高分子溶液の伸長流に関する研究(オリフィス前後の圧力差及び流脈について)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968015612032.rdf
+  Title: セラミックスと金属の締りばめ部の表面あらさの変形を考慮した締め付け圧力の解析
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968015613568.rdf
+  Title: 超微小硬さ試験を利用したりん青銅の材料特性評価法
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968015615488.rdf
+  Title: 車両事故における飛翔物体の運動に関する研究
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968015616896.rdf
+  Title: 高温暴露によるTBC材しゃ熱特性の変化
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968015622144.rdf
+  Title: モバイルアドホックネットワークにおけるマルチキャストルート構築に関する考察
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968026795776.rdf
+  Title: ジェット反力を利用した界面活性剤水溶液の弾性力測定
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968026796928.rdf
+  Title: 生体内の環境を考慮した海綿骨の力学的特性
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968026798080.rdf
+  Title: 音響管内の音圧分布の測定に関する研究
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968026799360.rdf
+  Title: 強制自励系の摩擦による振動(強制外力が附加された場合)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968026800384.rdf
+  Title: 超音波を利用した接触端部の圧力測定
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968026801536.rdf
+  Title: 超微小硬さ試験を利用した材料特性評価法(三角錐圧子による除荷曲線部の形状指数と除荷終了点)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968026807552.rdf
+  Title: レストランにおける受動喫煙に関する基礎的研究
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968026829312.rdf
+  Title: M3 部品集団を保持するGAについて
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968026838912.rdf
+  Title: 50 遺伝的アルゴリズムを用いたチャネル割当に関する考察
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968026841728.rdf
+  Title: W27 ウェーブレット変換のエネルギー分布からの画像復元
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968026852224.rdf
+  Title: 視覚障害者の単独歩行を支援する地理情報データベースの検討
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968026853120.rdf
+  Title: 電子回路バーストニューロンモデルのカオス的振舞い
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968026853760.rdf
+  Title: 直流リレー用転流回路の検討
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968026855040.rdf
+  Title: 蛍光灯を用いた可視光通信における情報検出の基礎研究
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968026855936.rdf
+  Title: 非接触ICカードを用いた訪問看護記録システムの基礎研究
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968026856704.rdf
+  Title: 同軸矩形コルゲート導波管を用いた大口径後進波発振器の磁場依存性に関する実験的研究
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968026858624.rdf
+  Title: 遅波構造を持つ内導体における遅波不安定性の内導体径依存性に関する数値解析
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968026861056.rdf
+  Title: 平行2軸回転工具による高精度加工に関する研究
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968026861824.rdf
+  Title: 映像酔いが生じている際の自己運動感のある映像の動きベクトルの特徴
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968026862720.rdf
+  Title: 希薄高分子溶液の法線応力の測定
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968026863488.rdf
+  Title: 希薄高分子溶液の伸張流に関する研究(小オリフィスを通る流れによる反力と圧力差)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968026864256.rdf
+  Title: 熱源同期回転式形状記憶合金ヒートエンジンの基礎的研究
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968026865920.rdf
+  Title: 最適予見サーボ系を用いるモデル追従制御系の実験的研究
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968026867200.rdf
+  Title: 硬さ試験方式によるしゃ熱コーティング材料の機械的特性評価
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968026868224.rdf
+  Title: クリンゲルンベルグまがり歯傘歯車の非共役性について
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968026869376.rdf
+  Title: 熱源同期回転式形状記憶合金ヒートエンジンの基礎的研究
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968026870528.rdf
+  Title: 先端部に丸味を有する円錐圧子による材料特性評価法
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968026877824.rdf
+  Title: 視覚障害者用GPS音声位置案内装置 : 携帯方式の改良と多言語への対応
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968038002688.rdf
+  Title: 水の第1法線応力差の測定
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968038003840.rdf
+  Title: 三次元測定機によるはすば歯車の測定
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968038004992.rdf
+  Title: 隆起部を有し相対運動する二面間の粘弾性流体の流れ
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968038006016.rdf
+  Title: ウシ緻密骨の動力学的特性
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968038008064.rdf
+  Title: 高温下でのモデル突起の変形
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968038009856.rdf
+  Title: 高齢者の暖房方法と乾燥感との関連について（環境系）
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968038016512.rdf
+  Title: 一般照明器具を用いた新しい位置情報転送方式
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968038027520.rdf
+  Title: O10 遺伝的プログラミングによるRARSロボットの探索
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968038046592.rdf
+  Title: 54 並列組合せSS方式の同期追跡法の検討
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968038048128.rdf
+  Title: N3 自然観測係数による時変性信号の解析
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968038049408.rdf
+  Title: 07 多重スケール輝度勾配のベクトル量子化による輪郭の分類
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968038056192.rdf
+  Title: ウェーブレットLiftingを用いた画像の加工
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968038057600.rdf
+  Title: 時空間脳内ダイポールイメージングにおける瞬目アーチファクトの低滅
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968038060032.rdf
+  Title: 気球設置カメラにおける撮影範囲推定
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968038061184.rdf
+  Title: 位相シフトデジタルホログラフィにおける耐振動化の検討
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968038062336.rdf
+  Title: 訪問看護における看護師及び患者情報記録管理システム : GPSシステムとRFIDシステムの統合に関する検討
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968038063488.rdf
+  Title: 人物のアニメーションのための音楽と動作の対応付け
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968038064384.rdf
+  Title: エンドミルによる薄壁形状の高速・高精度加工に関する研究
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968038065536.rdf
+  Title: 視覚障害者の意思を反映した移動経路選択ソフトウェアの開発
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968038067328.rdf
+  Title: 熱源同期回転式SMAヒートエンジンに関する研究
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968038068992.rdf
+  Title: 手動車いすの走行特性と筋電図
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968038070400.rdf
+  Title: スクラッチ試験機による皮膜密着性評価
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968038071552.rdf
+  Title: 連続硬さ試験方式を利用した材料特性評価法の研究
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571968038072960.rdf
+  Title: ベクションをもたらす映像刺激における眼球運動の時間周波数構造
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050572012354850944.rdf
+  Title: Engineering
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050572092304090880.rdf
+  Title: [No. 2]
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050572092304091648.rdf
+  Title: [No. 8]
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050572092308842752.rdf
+  Title: [No. 6]
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050572092308843392.rdf
+  Title: [No. 17]
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050572092313004288.rdf
+  Title: [No. 1]
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050572092313004928.rdf
+  Title: [No. 3]
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050572092313005696.rdf
+  Title: [No. 9]
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050572092313006336.rdf
+  Title: [No. 20]
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050572092317044096.rdf
+  Title: [No. 23]
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050572244982246528.rdf
+  Title: Psyhco-oncology
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050572277304242048.rdf
+  Title: index jpn
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050572277304903680.rdf
+  Title: imprint
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050572321610161152.rdf
+  Title: Foreword
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050572407525916032.rdf
+  Title: SUIKEN
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050572407525994752.rdf
+  Title: [Cover]
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050572407537584768.rdf
+  Title: 電子訴訟の現況と課題
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050572512051825536.rdf
+  Title: Dedication
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050572590091970048.rdf
+  Title: Institutionalization
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050572633047838080.rdf
+  Title: Contents
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050573243107000320.rdf
+  Title: 
+  Abstract: Report
+
+- URI: https://cir.nii.ac.jp/crid/1050573243113625344.rdf
+  Title: foreword
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050573243290606080.rdf
+  Title: Frontcover・Colophon
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050573243326488064.rdf
+  Title: errata
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050573243377999488.rdf
+  Title: Modern Geography
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050573243387293952.rdf
+  Title: 
+  Abstract: ARTICLE
+
+- URI: https://cir.nii.ac.jp/crid/1050573243387294848.rdf
+  Title: 
+  Abstract: ARTICLE
+
+- URI: https://cir.nii.ac.jp/crid/1050573243407829632.rdf
+  Title: Preface
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050573243410295296.rdf
+  Title: CONTENTS
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050573243410299392.rdf
+  Title: CONTENTS
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050573243429633920.rdf
+  Title: コーンビームCTを用いた頭蓋内ステント描出による脳血管内治療支援 (第123回成医会葛飾支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050573407667284992.rdf
+  Title: Annual Report
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050573407698355200.rdf
+  Title: Posting outline
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050573407698767488.rdf
+  Title: モンゴルの壁画に使用された壁画材料分析について
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050573407753617920.rdf
+  Title: Colophon
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050573516045112448.rdf
+  Title: Appendix 2
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050573516045113088.rdf
+  Title: Institute News
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050573560413699712.rdf
+  Title: Colophon
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050573560430018048.rdf
+  Title: 
+  Abstract: ARTICLES
+
+- URI: https://cir.nii.ac.jp/crid/1050573560444470656.rdf
+  Title: 
+  Abstract: ARTICLES
+
+- URI: https://cir.nii.ac.jp/crid/1050573560458317568.rdf
+  Title: Yuan
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050573593434926848.rdf
+  Title: Okuduke
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050573593434927488.rdf
+  Title: Frontcover
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050573593436566912.rdf
+  Title: Frontcover
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050573593437451264.rdf
+  Title: Frontcover
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050573637786930304.rdf
+  Title: 心臓弁形態形成における心内膜由来組織定住型マクロファージの意義と分子制御機構 (第138回成医会総会一般演題)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050573637786932352.rdf
+  Title: 造血幹細胞を標的としたレンチウイルスベクターを用いたGM1ガングリオシドーシスの遺伝子治療法の開発 (第138回成医会総会一般演題)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050573637786935680.rdf
+  Title: 東京慈恵会医科大学附属病院における保険請求の現状と改善点の検討 (第138回成医会総会一般演題)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050573637786942080.rdf
+  Title: 治癒を目指した治療を行った少数転移乳癌の長期予後 (第138回成医会総会一般演題)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050573637786944640.rdf
+  Title: 人間ドック受診者の主観的健康感の特徴と関連する要因 (第138回成医会総会一般演題)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050573637786947200.rdf
+  Title: 医療安全文化調査結果から読み取る東京慈恵会医科大学附属第三病院の現状と課題 (第128回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050573637797613952.rdf
+  Title: 嗅球に潜伏感染したヒトヘルペスウイルス6の炎症誘導作用 (第138回成医会総会一般演題)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050573637797617024.rdf
+  Title: 術前骨格筋量は下咽頭癌切除再建手術後の嚥下機能の既定因子である (第138回成医会総会一般演題)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050573637797620352.rdf
+  Title: 東京慈恵会医科大学附属第三病院における人工膵臓導入の試み (第128回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050573637797628032.rdf
+  Title: 食物経口負荷試験におけるアナフィラキシーと喘息既往の関連 (第128回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050573637806735104.rdf
+  Title: 組織学用Webアプリケーションの開発と実装 (第138回成医会総会一般演題)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050573637806738048.rdf
+  Title: 外来森田療法グループの治療的意義 (第128回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050573637816053376.rdf
+  Title: MECP2遺伝子欠失を伴うRett症候群モデルにおける全脳神経接続の新たな特徴の定義 (第138回成医会総会一般演題)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050573637816055936.rdf
+  Title: 東京慈恵会医科大学附属病院における医療安全文化調査の結果報告 (第138回成医会総会一般演題)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050573637816066048.rdf
+  Title: 3D画像を用いた鼻中隔外鼻形成術を行った軟骨性斜鼻の術後評価 (第138回成医会総会一般演題)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050573637816068864.rdf
+  Title: アトピー性皮膚炎患者のシクロスポリン内服による睡眠改善効果の検討 (第138回成医会総会一般演題)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050573637816072960.rdf
+  Title: ゲノムの安定化におけるリン酸化酵素DYRK2の機能解析 (第138回成医会総会一般演題)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050573637816075264.rdf
+  Title: ポリファーマシー解消に向けた多職種での取り組み (第128回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050573715192432384.rdf
+  Title: Local TV
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050573726393477248.rdf
+  Title: Introduction
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050573825979516160.rdf
+  Title: Cover
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050573870519144192.rdf
+  Title: Cover
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050573947568181888.rdf
+  Title: Foreword
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036205081344.rdf
+  Title: 活動期感染性心内膜炎の外科治療成績とその危険因子の検討 (第32回成医会柏支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036205086720.rdf
+  Title: 個人情報の保護を考える (第32回成医会柏支部例会シンポジウム司会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036205087488.rdf
+  Title: 子宮癌に対する腹腔鏡補助膣式広汎子宮全摘術および術後下肢リンパ浮腫予防手術の開発 (第32回成医会柏支部例会診療部長口演)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036205090176.rdf
+  Title: 特発性低髄液圧症候群の診断と治療 (第93回成医会青戸支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036205093760.rdf
+  Title: Wernicke脳症合併妊娠の2例　（第93回成医会青戸支部例会）
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036205096960.rdf
+  Title: 術中の肺血栓塞栓症の診断と予防 (第95回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036205102848.rdf
+  Title: アトピー性皮膚炎が誘因となり突然四肢麻痺を呈した1例 (第95回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036205105024.rdf
+  Title: ハイテクナビゲーション手術室の構造と機能 (第94回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036205121792.rdf
+  Title: 当院における麻薬の使用状況とオピオイドローテーション (第29回成医会柏支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036205123840.rdf
+  Title: 輸血血液製剤の適正使用に向けた一考察 (第93回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036205175936.rdf
+  Title: 当院における超音波骨折治療器の使用経験 (第91回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036205177088.rdf
+  Title: 薬剤管理指導業務における注射剤指導の現状 (第92回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036205179008.rdf
+  Title: 乳癌脊髄硬膜内転移の6症例 (第120回成医会総会一般演題)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036205186176.rdf
+  Title: 当科における鼻出血症例の臨床的検討 (第92回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036205190400.rdf
+  Title: 舌痛を主訴とした患者の臨床統計 (第91回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036205193472.rdf
+  Title: 当院における呼吸管理の安全対策とリスク回避 (第92回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036205198080.rdf
+  Title: 千葉県立東金病院における女性専用外来のあゆみ (第28回成医会柏支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036205201152.rdf
+  Title: 糖尿病に合併した踵骨骨折を伴った踵骨骨髄炎の1例 (第28回成医会柏支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036205204096.rdf
+  Title: 最近のディスポーザプルコンタクト事情 (第90回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036205209472.rdf
+  Title: 制癌剤点滴無菌調製業務の現状と問題点 (第88回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036205216768.rdf
+  Title: 続発性副甲状腺機能亢進症患者の麻酔 (第88回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036205224960.rdf
+  Title: 栄養部における嚥下障害食の取り組み (第87回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036205229184.rdf
+  Title: 小児科における面接治療外来の実情 (第86回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036205236096.rdf
+  Title: FCRの使用経験について (第27回成医会支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036205242240.rdf
+  Title: 動作可能な骨格筋モデルの開発 (第85回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036205265408.rdf
+  Title: クリニカルパスは何故必要か (第26回成医会柏支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036205266944.rdf
+  Title: 医療情報開示に対応するクリニカルパスの検討 (第26回成医会柏支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036205271552.rdf
+  Title: 当院における過去7年間の精神科兼科患者の動向 (第26回成医会柏支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036205278464.rdf
+  Title: 塩酸モルヒネを使用した持続皮下注入法による術後疼痛管理 (第25回成医会柏支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036210413952.rdf
+  Title: PLANETOCOSMICS
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036219601536.rdf
+  Title: 病理組織申込書の記載における注意点 (第122回成医会総会一般演題)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036219605120.rdf
+  Title: 個人情報の保護を考える (第32回成医会柏支部例会シンポジウム司会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036219607552.rdf
+  Title: 外表先天異常の診断と治療 (第32回成医会柏支部例会診療部長口演)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036219619328.rdf
+  Title: 多剤耐性の淋菌性角結膜炎の1例 (第93回成医会青戸支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036219621760.rdf
+  Title: 中検新システムの紹介 (第93回成医会青戸支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036219634176.rdf
+  Title: イレウスで発症した小腸潰瘍の2例 (第95回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036219643904.rdf
+  Title: 高齢者の顎関節症について (第95回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036219646592.rdf
+  Title: 当科における深頸部膿瘍症例の臨床的検証 (第94回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036219650816.rdf
+  Title: 脳梁脂肪腫と脈絡叢脂肪腫の合併（第94回成医会第三支部例会）
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036219657728.rdf
+  Title: アトピー性皮膚炎由来黄色ブドウ球菌に対するマクロファージおよび線維芽細胞の応答 (第120回成医会総会一般演題)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036219662976.rdf
+  Title: 免疫学的便潜血検査の一考察 (第92回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036219695616.rdf
+  Title: 当院におけるSerratiaの検出状況 (第91回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036219711360.rdf
+  Title: ターミナル期におけるがん性疼痛看護について (第90回成医会青戸支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036219719424.rdf
+  Title: 胆嚢炎を契機に発見された膵管内乳頭腫瘍の1例 (第90回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036219726464.rdf
+  Title: 下顎骨に生じた広範な骨腫の1例 (第87回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036219729408.rdf
+  Title: 卒後年数別にみた看護職の専門性に関する意識 (第88回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036219734528.rdf
+  Title: 第三病院薬剤部における治験薬管理業務の実際 (第88回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036219737600.rdf
+  Title: 悪性腫瘍が疑われた骨盤内放射菌症の1例 (第27回成医会柏支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036219760384.rdf
+  Title: 静脈麻酔薬プロポフォールについて (第85回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036219769472.rdf
+  Title: 治験におけるクリニカルパスを使用した医療スタッフの連携 (第27回成医会柏支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036219790464.rdf
+  Title: 術後膝関節拘縮に対する早期授動術の検討 (第25回成医会柏支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036219838720.rdf
+  Title: 小児看護学実習における人間関係形成過程の要因と検討 (第25回成医会柏支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036219843968.rdf
+  Title: 青戸病院における虚血性脳血管障害患者の動向 (第87回成医会青戸支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036219868032.rdf
+  Title: 二交替勤務のアンケート調査から今後の課題を探る (第24回成医会柏支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036219870336.rdf
+  Title: 脳出血患者の早期自立度予測 (第89回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036234073472.rdf
+  Title: 眼アレルギー疾患について (第94回成医会青戸支部例会メディカルカンファレンス)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036234081408.rdf
+  Title: 紫斑を呈したパルボウイルスB19感染症の成人例 (第93回成医会青戸支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036234084864.rdf
+  Title: 両眼性転移性眼内炎の1例 (第95回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036234088704.rdf
+  Title: 柏地区医師会の医療事故の現状について (第30回成医会柏支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036234099968.rdf
+  Title: 間質性肺炎に合併した横断性脊髄炎の67歳男性例 (第94回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036234103296.rdf
+  Title: 頭部MRIの経時的変化が有用であった脂肪塞栓症候群の1例 (第29回成医会柏支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036234109056.rdf
+  Title: 赤外線腹腔鏡システムを用いたセンチネルノードナビゲーションは腹腔鏡下胃切除術の適応を明確にする (第29回成医会柏支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036234112896.rdf
+  Title: 当院救急受診した自殺企図患者の精神医学的考察 (第29回成医会柏支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036234117376.rdf
+  Title: 青戸病院脳神経外科における脊椎脊髄外傷の検討 (第91回成医会青戸支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036234123264.rdf
+  Title: アレルギー性鼻炎におよぼす寄生虫感染の影響 (第120回成医会総会一般演題)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036234151040.rdf
+  Title: 硬口蓋に発生したアミロイドーシスの1例 (第92回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036234158976.rdf
+  Title: 当院におけるマラリア患者の受診状況 (第120回成医会総会一般演題)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036234164864.rdf
+  Title: 非小細胞肺がん患者における術後の心理的適応と医師のサポートの関係 (第28回成医会柏支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036234168704.rdf
+  Title: 救急隊から見た小児救急 (第28回成医会柏支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036234178048.rdf
+  Title: 栄養指導を実施した糖尿病患者の調査 (第88回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036234181504.rdf
+  Title: シアノアクリレート系接着剤を使用した術後3年目の気管支断端瘻の1症例 (第88回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036234185600.rdf
+  Title: 輸血後急性C型肝炎の1例 (第87回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036234188672.rdf
+  Title: 等倍出力装置導入における一般撮影系の全面CRについて (第88回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036234197760.rdf
+  Title: 直腸肛門機能障害疾患の診断と治療 (第85回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036234201728.rdf
+  Title: 視器症状を呈する副鼻腔嚢胞の臨床的検討 (第86回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036234206592.rdf
+  Title: 業務紹介パンフレット配布の試みと考察 (第86回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036234207872.rdf
+  Title: 種々の止痒法を試みた肝硬変に伴う汎発性皮膚そう痒症の1例 (第86回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036234210944.rdf
+  Title: 非焼灼レーザー光によるヒト肝細胞癌の治療効果 (第27回成医会柏支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036234214784.rdf
+  Title: 糖尿病の母子例 (第86回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036234277888.rdf
+  Title: 看護学生の精神障害者へのイメージの変化 (第27回成医会柏支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036234279680.rdf
+  Title: 仙骨部褥瘡の外科的治療 (第86回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036234282496.rdf
+  Title: オーダリングシステムの現状と今後の展望 (第26回成医会柏支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036234285568.rdf
+  Title: 外傷性MLF症候群の1例 (第26回成医会柏支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036234290048.rdf
+  Title: カンファレンス導入がリハビリテーション進行に及ぼした影響 (第26回成医会柏支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036234292992.rdf
+  Title: 柏病院における治験の現状と問題 (第25回成医会柏支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036234310784.rdf
+  Title: 東京慈恵会医科大学における肺理学療法の問題点について (第87回成医会青戸支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036234314624.rdf
+  Title: 司会 (第24回成医会柏支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036234320896.rdf
+  Title: 子宮体部原発の神経内分泌性小細胞癌4例の細胞学的検討 (第24回成医会柏支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036239206528.rdf
+  Title: Optimized design
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036239255296.rdf
+  Title: TSParticle
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036248087936.rdf
+  Title: 卵巣明細胞腺癌における巨核細胞の存在とその臨床的意義について (第32回成医会柏支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036248091648.rdf
+  Title: 活性酸素センシングシステムを用いた排卵期の卵巣におけるスーパーオキサイドの検出 (第32回成医会柏支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036248097408.rdf
+  Title: 食べものとアレルギーの関係 (第94回成医会青戸支部例会メディカルカンファレンス)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036248099072.rdf
+  Title: 当院における卵巣癌の治療について (第31回成医会柏支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036248102400.rdf
+  Title: ソラマメ摂取後に溶血発作を来したG6PD異常症男児例 (第93回成医会青戸支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036248107776.rdf
+  Title: 多発外傷症例の治療経験 (第30回成医会柏支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036248110592.rdf
+  Title: 子宮体癌に対する化学療法中にWernicke脳症を発症した1例 (第95回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036248114048.rdf
+  Title: 帝王切開後に発症した血栓性血小板減少性紫斑病の1例 (第30回成医会柏支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036248116992.rdf
+  Title: 肥満に伴う腎障害における食事療法の効果 (第95回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036248122752.rdf
+  Title: 僧帽弁と三尖弁に疣贅を認め両弁置換術を施行した感染性心内膜炎の1例 (第94回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036248128000.rdf
+  Title: 2年間の自然経過で縮小を観察し得た肝炎症性偽腫瘍の1例 (第94回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036248134272.rdf
+  Title: 脳出血による脳死状態により帝王切開にて生児を得た1例 (第91回成医会青戸支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036248195072.rdf
+  Title: 当科におけるがん疼痛コントロール (第90回成医会青戸支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036248201984.rdf
+  Title: 抗リン脂質抗体症候群に合併した1型糖尿病の1例 (第90回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036248209152.rdf
+  Title: CTガイドによる肺腫瘍に対する経皮的ラジオ波焼灼治療 (第28回成医会柏支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036248217984.rdf
+  Title: 呼吸器内科医の立場からターミナルケアを考える (第90回成医会青戸支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036248218624.rdf
+  Title: 患者満足度調査結果報告その1
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036248219264.rdf
+  Title: 慢性疼痛患者に対する精神科的アプローチ (第87回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036248220160.rdf
+  Title: そばアレルギーを発症したラテックスフルーツ症候群の1例（第88回成医会第三支部例会）
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036248222976.rdf
+  Title: 当施設で経験した大脳皮質下出血の病態 (第86回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036248226048.rdf
+  Title: 脳卒中片麻痺患者の肩の痛みについて (第86回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036248231040.rdf
+  Title: お薬説明書を活用した服薬指導における患者理解度解析 (第86回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036248281856.rdf
+  Title: 低Ca透析の有用性に関する検討 (第85回成医会第三支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036248289024.rdf
+  Title: 動眼神経麻痺を呈した神経梅毒の1例 (第89回成医会青戸支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036248293504.rdf
+  Title: 新しい医療環境の中でのクリニカルパス (第26回成医会柏支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036248294656.rdf
+  Title: 子宮内膜細胞診にて発見された早期卵管癌の1例 (第25回成医会柏支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036248297728.rdf
+  Title: 耳垢腺癌の1例 (第25回成医会柏支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574036248301184.rdf
+  Title: 病棟スタッフの麻疹罹患の経験 (第87回成医会青戸支部例会)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574047069320576.rdf
+  Title: Notes
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574047071072000.rdf
+  Title: ミリ波帯における360度映像伝送に関する検討
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574047082504960.rdf
+  Title: アルキリンデンシクロプロパンのマイクロ波反応による縮環フラン類の簡便合成
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574047085268224.rdf
+  Title: 
+  Abstract: Presentation
+
+- URI: https://cir.nii.ac.jp/crid/1050574047086868608.rdf
+  Title: Notes
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574047086976128.rdf
+  Title: Correspondence
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574047086986112.rdf
+  Title: Editorial Note
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574047087553664.rdf
+  Title: Foreword
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574047104100608.rdf
+  Title: Notes
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574047104630912.rdf
+  Title: Index
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574047114912384.rdf
+  Title: Forward
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574047119545216.rdf
+  Title: 
+  Abstract: Presentation
+
+- URI: https://cir.nii.ac.jp/crid/1050574047119546624.rdf
+  Title: 
+  Abstract: Presentation
+
+- URI: https://cir.nii.ac.jp/crid/1050574047121142144.rdf
+  Title: Notes
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574047121668352.rdf
+  Title: preface
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574047127088896.rdf
+  Title: Ai volume
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574047131062784.rdf
+  Title: Hitori Solver
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574047131885696.rdf
+  Title: Forward
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574047136832512.rdf
+  Title: ネパールと連携した環境教育コンテンツの開発と実装
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574181243819392.rdf
+  Title: CONTENTS
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574181243821824.rdf
+  Title: Contributors
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574181244070784.rdf
+  Title: INDEX
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574181260525312.rdf
+  Title: Society Transactions
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574201770731008.rdf
+  Title: [Preface]
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574201771121408.rdf
+  Title: Borges & I
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574201771300864.rdf
+  Title: German Music
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574201771907968.rdf
+  Title: Criminal Case
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574201779649920.rdf
+  Title: Amami Nominalizations
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574201783340672.rdf
+  Title: Foreword
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574257159311872.rdf
+  Title: CONTENTS
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574411836559616.rdf
+  Title: The Mass
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574411881577984.rdf
+  Title: Namban Oath
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574411881586816.rdf
+  Title: On "Kokorodo"
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574490537186048.rdf
+  Title: [No. 26]
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574490537188992.rdf
+  Title: [No. 25]
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574655204672512.rdf
+  Title: 新生児期に発見された精巣若年型顆粒膜細胞腫の1例 (症例報告)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574666168413440.rdf
+  Title: Bovine mycoplasmosis
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574798822711680.rdf
+  Title: Author
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050574798822785152.rdf
+  Title: [Contents]
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050575031121749632.rdf
+  Title: Society Transactions
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794816683520.rdf
+  Title: White teeth
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794816714368.rdf
+  Title: Soccer game!
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794816740992.rdf
+  Title: Art chat
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794816756736.rdf
+  Title: Paul Gauguin
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794816758400.rdf
+  Title: Being Healthy
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794816790784.rdf
+  Title: Preaching John
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794816864640.rdf
+  Title: David Beckham
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794816878336.rdf
+  Title: Cell biology
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794816881152.rdf
+  Title: Collected stories
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794816886016.rdf
+  Title: Friendly fire
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794816981376.rdf
+  Title: Enzymic catalysis
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794816982272.rdf
+  Title: Study geography
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794817003776.rdf
+  Title: Personality dynamics
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794817105024.rdf
+  Title: Rock fashion
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794817115520.rdf
+  Title: Business combinations
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794817127808.rdf
+  Title: Furniture design
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794817262592.rdf
+  Title: Carburetor
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794817268224.rdf
+  Title: Housing disrepair
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794817275776.rdf
+  Title: The thief
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794817404800.rdf
+  Title: Quantum theory
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794817424896.rdf
+  Title: Strategic debate
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794817452160.rdf
+  Title: Applied physics
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794817456640.rdf
+  Title: Complex numbers
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794817483008.rdf
+  Title: Jazz
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794817499904.rdf
+  Title: Investment management
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794817500672.rdf
+  Title: Newspapers
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794817532672.rdf
+  Title: British time
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794817541376.rdf
+  Title: The wind
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794817580416.rdf
+  Title: The namesake
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794817608064.rdf
+  Title: Translating Europe
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794817621376.rdf
+  Title: Abbotsford
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794817625600.rdf
+  Title: Frantz Kafka
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794817672960.rdf
+  Title: Butterfly battle
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794817680256.rdf
+  Title: Pharmacotherapy handbook
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794817702656.rdf
+  Title: Guitar music
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794817860352.rdf
+  Title: Automotive mechanics
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794817861120.rdf
+  Title: Lord Jim
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794817871232.rdf
+  Title: Machine learning
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794817902592.rdf
+  Title: 1919
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794817914752.rdf
+  Title: Commondore Hornblower
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794817964416.rdf
+  Title: British palladio
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794818001024.rdf
+  Title: Runaway horses
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794818018432.rdf
+  Title: Dead man
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794818096896.rdf
+  Title: Clinical psychology
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794818204032.rdf
+  Title: Electronic commerce
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794818343424.rdf
+  Title: Cambridge sermons
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794818415232.rdf
+  Title: Administrative report
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794818482944.rdf
+  Title: Naval architecture
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794818580480.rdf
+  Title: Strategic study
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794818582528.rdf
+  Title: Forensic accounting
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794818694784.rdf
+  Title: Geo-electromagnetism
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794818715776.rdf
+  Title: Statistics
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794818735488.rdf
+  Title: Mortgage banking
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794818737024.rdf
+  Title: Teaching adolescents
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794818758144.rdf
+  Title: Pocket nonfic
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794818765312.rdf
+  Title: Human sexuality
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794818809216.rdf
+  Title: White fang
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794818833024.rdf
+  Title: X ray
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794818853504.rdf
+  Title: Cymon
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794818906624.rdf
+  Title: Hedges
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794818925696.rdf
+  Title: Reservoir Geomechanics
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794818960768.rdf
+  Title: Editorial responsibility
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794818964736.rdf
+  Title: King Lear
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794819015552.rdf
+  Title: Hamlet
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794819108736.rdf
+  Title: Visionary spires
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794819122304.rdf
+  Title: Wool growth
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794819136128.rdf
+  Title: Seamen all
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794819163520.rdf
+  Title: Wonder-book
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794819167232.rdf
+  Title: Essay series
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794819255680.rdf
+  Title: Wayward youth
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794819256448.rdf
+  Title: Human ecology
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794819270400.rdf
+  Title: Industrial statistics
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794819358592.rdf
+  Title: Martial arts
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794819367296.rdf
+  Title: African images
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794819379456.rdf
+  Title: Writing Tangier
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794819446016.rdf
+  Title: With--
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794819449088.rdf
+  Title: Quantitative methods
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794819477376.rdf
+  Title: Tourists' Bihar
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794819562240.rdf
+  Title: The magus
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794819566848.rdf
+  Title: Supplementary material
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794819570176.rdf
+  Title: King Alfred
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794819579136.rdf
+  Title: Design focus
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794819589248.rdf
+  Title: Mental reality
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794819590784.rdf
+  Title: Rural essays
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794819596672.rdf
+  Title: Columbus Dancer
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794819602560.rdf
+  Title: Tiepolo
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794819619328.rdf
+  Title: Money
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794819665152.rdf
+  Title: Medicine
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794819666688.rdf
+  Title: Erica
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794819771392.rdf
+  Title: Annual lecture
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794819783296.rdf
+  Title: Fox evil
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794819788672.rdf
+  Title: Four seasons
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794819830656.rdf
+  Title: Eastern Tibet
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794819974016.rdf
+  Title: Baldwin
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794819975552.rdf
+  Title: Thomas Hardy
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794819997312.rdf
+  Title: Dispauperization
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794820086272.rdf
+  Title: Advection-diffusion
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794820155648.rdf
+  Title: Holst
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794820173824.rdf
+  Title: G
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794820215296.rdf
+  Title: Extensions
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794820228608.rdf
+  Title: Jonah
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794820254848.rdf
+  Title: European democracies
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794820275200.rdf
+  Title: Weegee
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794820462080.rdf
+  Title: Romantic masculinities
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794820501632.rdf
+  Title: Quantum electrodynamics
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794820505088.rdf
+  Title: Nasopharyngeal carcinoma
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794820509952.rdf
+  Title: England, England
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794820558592.rdf
+  Title: Crash
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794820559360.rdf
+  Title: Magnetochemistry
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794820560256.rdf
+  Title: Post-mortem
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794820579712.rdf
+  Title: Darkvisions (stories)
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794820627584.rdf
+  Title: Sports dermatology
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794820628480.rdf
+  Title: Europe
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794820674944.rdf
+  Title: Hamlet
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794820721664.rdf
+  Title: Concertos
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794820752128.rdf
+  Title: I hop
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794820844288.rdf
+  Title: Architectural acoustics
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794820869504.rdf
+  Title: The Fireplace
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794820884096.rdf
+  Title: Blue dog
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794820893184.rdf
+  Title: TOEFL strategies
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794820948352.rdf
+  Title: The stowaways
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794820949248.rdf
+  Title: Complex manifolds
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794820952192.rdf
+  Title: Work notes
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794821013504.rdf
+  Title: Green Apple
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794821023360.rdf
+  Title: Understanding environment
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794821046016.rdf
+  Title: Summer session
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794821061504.rdf
+  Title: Cocktail guide
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794821078400.rdf
+  Title: Rosie Dunne
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794821081472.rdf
+  Title: Accounting theory
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794821121152.rdf
+  Title: Analytic geometry
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794821146368.rdf
+  Title: The rainforest
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794821148160.rdf
+  Title: The recognitions
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794821313536.rdf
+  Title: Aryan alphabets
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794821322624.rdf
+  Title: Pediatric allergy
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794821325312.rdf
+  Title: Movie palaces
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794821333888.rdf
+  Title: Warner-Lambert
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794821339264.rdf
+  Title: Blacks
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794821441408.rdf
+  Title: MotionGraphics Web
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794821459456.rdf
+  Title: Orthopedic secrets
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794821512064.rdf
+  Title: Youth
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794821527808.rdf
+  Title: Purim
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794821568128.rdf
+  Title: Gairloch
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794821703296.rdf
+  Title: Trademarks
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794821735808.rdf
+  Title: Ideology
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794821753216.rdf
+  Title: The antiquary
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794821781760.rdf
+  Title: Kafka
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794821795200.rdf
+  Title: Elementary grammar
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794821824384.rdf
+  Title: Wolsey
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794821872512.rdf
+  Title: Chemistry
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794821890432.rdf
+  Title: Collected writings
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794821927808.rdf
+  Title: Smoking
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794821954816.rdf
+  Title: Eldest
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794821964544.rdf
+  Title: Ophthalmic memoranda
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794821969792.rdf
+  Title: Adam Bede
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794822026496.rdf
+  Title: The calculus
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794822057216.rdf
+  Title: Hypopharyngeal cancer
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794822119552.rdf
+  Title: Morphology & syntax
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794822143232.rdf
+  Title: Selected stories
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794822161536.rdf
+  Title: Le Corbusier
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794822169088.rdf
+  Title: Documents
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794822187776.rdf
+  Title: Bulletin
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794822205440.rdf
+  Title: Patrick Henry
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794822221312.rdf
+  Title: Mr. Bridge
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794822225536.rdf
+  Title: Complete waltzes
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794822264064.rdf
+  Title: Poland
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794822458880.rdf
+  Title: Senior mathematics
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794822480640.rdf
+  Title: Sacred choruses
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794822536704.rdf
+  Title: Unwin paperbacks
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794822552448.rdf
+  Title: Adenosine receptors
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794822555392.rdf
+  Title: Global architecture
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794822573184.rdf
+  Title: Coleridge
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794822576768.rdf
+  Title: Statistical thermophysics
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794822583040.rdf
+  Title: The English
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794822593408.rdf
+  Title: Miniature essays
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794822595456.rdf
+  Title: Dio Chrysostom
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794822630272.rdf
+  Title: Agricultural geography
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794822652160.rdf
+  Title: Thermodynamics
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794822653056.rdf
+  Title: Afghanistan
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794822672128.rdf
+  Title: Experimental physiology
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794822677376.rdf
+  Title: Research report
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794822717952.rdf
+  Title: Physical geography
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794822725376.rdf
+  Title: Janaina Tschäpe
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794822775040.rdf
+  Title: Ian Fairweather
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794822785024.rdf
+  Title: Surprise, Angelica!
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794822811648.rdf
+  Title: Death
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794822903552.rdf
+  Title: Piet Mondrian
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794822973696.rdf
+  Title: Cupid & Psyche
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794823001472.rdf
+  Title: Systematic geography
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794823008768.rdf
+  Title: Three plays
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794823009664.rdf
+  Title: The unvanquished
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794823019136.rdf
+  Title: Evelyn Waugh
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794823024896.rdf
+  Title: Quantitative analysis
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794823045376.rdf
+  Title: Screening
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794823058560.rdf
+  Title: Violin concertos
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794823060224.rdf
+  Title: Carcajou
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794823071744.rdf
+  Title: 20 twenty
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794823083904.rdf
+  Title: Master medicine
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794823191936.rdf
+  Title: Sri Kavyalankara
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794823201792.rdf
+  Title: Nagaland
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794823244288.rdf
+  Title: Calder
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794823377664.rdf
+  Title: Plasmids
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794823381632.rdf
+  Title: Marine insurance
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794823387520.rdf
+  Title: Iran
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794823389184.rdf
+  Title: Farm buildings
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794823405952.rdf
+  Title: Govenment studies
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794823425408.rdf
+  Title: Home furnishing
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794823429248.rdf
+  Title: The Brontёs
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794823435904.rdf
+  Title: Viet Nam
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794823522560.rdf
+  Title: Hostage
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794823564928.rdf
+  Title: Tree trunks
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794823581312.rdf
+  Title: Interne publicaties
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794823589760.rdf
+  Title: Abyssinian journey
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794823629440.rdf
+  Title: Malaysia
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794823673344.rdf
+  Title: California gardens
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794823705600.rdf
+  Title: Executive series
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794823746176.rdf
+  Title: Māḍar Bajār
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794823859840.rdf
+  Title: Clever Kate
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794823894016.rdf
+  Title: Helios library
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794823898368.rdf
+  Title: Family gardens
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794823904512.rdf
+  Title: Design volume
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794823915776.rdf
+  Title: Better karate
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794823965056.rdf
+  Title: Forbidden jungle
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794823999104.rdf
+  Title: Oxford memories
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794824070528.rdf
+  Title: Whimwhams
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794824092672.rdf
+  Title: Czech Photography
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794824130304.rdf
+  Title: Mr. Good
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794824239872.rdf
+  Title: Orientalism & history
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794824262784.rdf
+  Title: Requiem
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794824263680.rdf
+  Title: Light sources
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794824272640.rdf
+  Title: Investment management
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794824273280.rdf
+  Title: Henry Fielding
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794824279808.rdf
+  Title: I-psychology
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794824287232.rdf
+  Title: Biostatistical analysis
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794824295424.rdf
+  Title: Selected plays
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794824355200.rdf
+  Title: Bright skies
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794824441216.rdf
+  Title: China
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794824480896.rdf
+  Title: Evolution explained
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794824492032.rdf
+  Title: Complex analysis
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794824517120.rdf
+  Title: Creativity 101
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794824690688.rdf
+  Title: Conveyancing
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794824694656.rdf
+  Title: NIST monograph
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794824714496.rdf
+  Title: John Ford
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794824721408.rdf
+  Title: Introductory physics
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794824746496.rdf
+  Title: Bankura
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794824783360.rdf
+  Title: Grandma Fox
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794824784384.rdf
+  Title: Narratives
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794824807808.rdf
+  Title: Cowpuncher
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794824842240.rdf
+  Title: Smith
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794824868096.rdf
+  Title: Early China
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794824868736.rdf
+  Title: West Germany
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794824927488.rdf
+  Title: Geometry
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794825082240.rdf
+  Title: Hygrothermoelasticity
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794825086720.rdf
+  Title: Current methodology
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794825088384.rdf
+  Title: The Arabs
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794825094656.rdf
+  Title: Human reproduction
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794825118464.rdf
+  Title: Russian philosophy
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794825135488.rdf
+  Title: Bible stories
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794825202560.rdf
+  Title: Macaulay
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794825337472.rdf
+  Title: Racial improvement
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794825342976.rdf
+  Title: Breaking dawn
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794825386752.rdf
+  Title: Austria
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794825419520.rdf
+  Title: Ancestry
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794825533184.rdf
+  Title: The Movement
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794825538944.rdf
+  Title: Particular friendships
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794825544832.rdf
+  Title: Cloud physics
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794825546496.rdf
+  Title: Thought-forms
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794825548032.rdf
+  Title: Pediatric ultrasonography
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794825569920.rdf
+  Title: English essays
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794825596160.rdf
+  Title: Mystery sonatas
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794825623296.rdf
+  Title: UNIVAC system
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794825658880.rdf
+  Title: Faust
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794825710336.rdf
+  Title: Howards End
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794825726336.rdf
+  Title: Community register
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794825752192.rdf
+  Title: DME Handbook
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794825753728.rdf
+  Title: Doctoral dissertations
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794825760640.rdf
+  Title: The goal
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794825764608.rdf
+  Title: Pamphlet
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794825943424.rdf
+  Title: Clinical electromyography
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794825951488.rdf
+  Title: DNA probes
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794825955200.rdf
+  Title: Eastern standard
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794826017664.rdf
+  Title: Quality control
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794826028160.rdf
+  Title: Bulletin
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794826033152.rdf
+  Title: Magnolia Buildings
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794826066560.rdf
+  Title: Santali
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794826093056.rdf
+  Title: Parent education
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794826125824.rdf
+  Title: Why sex?
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794826200064.rdf
+  Title: Angel & demon
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794826215552.rdf
+  Title: Choice
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794826263552.rdf
+  Title: Domestic terrorism
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794826265984.rdf
+  Title: Adam Clarke
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794826359168.rdf
+  Title: The Chukchee
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794826368384.rdf
+  Title: Teaching nutrition
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794826380416.rdf
+  Title: Social problems
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794826385152.rdf
+  Title: De Gaulle
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794826391424.rdf
+  Title: The captive
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794826409216.rdf
+  Title: Budgeting
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794826508800.rdf
+  Title: Dravidian syntax
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794826540672.rdf
+  Title: Two people
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794826581248.rdf
+  Title: Interpreting religion
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794826612096.rdf
+  Title: Therapeutic landscapes
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794826623488.rdf
+  Title: Cooperative plenty
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794826662400.rdf
+  Title: Demand management
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794826680832.rdf
+  Title: Treasure hunt
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794826693888.rdf
+  Title: Tabshir books
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794826702592.rdf
+  Title: Drawn Quarterly
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794826722176.rdf
+  Title: オーストラリアにおける幼児保育・教育の現状と諸問題
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794826731008.rdf
+  Title: Internet histories
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794826743552.rdf
+  Title: Task Force
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794826805248.rdf
+  Title: Developmental psychology
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794826810240.rdf
+  Title: Stormwater modeling
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794826822016.rdf
+  Title: Endocrinology
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794826841216.rdf
+  Title: Noise
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794826852736.rdf
+  Title: Surveying
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794826893440.rdf
+  Title: Electric lighting
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794826896768.rdf
+  Title: American studies
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794826898304.rdf
+  Title: Chronicles
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794826929024.rdf
+  Title: Fluid mechanics
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794826945280.rdf
+  Title: Summer lightning
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794827004544.rdf
+  Title: Cannery Row
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794827029248.rdf
+  Title: John Marin
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794827035136.rdf
+  Title: Brancusi
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794827112576.rdf
+  Title: Maya archaeology
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794827138304.rdf
+  Title: Performing Africa
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794827221504.rdf
+  Title: Bethel merriday
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794827243776.rdf
+  Title: Soviet cinema
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794827253376.rdf
+  Title: Divergent series
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794827277952.rdf
+  Title: Cosmopolitans
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794827279616.rdf
+  Title: Ghost dance
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794827290880.rdf
+  Title: Sea bream
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794827299840.rdf
+  Title: Ideology
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794827312768.rdf
+  Title: Birds & flowers
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794827336448.rdf
+  Title: BOF steelmaking
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794827374592.rdf
+  Title: Standoff
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794827380992.rdf
+  Title: Mortal passion
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794827409280.rdf
+  Title: Environmental monitoring
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794827471360.rdf
+  Title: Akira Miyoshi
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794827496832.rdf
+  Title: Cooperative marketing
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794827510656.rdf
+  Title: Daisen
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794827518720.rdf
+  Title: Shock absorbers
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794827577344.rdf
+  Title: Package illustration
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794827589760.rdf
+  Title: Doing pragmatics
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794827647488.rdf
+  Title: HTD
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794827697664.rdf
+  Title: ATC publication
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794827727744.rdf
+  Title: Neuroanatomy
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794827762688.rdf
+  Title: Complete fencing
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794827765760.rdf
+  Title: Edwin Dickinson
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794827778944.rdf
+  Title: Bharhut
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794827781504.rdf
+  Title: South India
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794827786880.rdf
+  Title: Bleak house
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794827892096.rdf
+  Title: Tract series
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794827900032.rdf
+  Title: Evidence
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794827916672.rdf
+  Title: Flying leathernecks
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794827929216.rdf
+  Title: Always
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794827938048.rdf
+  Title: Improvisations
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794827984256.rdf
+  Title: Zone : 存在しなかった命
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794827994752.rdf
+  Title: Colour
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794828111232.rdf
+  Title: Florence Sabin
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794828113664.rdf
+  Title: Japanese cooking
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794828147200.rdf
+  Title: Engineering economics
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794828148864.rdf
+  Title: Cavalier poets
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794828153728.rdf
+  Title: Adam Bede
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794828180480.rdf
+  Title: Fluid mechanics
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794828222848.rdf
+  Title: Social concern
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794828259328.rdf
+  Title: Nina Sforza
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794828355840.rdf
+  Title: Four studies
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794828390912.rdf
+  Title: Surviving tsunamis
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794828430464.rdf
+  Title: Decadent societies
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794828436480.rdf
+  Title: Economic decisions
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794828547968.rdf
+  Title: CPA reports
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794828577792.rdf
+  Title: Figure skating
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794828597760.rdf
+  Title: Plays two
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794828673664.rdf
+  Title: A melologue
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794828675072.rdf
+  Title: Crusaders
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794828817024.rdf
+  Title: Legal aspects
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794828846592.rdf
+  Title: Australian discovery
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794828851840.rdf
+  Title: Gross anatomy
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794828955904.rdf
+  Title: Managerial economics
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794828961280.rdf
+  Title: United States
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794828962048.rdf
+  Title: Pluto perspectives
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794828984832.rdf
+  Title: Physical geodesy
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794828996864.rdf
+  Title: Stochastic processes
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794829038336.rdf
+  Title: Chemical principles
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794829043072.rdf
+  Title: Wordsworth reference
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794829045376.rdf
+  Title: English style
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794829134208.rdf
+  Title: William Shakespeare
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794829204608.rdf
+  Title: Rome
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794829313408.rdf
+  Title: Köthen/Frankfurt
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794829335808.rdf
+  Title: Birth×Scrap
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794829405056.rdf
+  Title: Micropezidae- agromyzidae
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794829409920.rdf
+  Title: Shakespeare
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794829411968.rdf
+  Title: Hamlet
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794829422208.rdf
+  Title: Marianne Moore
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794829426688.rdf
+  Title: Jorge Amado
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794829448320.rdf
+  Title: Constitutional law
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794829454080.rdf
+  Title: Bentley
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794829495424.rdf
+  Title: American songs
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794829501568.rdf
+  Title: Variations
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794829541504.rdf
+  Title: Practical golf
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794829550848.rdf
+  Title: Microarray analysis
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794829556480.rdf
+  Title: The wanderer
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794829574144.rdf
+  Title: Structural anthropology
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794829704320.rdf
+  Title: Bach crossings
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794829709568.rdf
+  Title: Angel
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794829831168.rdf
+  Title: Life energy
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794829834880.rdf
+  Title: Renovascular hypertension
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794829849600.rdf
+  Title: Archetypal medicine
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794829880448.rdf
+  Title: Henrik Ibsen
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794829900160.rdf
+  Title: William Tyndale
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794829964928.rdf
+  Title: The deipnosophists
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794829987328.rdf
+  Title: Walton
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794829997056.rdf
+  Title: Four winds
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794830009472.rdf
+  Title: Documentation series
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794830257792.rdf
+  Title: Olivia
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794830325760.rdf
+  Title: Constitution 1992
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794830328704.rdf
+  Title: Linear algebra
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794830340224.rdf
+  Title: Technical report
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794830376576.rdf
+  Title: Picturing God
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794830392192.rdf
+  Title: Far Tortuga
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794830441088.rdf
+  Title: The Epiphany
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794830442752.rdf
+  Title: Beginning
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794830475648.rdf
+  Title: Tobacco cessation
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794830501888.rdf
+  Title: Roger Casement
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794830504960.rdf
+  Title: Diophantine Equations
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794830533120.rdf
+  Title: Flag
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794830541184.rdf
+  Title: Jujitsu
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794830606208.rdf
+  Title: Clouds
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794830719232.rdf
+  Title: Cholinesterase
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794830743552.rdf
+  Title: Business economics
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794830744448.rdf
+  Title: Random environments
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794830745216.rdf
+  Title: Dravidian kinship
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794830760576.rdf
+  Title: The sportswriter
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794830771456.rdf
+  Title: Biostatistical analysis
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794830788992.rdf
+  Title: Learning Marathi
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794830815232.rdf
+  Title: Ophthalmology
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794830873216.rdf
+  Title: Servant leadership
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794830899968.rdf
+  Title: Yugoslav
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794830901632.rdf
+  Title: Ceramic processing
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794830918784.rdf
+  Title: Embargoed science
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794830978304.rdf
+  Title: :Relogo
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794831025408.rdf
+  Title: On youth
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794831104640.rdf
+  Title: Monograph series
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794831115008.rdf
+  Title: General anaesthesia
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794831145216.rdf
+  Title: Personal finance
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794831147648.rdf
+  Title: Machine design
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794831154816.rdf
+  Title: Canova
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794831166592.rdf
+  Title: Nine plays
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794831211264.rdf
+  Title: Orchestral works
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794831216512.rdf
+  Title: Agriculture
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794831229568.rdf
+  Title: Architectural acoustics
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794831243136.rdf
+  Title: Symposium series
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794831265152.rdf
+  Title: Interpolation theory
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794831527552.rdf
+  Title: Criminal evidence
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794831542656.rdf
+  Title: Hogup Cave
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794831565440.rdf
+  Title: Grammatica speculativa
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794831570688.rdf
+  Title: The professor
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794831574400.rdf
+  Title: Hodges lectures
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794831623680.rdf
+  Title: Syria, 1957
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794831653376.rdf
+  Title: Green gold
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794831714048.rdf
+  Title: Earthly things
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794831728512.rdf
+  Title: China
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794831735808.rdf
+  Title: Banking frauds
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794831762944.rdf
+  Title: Business essentials
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794831778560.rdf
+  Title: Chemistry
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794831781376.rdf
+  Title: Katrina
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794831804672.rdf
+  Title: Legal linguistics
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794831816064.rdf
+  Title: Yin xu
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794831817088.rdf
+  Title: Faeries
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794831858688.rdf
+  Title: The catalog
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794831959552.rdf
+  Title: Meridian classic
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794831972736.rdf
+  Title: Wooden structures
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794832001792.rdf
+  Title: Product management
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794832015104.rdf
+  Title: UNIMARC handbook
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794832025344.rdf
+  Title: Sexual pharmacology
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794832027392.rdf
+  Title: Chromatographic methods
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794832055040.rdf
+  Title: The assistant
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794832094720.rdf
+  Title: Going home
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794832126208.rdf
+  Title: Model systems
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794832176256.rdf
+  Title: Chippewa customs
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794832241920.rdf
+  Title: Nonlinear analysis
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794832322176.rdf
+  Title: The telephone
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794832329472.rdf
+  Title: Gaurīgañj
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794832389632.rdf
+  Title: Bulletin
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794832391936.rdf
+  Title: International economics
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794832408448.rdf
+  Title: France
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794832454784.rdf
+  Title: Social control
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794832512128.rdf
+  Title: Honolulu story
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794832563328.rdf
+  Title: Individual creations
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794832568192.rdf
+  Title: STD compilation
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794832604544.rdf
+  Title: General endocrinology
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794832629632.rdf
+  Title: Vascular development
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794832826496.rdf
+  Title: Greek women
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794832845824.rdf
+  Title: Macroeconomics
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794832859520.rdf
+  Title: Russia
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794832864896.rdf
+  Title: French
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794832866816.rdf
+  Title: Fundamental virology
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794832908160.rdf
+  Title: New connexions
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794833014656.rdf
+  Title: Dominican Republic
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794833079808.rdf
+  Title: IGCSE Mathematics
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794833087488.rdf
+  Title: Introducing statistics
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794833102336.rdf
+  Title: Hannibal rising
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794833119232.rdf
+  Title: Northcliffe
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794833252864.rdf
+  Title: Pennial library
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794833278080.rdf
+  Title: BIR report
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794833282944.rdf
+  Title: Cecil Rhodes
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794833348736.rdf
+  Title: The Internet
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794833350272.rdf
+  Title: Waterfront : homes
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794833356416.rdf
+  Title: Deleuze
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794833397888.rdf
+  Title: Dryden
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794833422336.rdf
+  Title: Romans-Ephesians
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794833447808.rdf
+  Title: Referring
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794833448576.rdf
+  Title: Ecotourism
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794833483264.rdf
+  Title: Witch world
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794833508864.rdf
+  Title: Ostrov Genriyetta
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794833545472.rdf
+  Title: Peter Pan
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794833548928.rdf
+  Title: Mohŏro
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794833556736.rdf
+  Title: Scientific inference
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794833732736.rdf
+  Title: Asia
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794833738752.rdf
+  Title: Human destiny
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794833750400.rdf
+  Title: The poems
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794833751424.rdf
+  Title: Ordinary people
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794833752192.rdf
+  Title: The Cappadocians
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794833763200.rdf
+  Title: Descriptive geometry
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794833766272.rdf
+  Title: Mocking desire
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794833802368.rdf
+  Title: Savage bride
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794833924608.rdf
+  Title: The numerati
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794833927808.rdf
+  Title: Statistical misconceptions
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794834022912.rdf
+  Title: Denmark
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794834110464.rdf
+  Title: Basohli painting
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794834132096.rdf
+  Title: Full moon
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794834145280.rdf
+  Title: Persian cuisine
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794834146816.rdf
+  Title: Molecular geometry
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794834161920.rdf
+  Title: Gas carriers
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794834164096.rdf
+  Title: Miami
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794834200832.rdf
+  Title: Minisink battle
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794834260096.rdf
+  Title: Malacca coins
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794834291840.rdf
+  Title: Floods
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794834301824.rdf
+  Title: Everyday English
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794834332800.rdf
+  Title: War
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794834345216.rdf
+  Title: Teaching notes
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794834373504.rdf
+  Title: Wagner
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794834380800.rdf
+  Title: The peonies
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794834397824.rdf
+  Title: Subodh Gupta
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794834407552.rdf
+  Title: The umbrella
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794834420480.rdf
+  Title: Safety first
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794834426112.rdf
+  Title: Geometry
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794834521600.rdf
+  Title: The apostle
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794834543104.rdf
+  Title: Dental morphology
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794834546176.rdf
+  Title: Lightning
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794834619008.rdf
+  Title: Bulletin
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794834682496.rdf
+  Title: Twice lost
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794834686848.rdf
+  Title: Secretarial skills
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794834702848.rdf
+  Title: Niagara Falls
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794834756864.rdf
+  Title: Slovenia
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794834760192.rdf
+  Title: OCAMI Studies
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794834774400.rdf
+  Title: Pennsylvania breweries
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794834821120.rdf
+  Title: Tuck everlasting
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794834824960.rdf
+  Title: Nobel minds
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794834845824.rdf
+  Title: Moon squadron
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794834886528.rdf
+  Title: Keyboard collection
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794834955776.rdf
+  Title: Siberia
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794834965248.rdf
+  Title: Nationalism
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794834969216.rdf
+  Title: Andrew Marvell
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794834971392.rdf
+  Title: Bīrbhūm
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794834993664.rdf
+  Title: China Lake
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794835003008.rdf
+  Title: Astronomy
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794835061120.rdf
+  Title: Italian adventure
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794835072512.rdf
+  Title: John Lautner
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794835112704.rdf
+  Title: On Kawara
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794835114752.rdf
+  Title: Streets ahead
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794835131648.rdf
+  Title: Just intervention
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794835435392.rdf
+  Title: Gene targeting
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794835448576.rdf
+  Title: Asthma
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794835462656.rdf
+  Title: The uprooted
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794835466624.rdf
+  Title: プリンスパープル・レイン
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794835472128.rdf
+  Title: The brassbounder
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794835474432.rdf
+  Title: King Lear
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794835545856.rdf
+  Title: Aarbert
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794835588480.rdf
+  Title: Maps
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794835613056.rdf
+  Title: Malayan monochromes
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794835624704.rdf
+  Title: Lesley Richmond
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794835700096.rdf
+  Title: Islamic constitutoin
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794835704064.rdf
+  Title: Lee Bul
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794835707136.rdf
+  Title: EU law
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794835733632.rdf
+  Title: B Flight
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794835824768.rdf
+  Title: Computer sorting
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794835848960.rdf
+  Title: Rabelais revisited
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794835988608.rdf
+  Title: Mandan grammar
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794835993088.rdf
+  Title: Fertility tables
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794835997184.rdf
+  Title: You
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794836052608.rdf
+  Title: Tank too
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794836057600.rdf
+  Title: New moon
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794836061568.rdf
+  Title: Rapunzel
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794836074112.rdf
+  Title: Hearing Disorders
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794836140416.rdf
+  Title: Media & crime
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794836242816.rdf
+  Title: Fishing
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794836251136.rdf
+  Title: Schizomycetic fermentation
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794836254976.rdf
+  Title: Surveying
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794836279552.rdf
+  Title: Child development
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794836280832.rdf
+  Title: The coast
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794836290304.rdf
+  Title: Gwelygordd
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794836349312.rdf
+  Title: Political economy
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794836412032.rdf
+  Title: Venture inward
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794836419584.rdf
+  Title: Selected compositions
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794836428288.rdf
+  Title: Football
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794836466560.rdf
+  Title: Countryside-Obitsu
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794836499200.rdf
+  Title: Mesoamerican studies
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794836536576.rdf
+  Title: Typee
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794836537216.rdf
+  Title: New England
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794836595712.rdf
+  Title: Middlemarch
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794836596608.rdf
+  Title: Carried Away
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794836665984.rdf
+  Title: An autobiography
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794836671360.rdf
+  Title: Silent language
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794836675200.rdf
+  Title: Jeremiah
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794836688000.rdf
+  Title: Surgical endodontics
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794836695936.rdf
+  Title: Epistles
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794836700672.rdf
+  Title: Going places
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794836704512.rdf
+  Title: Polarization bremsstrahlung
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794836758272.rdf
+  Title: John Knox
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794836760704.rdf
+  Title: Various songs
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794836766720.rdf
+  Title: Taras Bulba
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794836771712.rdf
+  Title: Forming
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794836788864.rdf
+  Title: Southeast Asia
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794836793984.rdf
+  Title: Prague
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794836803328.rdf
+  Title: Gentleman riches
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794836918912.rdf
+  Title: Employment law
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794836925824.rdf
+  Title: Remarkable biologists
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794837025664.rdf
+  Title: Nonimaging optics
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794837087872.rdf
+  Title: Medical jurisprudence
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794837099776.rdf
+  Title: Pablo Picasso
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794837108480.rdf
+  Title: Buddhist logic
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794837128960.rdf
+  Title: Ben Jonson
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794837143808.rdf
+  Title: Dragon tears
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794837184256.rdf
+  Title: NLTT catalogue
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794837186688.rdf
+  Title: Wuthering heights
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794837191296.rdf
+  Title: Transportation code
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794837217152.rdf
+  Title: White poppies
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794837279488.rdf
+  Title: The crying
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794837293056.rdf
+  Title: Movement exercises
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794837294592.rdf
+  Title: Mystery valley
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794837325312.rdf
+  Title: Cavendish lawmaps
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794837401984.rdf
+  Title: Annual report
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794837452800.rdf
+  Title: Qatar 2017
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794837532160.rdf
+  Title: Border city
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794837572736.rdf
+  Title: Chemical microbiology
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794837623680.rdf
+  Title: Batter up
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794837640448.rdf
+  Title: Cello suites
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794837652608.rdf
+  Title: Contemporary Iran
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794837679488.rdf
+  Title: In Patagonia
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794837689600.rdf
+  Title: Occasional paper
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794837708032.rdf
+  Title: Majorca
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794837738752.rdf
+  Title: Bibleworld
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794837873920.rdf
+  Title: Thermal sensors
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794837983232.rdf
+  Title: Botchan
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794838009216.rdf
+  Title: Blood shot
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794838040064.rdf
+  Title: Modern plays
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794838084864.rdf
+  Title: Solvents
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794838090624.rdf
+  Title: Flat Stanley
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794838093568.rdf
+  Title: My Mountains
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794838105600.rdf
+  Title: Hatchery management
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794838113536.rdf
+  Title: Earthworms
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794838123904.rdf
+  Title: Ratios & percents
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794838138624.rdf
+  Title: Ethics
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794838171776.rdf
+  Title: Kailash, Manasarovara
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794838189824.rdf
+  Title: Oracle night
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794838318464.rdf
+  Title: Marvels
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794838403712.rdf
+  Title: Spain
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794838404608.rdf
+  Title: Lucile
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794838410752.rdf
+  Title: Science primers
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794838429696.rdf
+  Title: Selected poems
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794838585344.rdf
+  Title: Chinese painting
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794838652032.rdf
+  Title: Project Omega
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794838692480.rdf
+  Title: 近未来戦争小説の起源
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794838702080.rdf
+  Title: The english
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794838733696.rdf
+  Title: Financial accounting
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794838745472.rdf
+  Title: Routledge recommends
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794838751872.rdf
+  Title: Misunderstanding media
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794838845312.rdf
+  Title: Sketches
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794838854144.rdf
+  Title: Shelter
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794838859008.rdf
+  Title: Trinity paper
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794838887168.rdf
+  Title: Report
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794838924672.rdf
+  Title: Schumann
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794839037440.rdf
+  Title: Clinical bacteriology
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794839041536.rdf
+  Title: Industrial training
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794839057792.rdf
+  Title: Credit transactions
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794839068544.rdf
+  Title: Child welfare
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794839073536.rdf
+  Title: Peru
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794839102592.rdf
+  Title: Measuring poverty
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794839189888.rdf
+  Title: Topological ideas
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794839260928.rdf
+  Title: Gompers
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794839262720.rdf
+  Title: Still life
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794839272064.rdf
+  Title: Great immigrants
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794839280640.rdf
+  Title: Political history
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794839326080.rdf
+  Title: Marching men
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794839371264.rdf
+  Title: Ethics
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794839408384.rdf
+  Title: Darksong rising
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794839413376.rdf
+  Title: Signature books
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794839486720.rdf
+  Title: The Queenslander
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794839489792.rdf
+  Title: Trees
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794839516544.rdf
+  Title: Overshot weaving
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794839526784.rdf
+  Title: Prospectus
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794839614848.rdf
+  Title: Oils
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794839674240.rdf
+  Title: Psychiatric studies
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794839683584.rdf
+  Title: Jeremiah
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794839686528.rdf
+  Title: Approval voting
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794839709568.rdf
+  Title: Chemotherapia
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794839778048.rdf
+  Title: Scripta geologica
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794839783168.rdf
+  Title: Research paper
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794839792768.rdf
+  Title: Portugal
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794839805696.rdf
+  Title: Jean Racine
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794839856000.rdf
+  Title: Betoi
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794839866752.rdf
+  Title: XML hacks
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794839903360.rdf
+  Title: Vaidyasārasaṅgraham
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794839950208.rdf
+  Title: Teleophthalmology
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794839952000.rdf
+  Title: Another sheaf
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794839966208.rdf
+  Title: Ultrasound
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794839980160.rdf
+  Title: Deserts
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794839988864.rdf
+  Title: Privatizing libraries
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794840047616.rdf
+  Title: Foundations
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794840104832.rdf
+  Title: Portraying analogy
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794840110848.rdf
+  Title: Vascular surgery
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794840113408.rdf
+  Title: Advanced calculus
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794840124160.rdf
+  Title: George Moore
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794840158976.rdf
+  Title: Doctor Thorne
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794840175872.rdf
+  Title: Masses
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794840204032.rdf
+  Title: Fools Crow
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794840213760.rdf
+  Title: Racism
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794840216320.rdf
+  Title: Love
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794840226688.rdf
+  Title: Indonesia
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794840229888.rdf
+  Title: Advanced macroeconomics
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794840271872.rdf
+  Title: Collected poems
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794840279808.rdf
+  Title: Deltora quest
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794840295168.rdf
+  Title: Successful retirement
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794840317184.rdf
+  Title: [The] antiquary
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794840339840.rdf
+  Title: A bibliography
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794840347008.rdf
+  Title: Viva Mexico!
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794840534528.rdf
+  Title: Existentialism
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794840546816.rdf
+  Title: The phoenix
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794840554496.rdf
+  Title: Analytical biochemistry
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794840569984.rdf
+  Title: King Lear
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794840661888.rdf
+  Title: Comprehensive achievement
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794840703616.rdf
+  Title: Oxon
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794840725504.rdf
+  Title: Introductory chemistry
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794840781056.rdf
+  Title: Ghost stories
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794840807680.rdf
+  Title: Komandorskiye Ostrova
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794840861056.rdf
+  Title: Knowledge essentials
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794840894080.rdf
+  Title: AKIRA
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794840953984.rdf
+  Title: Discipline
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794840954752.rdf
+  Title: Stereological methods
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794840958720.rdf
+  Title: Teacher assessment
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794840991488.rdf
+  Title: Modern languages
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794840995840.rdf
+  Title: Intravascular catheterization
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794841000192.rdf
+  Title: Bockus Gastroenterology
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794841012480.rdf
+  Title: Anastasius
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794841014144.rdf
+  Title: Changing scenes
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794841042432.rdf
+  Title: Hearsay handbook
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794841114752.rdf
+  Title: Nell Gwynne
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794841123200.rdf
+  Title: No cards
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794841138304.rdf
+  Title: Sign design
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794841155968.rdf
+  Title: The spectacle
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794841177856.rdf
+  Title: Grandma Moses
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794841212160.rdf
+  Title: Architectural forensics
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794841226368.rdf
+  Title: Agricultural cooperation
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794841293184.rdf
+  Title: Vanessa Safavi
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794841299584.rdf
+  Title: Meet Paddington
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794841385216.rdf
+  Title: Pediatric orthopedics
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794841407616.rdf
+  Title: Cell ultrastructure
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794841409792.rdf
+  Title: Apocalypse
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794841417472.rdf
+  Title: Managerial economics
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794841430528.rdf
+  Title: Earth oil
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794841442944.rdf
+  Title: Chagatay manual
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794841445504.rdf
+  Title: Toulouse-Lautrec
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794841460352.rdf
+  Title: Nootka
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794841527552.rdf
+  Title: Samui & Phangan
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794841537024.rdf
+  Title: Best sermons
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794841675904.rdf
+  Title: Silas Marner
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794841814400.rdf
+  Title: Behaviour
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794841836416.rdf
+  Title: Othello
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794841858560.rdf
+  Title: Uganda
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794841877376.rdf
+  Title: Cops = キートンの警官騒動
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794841892608.rdf
+  Title: BioTechniques books
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794841914880.rdf
+  Title: Gipsy languages
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794841954688.rdf
+  Title: Yoma
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794841974272.rdf
+  Title: Mayanni
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794841993472.rdf
+  Title: Descriptive geometry
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794842017920.rdf
+  Title: Neurosurgical operations
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794842070656.rdf
+  Title: Engineering success
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794842090112.rdf
+  Title: Sisters
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794842146944.rdf
+  Title: Niagara Falls
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794842149888.rdf
+  Title: Treasure Island
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794842153984.rdf
+  Title: Biohydrogen
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794842274816.rdf
+  Title: Gestalt psychology
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794842329600.rdf
+  Title: Modular arithmetic
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794842430976.rdf
+  Title: Summer lightning
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794842443520.rdf
+  Title: Global librarianship
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794842555136.rdf
+  Title: Lorna Doone
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794842565120.rdf
+  Title: Synergy
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794842590848.rdf
+  Title: DoodleBob
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794842603520.rdf
+  Title: Nelson juniors
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794842604672.rdf
+  Title: Decision making
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794842680448.rdf
+  Title: Education
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794842707968.rdf
+  Title: Zapotec women
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794842720256.rdf
+  Title: Emma
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794842736512.rdf
+  Title: Lucky Chuck
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794842753536.rdf
+  Title: Alexander Pope
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794842756096.rdf
+  Title: German simplified
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794842781696.rdf
+  Title: Tokyo designers
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794842847488.rdf
+  Title: So hungry!
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794842850048.rdf
+  Title: Thomas Dekker
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794842877312.rdf
+  Title: Clocks
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794842911616.rdf
+  Title: Piano duets
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794842948352.rdf
+  Title: American primitive
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794843035776.rdf
+  Title: Riverside Park
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794843117184.rdf
+  Title: Studia Aristotelica
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794843145088.rdf
+  Title: Summer half
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794843155712.rdf
+  Title: Barbary shore
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794843157248.rdf
+  Title: Dante studies
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794843330432.rdf
+  Title: Piano pieces
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794843383680.rdf
+  Title: Algebra
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794843410304.rdf
+  Title: Professors' guide
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794843424256.rdf
+  Title: CAMinfo
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794843565568.rdf
+  Title: The symphony
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794843585152.rdf
+  Title: Samuel Richardson
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794843589760.rdf
+  Title: My American
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794843610112.rdf
+  Title: Free radicals
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794843614080.rdf
+  Title: Rodents
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794843626880.rdf
+  Title: Water boatman
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794843767040.rdf
+  Title: Dotty definitions
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794843826048.rdf
+  Title: Radio plays
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794843829888.rdf
+  Title: Alois
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794843836032.rdf
+  Title: Yearbook 2010
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794843866880.rdf
+  Title: The property
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794843872000.rdf
+  Title: Graceland book
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794843872640.rdf
+  Title: Classic collection
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794843996800.rdf
+  Title: PDQ pharmacology
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794843999232.rdf
+  Title: Torts
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794844004864.rdf
+  Title: Personality assessment
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794844016896.rdf
+  Title: Advertising terminology
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794844036736.rdf
+  Title: The issues
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794844043776.rdf
+  Title: Polymer additives
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794844060288.rdf
+  Title: China today
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794844064512.rdf
+  Title: Socialist books
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794844126208.rdf
+  Title: Cuban communism
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794844130944.rdf
+  Title: Westward ho!
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794844143360.rdf
+  Title: Rapidan
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794844202368.rdf
+  Title: SSRC/SERP
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794844238848.rdf
+  Title: Starters
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794844297856.rdf
+  Title: Visual ecology
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794844396544.rdf
+  Title: Pesticides
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794844399744.rdf
+  Title: Sinhalese literature
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794844435840.rdf
+  Title: Bad love
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794844450560.rdf
+  Title: HIL dissertations
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794844485760.rdf
+  Title: Wickford Point
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794844550272.rdf
+  Title: Postverbal behavior
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794844553856.rdf
+  Title: Mysterious Japan
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794844577280.rdf
+  Title: Mandibulata
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794844624768.rdf
+  Title: Rusumo Falls
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794844688768.rdf
+  Title: Medieval music
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794844769024.rdf
+  Title: Financial accounting
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794844835072.rdf
+  Title: Mister Punch
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794844836608.rdf
+  Title: The waterfall
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794844870656.rdf
+  Title: Titus Andronicus
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794844889472.rdf
+  Title: The Timucua
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794844906240.rdf
+  Title: The Edwardians
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794844955776.rdf
+  Title: Neurobehavioural disorders
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794845012480.rdf
+  Title: Hereford
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794845042944.rdf
+  Title: Fra Angelico
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794845077248.rdf
+  Title: Samuel Cunard
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794845114112.rdf
+  Title: Forensic dentistry
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794845263744.rdf
+  Title: Teachers' work
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794845272320.rdf
+  Title: Alcoholic beverages
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794845283968.rdf
+  Title: Nathaniel Hawthorne
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794845301376.rdf
+  Title: Retail merchandising
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794845314944.rdf
+  Title: Gentians
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794845349632.rdf
+  Title: Ireland
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794845374336.rdf
+  Title: Business handwriting
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794845377920.rdf
+  Title: Focus listening
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794845543936.rdf
+  Title: Cell death
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794845612288.rdf
+  Title: South Asia
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794845706112.rdf
+  Title: Infrared astronomy
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794845712128.rdf
+  Title: Ethics
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794845727616.rdf
+  Title: Radiochemistry
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794845754752.rdf
+  Title: Emergency
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794845819648.rdf
+  Title: Formal logic
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794845825664.rdf
+  Title: Hampstead Heath
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794845831168.rdf
+  Title: Georgia boy
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794845853440.rdf
+  Title: Gabriel Orozco
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794845863680.rdf
+  Title: Solanaceae
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794845872384.rdf
+  Title: Richard Rorty
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794845875584.rdf
+  Title: Ernest Hemingway
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794845921792.rdf
+  Title: Lothal
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794845987712.rdf
+  Title: Running wild
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794845995136.rdf
+  Title: Russia
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794846059008.rdf
+  Title: Marion
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794846141312.rdf
+  Title: Barbarian Europe
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794846172160.rdf
+  Title: Roman holiday
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794846239488.rdf
+  Title: Penrod
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794846296448.rdf
+  Title: Fog island
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794846332032.rdf
+  Title: e-Business
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794846382208.rdf
+  Title: Henry Pellatt
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794846599680.rdf
+  Title: Privatisation series
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794846604672.rdf
+  Title: Oceanography
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794846613504.rdf
+  Title: Combustion fundamentals
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794846628992.rdf
+  Title: Authority
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794846693504.rdf
+  Title: Roland Barthes
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794846744320.rdf
+  Title: Hotel reception
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794846782208.rdf
+  Title: Java tea
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794846798592.rdf
+  Title: Grunewald
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794846827392.rdf
+  Title: Kabbalah
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794846853248.rdf
+  Title: Fables
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794846891136.rdf
+  Title: Vienna
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794846917376.rdf
+  Title: Clinical negligence
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794846990976.rdf
+  Title: Immunopotentiation
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794847025536.rdf
+  Title: Joseph Conrad
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794847047040.rdf
+  Title: Brecht unbound
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794847050496.rdf
+  Title: Commercial law
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794847053440.rdf
+  Title: Nursing calculations
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794847097984.rdf
+  Title: Black Borneo
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794847113600.rdf
+  Title: Engineering statistics
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794847122944.rdf
+  Title: Annual report
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794847135616.rdf
+  Title: Robinson Crusoe
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794847178624.rdf
+  Title: Poems
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794847180160.rdf
+  Title: Complete sonatas
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794847183872.rdf
+  Title: Wild ginger
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794847228928.rdf
+  Title: Rosemary
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794847241728.rdf
+  Title: Workshop organization
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794847249152.rdf
+  Title: Buddhism
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794847262720.rdf
+  Title: Ring
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794847298176.rdf
+  Title: Flora Britannica
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794847347712.rdf
+  Title: Truth
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794847414912.rdf
+  Title: Buddhism
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794847420416.rdf
+  Title: Sales Occupations
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794847460480.rdf
+  Title: Moon mouse
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794847476864.rdf
+  Title: Turkish miniatures
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794847486080.rdf
+  Title: Protestantism
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794847502080.rdf
+  Title: Optimum management
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794847563904.rdf
+  Title: South West
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794847607424.rdf
+  Title: This peace
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794847652352.rdf
+  Title: Nessun dorma
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794847657856.rdf
+  Title: Felicia
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794847663488.rdf
+  Title: Blue cows!
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794847841152.rdf
+  Title: Quodlibet
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794847879168.rdf
+  Title: Molecular neuropathology
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794847881600.rdf
+  Title: Special report
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794847886848.rdf
+  Title: Thrombosis
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794847904000.rdf
+  Title: Profiles
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794847907840.rdf
+  Title: Sane currency
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794847909376.rdf
+  Title: Little women
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794847984896.rdf
+  Title: Understanding preschoolers
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794848008192.rdf
+  Title: Mushrooms & Toadstools
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794848036480.rdf
+  Title: Kashmir
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794848043776.rdf
+  Title: Blaze!
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794848060288.rdf
+  Title: Processionals ; Scripturals
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794848123520.rdf
+  Title: Symphonic variations
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794848139648.rdf
+  Title: Recto/verso
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794848155264.rdf
+  Title: Thomas Carlyle
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794848158080.rdf
+  Title: Manabu Chiba
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794848161792.rdf
+  Title: Treasures
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794848267904.rdf
+  Title: Antiquities
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794848273408.rdf
+  Title: Chitin
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794848279040.rdf
+  Title: Electronic measurements
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794848372608.rdf
+  Title: The Europeans
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794848454400.rdf
+  Title: Jason Pollen
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794848486784.rdf
+  Title: Bicycling books
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794848513664.rdf
+  Title: Walpole
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794848558976.rdf
+  Title: Auditing
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794848603392.rdf
+  Title: External support
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794848610816.rdf
+  Title: Beginning android
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794848691584.rdf
+  Title: Enchiridion
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794848694272.rdf
+  Title: Korea
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794848695168.rdf
+  Title: Poultry husbandry
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794848707456.rdf
+  Title: Biochemistry
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794848713600.rdf
+  Title: Meat science
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794848721152.rdf
+  Title: Bund options
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794848758528.rdf
+  Title: Tsurezuregusa
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794848776320.rdf
+  Title: The children
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794848779264.rdf
+  Title: Living processes
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794848822784.rdf
+  Title: Living arithmetic
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794848824448.rdf
+  Title: Discussion papers
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794848832000.rdf
+  Title: Macbeth
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794848837888.rdf
+  Title: Papillon
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794848851328.rdf
+  Title: Silverhair
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794848897408.rdf
+  Title: Patrice Peŕiot
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794848948352.rdf
+  Title: Astronomy
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794849003904.rdf
+  Title: M. Vainberg
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794849017728.rdf
+  Title: Experimental psychology
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794849025152.rdf
+  Title: High point
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794849136384.rdf
+  Title: I-VI
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794849192064.rdf
+  Title: Dreamtime
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794849250176.rdf
+  Title: Pocahontas
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794849251968.rdf
+  Title: Strongylata
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794849369088.rdf
+  Title: Hindu horseman
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794849409024.rdf
+  Title: Camouflage uniforms
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794849461888.rdf
+  Title: Siddhartha
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794849569792.rdf
+  Title: Thermal analysis
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794849573760.rdf
+  Title: Ocean science
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794849602816.rdf
+  Title: Numbers
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794849612160.rdf
+  Title: Strange orbit
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794849644160.rdf
+  Title: Experts' corner
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794849652992.rdf
+  Title: Buchanan
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794849660800.rdf
+  Title: Engineering aerodynamics
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794849689984.rdf
+  Title: Indexes
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794849704704.rdf
+  Title: Mongolian songs
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794849909248.rdf
+  Title: Orchestral favorites
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794849982848.rdf
+  Title: Anne Boleyn
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794849990656.rdf
+  Title: Egypt
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794850005760.rdf
+  Title: Victorian novelists
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794850014080.rdf
+  Title: Calculus
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794850016512.rdf
+  Title: General metals
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794850019584.rdf
+  Title: John Ford
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794850031872.rdf
+  Title: Such times
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794850033536.rdf
+  Title: Introductory guidance
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794850109184.rdf
+  Title: Childhood depression
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794850113152.rdf
+  Title: Americana
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794850120576.rdf
+  Title: Correggio
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794850142208.rdf
+  Title: Tewa tales
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794850164992.rdf
+  Title: Highland widow
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794850196736.rdf
+  Title: Technical report
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794850340480.rdf
+  Title: Household medicines
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794850409216.rdf
+  Title: Europe/America
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794850409856.rdf
+  Title: Cell patterning
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794850453888.rdf
+  Title: Eminent Victorians
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794850489728.rdf
+  Title: Wills
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794850583552.rdf
+  Title: Hopscotch
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794850610688.rdf
+  Title: Enterprise
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794850640000.rdf
+  Title: Random thoughts
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794850645376.rdf
+  Title: Humid landforms
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794850648448.rdf
+  Title: Nelson Goodman
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794850701568.rdf
+  Title: Sarojini Naidu
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794850747904.rdf
+  Title: Macroeconomics
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794850855040.rdf
+  Title: The earth
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794850858240.rdf
+  Title: Psychiatric ethics
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794850869632.rdf
+  Title: Basic microbiology
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794850907136.rdf
+  Title: Pump manual
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794850991104.rdf
+  Title: Lenten music
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794851008768.rdf
+  Title: The dowager
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794851164544.rdf
+  Title: Guernsey 2013
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794851175296.rdf
+  Title: Money
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794851268608.rdf
+  Title: Chromatographic methods
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794851275392.rdf
+  Title: Trips abroad
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794851313152.rdf
+  Title: Flying start
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794851325440.rdf
+  Title: Exodus
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794851331584.rdf
+  Title: Aeronautical dictionary
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794851351808.rdf
+  Title: Cybernetics simplified
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794851422208.rdf
+  Title: Human papillomaviruses
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794851456000.rdf
+  Title: Monograph
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794851514496.rdf
+  Title: Badcat
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794851518720.rdf
+  Title: Sarpaneva
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794851532928.rdf
+  Title: Perfect paper
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794851541760.rdf
+  Title: Speed queens
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794851574016.rdf
+  Title: Gastric surgery
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794851589888.rdf
+  Title: Altaic epos
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794851695104.rdf
+  Title: Shinonome
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794851703808.rdf
+  Title: Affinity chromatography
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794851727360.rdf
+  Title: Beginning reading
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794851728000.rdf
+  Title: Pinball
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794851731840.rdf
+  Title: Lorna Doone
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794851753856.rdf
+  Title: Three revolutions
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794851799680.rdf
+  Title: Sublime Poussin
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794851852160.rdf
+  Title: African biography
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794852022272.rdf
+  Title: Basics design
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794852049920.rdf
+  Title: Middle English
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794852054912.rdf
+  Title: Studioworks 10
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794852056320.rdf
+  Title: Prehistoric roots
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794852140032.rdf
+  Title: Cultural anthropology
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794852150016.rdf
+  Title: Towards socialism
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794852156672.rdf
+  Title: Rediscovered masterpieces
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794852227840.rdf
+  Title: Polar flight
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794852250752.rdf
+  Title: Rodney stone
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794852291968.rdf
+  Title: Erewhon
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794852342400.rdf
+  Title: Integrating Zooarchaeology
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794852388352.rdf
+  Title: Physics
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794852554880.rdf
+  Title: The titan
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794852577664.rdf
+  Title: Folk medicine
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794852593664.rdf
+  Title: Porous silicon
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794852595840.rdf
+  Title: Literary women
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794852596480.rdf
+  Title: Immunizing children
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794852663424.rdf
+  Title: Joseph Cornell
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794852703616.rdf
+  Title: Education Code
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794852741504.rdf
+  Title: Selected poems
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794852756736.rdf
+  Title: FF plays
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794852767104.rdf
+  Title: Guild books
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794852794368.rdf
+  Title: Fahrenheit 451
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794852805248.rdf
+  Title: Magic windows
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794852808064.rdf
+  Title: Zulu poems
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794852852224.rdf
+  Title: Dream variations
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794852864896.rdf
+  Title: Milton
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794852974208.rdf
+  Title: Management cases
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794852998272.rdf
+  Title: Ludwig Lewisohn
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794853009664.rdf
+  Title: Richard II
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794853014016.rdf
+  Title: Swimming
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794853026944.rdf
+  Title: Revolutionary path
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794853040256.rdf
+  Title: Addison
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794853041792.rdf
+  Title: The antiquary
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794853067776.rdf
+  Title: The pirate
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794853077632.rdf
+  Title: Modern house
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794853090048.rdf
+  Title: Selected poems
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794853128192.rdf
+  Title: Timeless management
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794853137920.rdf
+  Title: Pavane
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794853169408.rdf
+  Title: Piano works
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794853261568.rdf
+  Title: Operations management
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794853394816.rdf
+  Title: IACL = AIDC
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794853414528.rdf
+  Title: Design motifs
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794853430144.rdf
+  Title: Efn-projektresultat
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794853454592.rdf
+  Title: Humanistic psychology
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794853480064.rdf
+  Title: Pax Vobiscum
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794853526400.rdf
+  Title: Orchestral works
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794853546112.rdf
+  Title: Volcanoes
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794853559936.rdf
+  Title: Fantasia ; Sonata
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794853589376.rdf
+  Title: I, Goya
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794853592960.rdf
+  Title: International accounting
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794853654016.rdf
+  Title: Resource guide
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794853658496.rdf
+  Title: Skytip
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794853737088.rdf
+  Title: Signature Shakespeare
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794853745664.rdf
+  Title: Under siege
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794853777664.rdf
+  Title: The ascension
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794853844992.rdf
+  Title: Ovarian cancer
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794853852928.rdf
+  Title: Statistical thermodynamics
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794853864448.rdf
+  Title: Gifts differing
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794853876352.rdf
+  Title: Poems
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794853898368.rdf
+  Title: The violin
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794853975808.rdf
+  Title: Liberal equality
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794854124032.rdf
+  Title: Equality
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794854136320.rdf
+  Title: Teenage pregnancy
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794854194176.rdf
+  Title: Annual review
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794854198912.rdf
+  Title: Egypt & Nubia
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794854295808.rdf
+  Title: Baseball
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794854381824.rdf
+  Title: Countdown
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794854384640.rdf
+  Title: Study series
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794854417792.rdf
+  Title: The pearl
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794854468096.rdf
+  Title: William Gaddis
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794854557440.rdf
+  Title: Private peaceful
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794854594816.rdf
+  Title: Malice
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794854601856.rdf
+  Title: White Fang
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794854640896.rdf
+  Title: Cuba : monochrome
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794854725504.rdf
+  Title: Engineering hydrology
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794854731904.rdf
+  Title: Interim history
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794854746752.rdf
+  Title: Max Brand
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794854763392.rdf
+  Title: Atherton
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794854764416.rdf
+  Title: Geosynthetics
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794854770560.rdf
+  Title: Poems
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794854812416.rdf
+  Title: Historiography
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794854874112.rdf
+  Title: Oresteia
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794854897536.rdf
+  Title: Guns
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794854910208.rdf
+  Title: General report
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794854966528.rdf
+  Title: Burlesques
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794855020416.rdf
+  Title: Worcester
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794855064576.rdf
+  Title: John Keats
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794855143936.rdf
+  Title: Wave mechanics
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794855156224.rdf
+  Title: Japanese poetry
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794855196416.rdf
+  Title: Vector
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794855204864.rdf
+  Title: To Timbuktu
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794855269504.rdf
+  Title: Mirror image
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794855274112.rdf
+  Title: Parliament
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794855281408.rdf
+  Title: Sag harbor
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794855420928.rdf
+  Title: Brazil
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794855450752.rdf
+  Title: On collaboration
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794855551744.rdf
+  Title: DNA replication
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794855568128.rdf
+  Title: Renal physiology
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794855569536.rdf
+  Title: Study group
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794855577984.rdf
+  Title: DNA replication
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794855586432.rdf
+  Title: Jung
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794855594752.rdf
+  Title: Edward II
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794855599232.rdf
+  Title: Inorganic pollutants
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794855726336.rdf
+  Title: Multicellular animals
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794855781376.rdf
+  Title: Fraction times
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794855794688.rdf
+  Title: The seasons
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794855896192.rdf
+  Title: Middlemarch
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794855916928.rdf
+  Title: Beartown
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794855989760.rdf
+  Title: Duplex sonography
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794856011776.rdf
+  Title: Spanish drama
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794856017920.rdf
+  Title: American literature
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794856028160.rdf
+  Title: Fitness running
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794856054016.rdf
+  Title: Africa
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794856058496.rdf
+  Title: Occasional paper
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794856079616.rdf
+  Title: Sirumalai
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794856095360.rdf
+  Title: Saying goodbye
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794856266752.rdf
+  Title: Dwarf apples
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794856446848.rdf
+  Title: Further memories
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794856454016.rdf
+  Title: Productive thinking
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794856486272.rdf
+  Title: Sectoral analysis
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794856499328.rdf
+  Title: Personnel management
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794856543872.rdf
+  Title: Platonic theology
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794856560768.rdf
+  Title: Common trees
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794856593024.rdf
+  Title: Second Latin
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794856601344.rdf
+  Title: Transformations
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794856613632.rdf
+  Title: Strolling strings
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794856617856.rdf
+  Title: Criminology
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794856620032.rdf
+  Title: Epistemology
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794856640128.rdf
+  Title: Aerospace series
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794856696064.rdf
+  Title: Asian architecture
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794856737280.rdf
+  Title: The Moscoviad
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794856756736.rdf
+  Title: Aleph classics
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794856843008.rdf
+  Title: Management policy
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794856857344.rdf
+  Title: Haida stories
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794856859008.rdf
+  Title: American vistas
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794856867840.rdf
+  Title: Index Taihokensis
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1130000794856875904.rdf
+  Title: Augustus Rex
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681256377216.rdf
+  Title: Résumé
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681257652608.rdf
+  Title: Résumé
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681257880704.rdf
+  Title: Résumé
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681257949824.rdf
+  Title: Résumé
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681259692544.rdf
+  Title: Résumé
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681261104768.rdf
+  Title: Résumé
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681261131008.rdf
+  Title: Résumé
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681261163008.rdf
+  Title: Résumé
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681262655360.rdf
+  Title: Erratum
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681262656000.rdf
+  Title: Erratum
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681262656640.rdf
+  Title: Errata
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681262667136.rdf
+  Title: Errata
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681262667904.rdf
+  Title: Erratum
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681262668544.rdf
+  Title: Errata
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681262669184.rdf
+  Title: Erratum
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681262677632.rdf
+  Title: Errata
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681262678272.rdf
+  Title: Errata
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681262678784.rdf
+  Title: Errata
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681262679552.rdf
+  Title: ERRATA
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681262680192.rdf
+  Title: ERRATA
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681262780416.rdf
+  Title: Résumé
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681262876032.rdf
+  Title: Erratum
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681262876800.rdf
+  Title: Erratum
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681262913536.rdf
+  Title: Erratum
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681262914304.rdf
+  Title: Errata
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681262914944.rdf
+  Title: Erratum
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681262925056.rdf
+  Title: Errata
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681262928896.rdf
+  Title: Errata
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681262929536.rdf
+  Title: Errata
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681262931712.rdf
+  Title: Errata
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681262946560.rdf
+  Title: Erratum
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681262947200.rdf
+  Title: Erratum
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681262950400.rdf
+  Title: Erratum
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681262968576.rdf
+  Title: Erratm
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681262972800.rdf
+  Title: Errata
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681262973568.rdf
+  Title: Errata
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681262974336.rdf
+  Title: Errata
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681262988288.rdf
+  Title: Erratum
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681262990976.rdf
+  Title: Errata
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681263016192.rdf
+  Title: Erratum
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681263016704.rdf
+  Title: Erratum
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681263017344.rdf
+  Title: Errata
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681263017984.rdf
+  Title: Errata
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681263028352.rdf
+  Title: Errata
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681263179776.rdf
+  Title: Résumé
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681263573504.rdf
+  Title: Résumé
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681263585152.rdf
+  Title: Résumé
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681263639424.rdf
+  Title: Résumé
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681264011136.rdf
+  Title: Résumeé
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681264066176.rdf
+  Title: Résumé
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681266172032.rdf
+  Title: Erratum
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681266175104.rdf
+  Title: Errata
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681266200320.rdf
+  Title: Erratum
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681266200960.rdf
+  Title: Errata
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681266204928.rdf
+  Title: Erratum
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681266209152.rdf
+  Title: Errata
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681266211840.rdf
+  Title: Erratum
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681266216960.rdf
+  Title: Errata
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681266217472.rdf
+  Title: Errata
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681266234112.rdf
+  Title: Erratum
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681266234752.rdf
+  Title: Errata
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681266235392.rdf
+  Title: Erratum
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681266235904.rdf
+  Title: Errata
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681266236416.rdf
+  Title: Errata
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681266237056.rdf
+  Title: Errata
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681266246272.rdf
+  Title: Errata
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681266246912.rdf
+  Title: Errata
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681266247424.rdf
+  Title: Errata
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681266247936.rdf
+  Title: Erratum
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681266248576.rdf
+  Title: Errata
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681266261376.rdf
+  Title: Errata
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681266266368.rdf
+  Title: Erratum
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681266267008.rdf
+  Title: Errata
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681266267520.rdf
+  Title: Errata
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681268554624.rdf
+  Title: GENERAL COMMENTS
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681268592512.rdf
+  Title: Book Review
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681269134592.rdf
+  Title: FOREWORD
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681269145472.rdf
+  Title: Erratum
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681269146240.rdf
+  Title: Erratum
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681269511552.rdf
+  Title: Erratum
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681269544576.rdf
+  Title: Erratum
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681269548288.rdf
+  Title: Erratum
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681269552256.rdf
+  Title: Erratum
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681269569152.rdf
+  Title: Poster Session
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681269721600.rdf
+  Title: Condolence
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681269777536.rdf
+  Title: Erratum
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681269806464.rdf
+  Title: Condolences
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681270511360.rdf
+  Title: Hypoallergenic Rice.
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681270637568.rdf
+  Title: Introduction
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681273124224.rdf
+  Title: Erratum
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681273128192.rdf
+  Title: Erratum
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681273552384.rdf
+  Title: Erratum
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1390282681273594112.rdf
+  Title: Erratum
+  Abstract: 

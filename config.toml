@@ -1,0 +1,37 @@
+[paths]
+rdf_dirs = [
+    # "data/articles/resourcedump_000130/rdf",
+    "data/articles/resourcedump_000700/rdf",
+    # "data/articles/resourcedump_001367/rdf"
+]
+test_sample = "data/articles/resourcedump_001367/test_sample"
+tokens = "data/tokens"
+minhash_signatures = "data/minhash"
+benchmark = "data/cinii_topics_benchmark"
+
+[lsh]
+num_perm = 128             # Number of permutations for MinHash signatures
+threshold = 0.5            # Similarity threshold for MinHashLSH and LSHEnsemble
+forest_k = 10              # Top-k results to return in LSHForest queries
+forest_l = 8               # Needed by LSHForest
+ensemble_num_partitions = 32   # Number of partitions for LSHEnsemble
+ensemble_m = 8
+token_type = "k_shingles"     # k_shingles or words
+
+[hnsw]
+model_name = "sentence-transformers/all-MiniLM-L6-v2"
+use_cosine = true
+batch_size = 256
+hnsw_m = 32
+ef_construction = 200
+ef_search = 64
+try_gpu = false
+topk = 50
+
+[eval]
+k_list = [5, 10, 20, 50]
+max_queries = 500                 # sample this many queries (or fewer if dataset smaller)
+weight_subtopic = 2.0
+weight_major = 1.0
+confidence_agg = "min"            # one of: "min", "mean", "max"
+seed = 0

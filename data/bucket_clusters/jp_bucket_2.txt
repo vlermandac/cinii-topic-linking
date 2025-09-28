@@ -1,0 +1,3219 @@
+Found 10 buckets with >=3 members
+Bucket 1: size 28503
+Bucket 2: size 803
+Bucket 3: size 787
+Bucket 4: size 723
+Bucket 5: size 608
+
+Members of bucket 5 (size 803):
+- URI: https://cir.nii.ac.jp/crid/1050573243031881088.rdf
+  Title: コロナ禍を起点とする身近な生活におけるデジタルトランスフォーメーションとデジタル化による新しいネットワーク形成への期待
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17575
+
+- URI: https://cir.nii.ac.jp/crid/1050573726393446272.rdf
+  Title: Commidor：テレワーク状況における インフォーマルコミュニケーションを誘発する仮想廊下
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17741
+
+- URI: https://cir.nii.ac.jp/crid/1050574047069970816.rdf
+  Title: 地域イノベーション・サーベイ : 地域企業の競争力強化を目指した俯瞰的調査
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17446
+
+- URI: https://cir.nii.ac.jp/crid/1050574047069981568.rdf
+  Title: 科学技術政策に対する政策金融による経済性検証に関する研究
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17337
+
+- URI: https://cir.nii.ac.jp/crid/1050574047069985280.rdf
+  Title: 知識の再吸収が研究開発活動の成果に与える影響
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17276
+
+- URI: https://cir.nii.ac.jp/crid/1050574047070147072.rdf
+  Title: NewsFab : スケルトンを用いた新聞紙造形支援
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17059
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080020480.rdf
+  Title: 自然環境の観光資源化プロセスと地域資源ガバナンスの形成
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16802
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080024448.rdf
+  Title: 官民ファンドはイノベーションを促進できるか？ : 産業革新機構、シャープ、JDI、ルネサスの事例分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16615
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080025472.rdf
+  Title: Patient-Centeredアプローチから生まれた乳がん患者用インナーウェアの開発
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16609
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080028032.rdf
+  Title: 機器共用と技術職員の人材育成
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16584
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080028928.rdf
+  Title: R&D費と成長率，収益率，割引率の関係式
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16577
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080031232.rdf
+  Title: イノベーションの新モデル普及・定着時における“枠組み間題”  にどう対処するか : 食品及び食品素材における事例からの一考察
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16565
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080032384.rdf
+  Title: 大学発プラットフォーム型バイオベンチャー企業のマネジメントに関する研究
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16549
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080033280.rdf
+  Title: 研究開発型大学等発ベンチャーと大学との関連性分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16546
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080036096.rdf
+  Title: 教育連携と人材育成取り組みにおける考察  4
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16485
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080037376.rdf
+  Title: ネガティブなアイデアの共同生成作業による否定的価値観の相互理解の試み ～ 婚活パーティを対象として ～
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16254
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080039040.rdf
+  Title: 強化学習を用いたターン制RPGのステージ自動生成
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16090
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080107904.rdf
+  Title: 地域おける産学連携の課題
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/15718
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080116096.rdf
+  Title: 欧州研究開発フレームワークでの自動車メーカの協業
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/15638
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080119296.rdf
+  Title: 学術論文への国際特許分類（IPC）付与による産学連携の検討 : IPC分類とJST分類の共用分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/15596
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080120320.rdf
+  Title: デジタル経済下での「イノベーション指標」の変容 : イノベーション・成長概念変容の実相と国際対応
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/15578
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080128384.rdf
+  Title: 中国のベンチャー起業ブームのゆくえおよびイノベーションへの影響
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/15051
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080129280.rdf
+  Title: 分離戦略の帰結としての制度複雑性の析出 : オープンイノベーションを題材とした定性研究
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/15031
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080159744.rdf
+  Title: 医薬品ポートフォリオの価値考察
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/14935
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080161280.rdf
+  Title: 産業界におけるリケジョの活躍
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/14912
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080162432.rdf
+  Title: 研究者に求められるTransferable skills : 大阪大学の公募要領分析から得られた知見
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/14905
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080166912.rdf
+  Title: 事業モデル仮説に基づいた水産業における産学連携の試み : 『サステイナブル漁業に向けたデータ指向型リアルタイム解析基盤の開発』での取組事例
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/14862
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080168064.rdf
+  Title: Bumpy Pyramid Folding
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/14769
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080176128.rdf
+  Title: 自治体による中小企業の新規事業支援政策の研究 : 「大阪トップランナー育成事業」を対象として
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/14019
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080177024.rdf
+  Title: コンソーシアムを介した中小企業の異業種参入とイノベーション
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/14011
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080178048.rdf
+  Title: 技術専門職実態調査から見える大学等の研究基盤を支えるイノベーション人材に関する状況と課題
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13938
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080179072.rdf
+  Title: 共同研究創成の新たな国際的枠組み : 大阪大学における試み
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13931
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080182784.rdf
+  Title: 東北大学学際科学フロンティア研究所における人文・社会科学と自然科学の連携支援活動の現状と将来展望
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13844
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080185600.rdf
+  Title: テキスト分析にもとづく部局レベルでの研究分野分布マップの開発
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13452
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080187648.rdf
+  Title: デンマークにおける科学技術イノベーションに関する取組の一考察
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13433
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080192768.rdf
+  Title: ブレイクスルーの経営構造と新産業創造
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13360
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080193664.rdf
+  Title: 第10回科学技術予測調査シナリオプランニングにみる世界の中の日本 : 2030年の社会像 : 国際的視点からのシナリオプランニング
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13353
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080197376.rdf
+  Title: モジュール化の進展と自動車部品メーカーの行動分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13298
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080198784.rdf
+  Title: 情報正当化過程における情報・対人知覚の影響分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13279
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080201216.rdf
+  Title: 研究開発プロジェクトにおける終了後評価に関する分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13268
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080202112.rdf
+  Title: 医学保健分野における研究生産の効率性とその要因についての実証分析 : 女性研究者割合、外部資金割合との関係
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13265
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080202752.rdf
+  Title: 産総研における研究開発評価
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13245
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080204032.rdf
+  Title: 共同研究開発におけるファシリテーターの役割
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13222
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080205056.rdf
+  Title: A Platform for Turn-Based Strategy Games, with a Comparison of Monte-Carlo Algorithms
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/12992
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080207104.rdf
+  Title: G-IM: An Input Method of Chinese Characters for Character Amnesia Prevention
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/12882
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080209152.rdf
+  Title: 日本で有機農法の普及が進まない理由 : TISフレームに基づく有機農法の検討
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/12583
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080210304.rdf
+  Title: 事後評価結果から見たNEDOプロジェクトの特徴と評価システムの課題 : 事後評価結果を用いた質的分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/12577
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080214656.rdf
+  Title: 医薬品産業における科学技術イノベーション政策の最適解 : 米国SBIRプログラムがもたらした驚愕の経済効果
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/12536
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080215680.rdf
+  Title: 大型加速器を用いた大規模物理学実験における論文生産システムと報奨
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/12530
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080216832.rdf
+  Title: 「植物工場ビジネス」の多様性 : ビジネスの価値形成構造をモデル化する
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/12495
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080218240.rdf
+  Title: 製薬産業における強制実施権の産業への影響 : インドネシアにおける政府使用の設定
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/12493
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080219136.rdf
+  Title: リサーチ・アドミニストレーターの研修・教育プログラム
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/12482
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080221056.rdf
+  Title: イノベーション支援政策の立案と持続的展開 : 事例 : 三重県「地域資源活用型医薬品等開発促進事業」
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/12472
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080227328.rdf
+  Title: 触媒作用によるブレイクスルー型イノベーションの創出
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/12409
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080231168.rdf
+  Title: 国家プロジェクトが企業の研究開発能力の向上に及ぼす要因の分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11874
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080232192.rdf
+  Title: 企業の境界と知財戦略
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11866
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080235136.rdf
+  Title: 政策デザインワークショップ : 実務家と研究者の知識交流の場
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11857
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080237184.rdf
+  Title: ソーシャル・イノベーションとアントレプレナーシップの日本モデル : 地域産学官民連携の事例から
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11832
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080240128.rdf
+  Title: 被災過疎地支援事業への多対多型産学公民連携の試行 (1)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11797
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080242944.rdf
+  Title: 技術の世代間代替に着目したイノベーション普及の国際比較分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11756
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080244096.rdf
+  Title: 東日本大震災後における消費財の優先度の変容に関する研究 : 家電製品を事例に
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11750
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080246144.rdf
+  Title: 石炭ガス化複合発電 (IGCC)技術開発におけるNEDOの取り組みについて
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11733
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080247424.rdf
+  Title: DEAを用いた自治体における環境への取り組みの評価
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11725
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080249728.rdf
+  Title: 環境激変の転換期における未来産業創造
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11707
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080251136.rdf
+  Title: 高効率CCT技術の海外普及に向けたNEDOの取り組みと競争力について
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11699
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080252544.rdf
+  Title: 支援制度の利活用においてファンディング機関の地域拠点が果たす役割に関する一考察
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11688
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080254336.rdf
+  Title: グローバルR&Dのマネジメント : 親会社との関係が海外拠点の研究開発成果に与える影響
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11660
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080323712.rdf
+  Title: Autonomous Learning Based on Depth Perception and Behavior Generation
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11608
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080327936.rdf
+  Title: 大震災を経て科学者・技術者の意識に変化はあったのか？
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11117
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080328704.rdf
+  Title: 研究チームの構成は科学における知識生産にどのような影響をおよぼすか？
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11086
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080329856.rdf
+  Title: 地域発のライフイノベーションへの実践的な取り組み : 三重県、規制当局による医薬品開発支援
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11069
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080330624.rdf
+  Title: 「地域技術」政策の展開と課題（その2）
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11052
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080332544.rdf
+  Title: Using option-games to describe strategy selection of technology investment in the green supply chain
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11032
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080336128.rdf
+  Title: R＆Dマネジメントに対する研究テーマ提案制度の関わり方
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11014
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080338304.rdf
+  Title: 中等教育・高等教育の現場で観る女性の理数系適性およびこれを活かすための人材育成支援の今後の取り組み
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/10989
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080339072.rdf
+  Title: スラリーアイス生成技術の開発プロセスと地域活性化への適用事例
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/10971
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080344064.rdf
+  Title: 統計的モデルの考え方 : 確率分布から多変量解析まで
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/10930
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080345984.rdf
+  Title: 集合的に構築された楽譜・画像関連づけデータベースを用いたピアノ演奏表情構築支援の試み
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/10647
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080349952.rdf
+  Title: サービス価値創造とサービスリスク : ヒューマンリスクマネジメントを含むサービス価値創造論に関する試論
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/10269
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080350848.rdf
+  Title: 研究開発活動の波及効果 : NEDO支援プロジェクトの追跡調査研究
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/10265
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080354560.rdf
+  Title: 自動車の電子化のその先に何が見えるか (その2) : アジアの成長と共に歩むビジネスモデルと比較優位の産業政策
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/10192
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080355328.rdf
+  Title: スウェーデンの産学共同研究センターの取り組みと日本への示唆
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/10175
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080357760.rdf
+  Title: 課題解決型イノベーション実現に向けた戦略策定・推進体制の提言
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/10140
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080364800.rdf
+  Title: Different Classes of Words are Learned in Different Ways
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/9537
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080366848.rdf
+  Title: 産学官連携コーディネート／マネジメント人材と制度
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/9461
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080367744.rdf
+  Title: 科学の発明・発見の関連要因
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/9400
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080372992.rdf
+  Title: MOT教育コア・カリキュラムの開発(1)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/9354
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080374912.rdf
+  Title: 競争的資金制度における中間機関の機能
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/9341
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080377216.rdf
+  Title: NEDOプロジェクトから発生した派生技術に関する分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/9322
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080378752.rdf
+  Title: バイオ技術分野におけるアカデミック研究との高いリンケージに関する考察
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/9314
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080379520.rdf
+  Title: 地域産業と地域イノベーションシステムの進化過程に関する実態分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/9306
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080381568.rdf
+  Title: 米国における安全保障関連諸規制と学術研究 : 競争力強化論議を背景とした新たな展開
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/9277
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080384768.rdf
+  Title: Modulation Doping for Repetition Coded BICM-ID with Irregular Degree Allocation
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/9114
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080388096.rdf
+  Title: 貿易統計から見た韓国金型産業の躍進 : 難しい金型での国際競争力向上
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/8760
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080389248.rdf
+  Title: 液晶パネル技術開発動向に見るイノベーションと標準化の相互関係
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/8756
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080390144.rdf
+  Title: 技術融合によるマルチスパイラルイノベーションモデル
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/8720
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080392960.rdf
+  Title: IEEEにおいて特徴的な推移を示す国々の分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/8702
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080394240.rdf
+  Title: 公的資金による研究開発の追跡調査結果に関する一考察
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/8694
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080398720.rdf
+  Title: Security and Access Control for Vehicular Communications
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/8492
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080405888.rdf
+  Title: Adaptive self-configurable robot swarms based on local interactions
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7794
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080406784.rdf
+  Title: 女性のキャリアパスにおけるサジェッションポイント
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7747
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080407808.rdf
+  Title: 欧州の世界トップクラス研究拠点 : その成立要件と日本への示唆
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7636
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080411648.rdf
+  Title: アセアンの裾野産業の成長過程とその特色
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7520
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080466688.rdf
+  Title: サービスの分野横断的モデリングとその試行(I) : サービス実現フレームと大学授業での学生による適用
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7500
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080470528.rdf
+  Title: 技術の市場価値形成に視点を据えた技術経営シ金融市場の収益性が製造業の研究開発に及ぼす影響の実証分析システム分析(技術進歩の経済分析(2),一般講演,第22回年次学術大会)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7459
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080544640.rdf
+  Title: 産業イノベーションの実態調査とその分析 : 研究開発期間とイノベーション類型を中心として(国際競争力・産業競争力(1),一般講演,第22回年次学術大会)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7232
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080546688.rdf
+  Title: サービス経済下における技術経営の潜在的要素素地 : 事業成功に至る構造モデルとの対比(技術戦略と事業戦略)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7184
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080548864.rdf
+  Title: 製品アーキテクチャの階層性とインテグリティ : 日米の携帯電話端末開発の事例から(イノベーションをめぐる諸問題(1))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7173
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080549632.rdf
+  Title: 日米EUにおけるナノテクノロジー推進戦略の比較分析(新技術の動向)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7162
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080551552.rdf
+  Title: NT・IT・BT等先端技術分野の知的人材育成の課題(人材問題)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7147
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080552320.rdf
+  Title: 記事情報からの政策分析の試み : 東アジア4ヶ国のIT化政策を用いて(海外事例)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7141
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080552960.rdf
+  Title: コア・コンピタンスと「企業の境界」 : 日本のプラント・エンジニアリング産業の事例からの検討(<ホットイシュー>コア・コンピタンス強化とアウトソーシング・アライアンス(2))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7117
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080554240.rdf
+  Title: 国際経営戦略と標準化(標準化(1))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7080
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080558080.rdf
+  Title: 創薬におけるイノベーションとバイオベンチャーの役割(<ホットイシュー>イノベーションのジレンマへの日本型の解(1))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7016
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080561536.rdf
+  Title: 第2段階を迎えたドイツの大学発ベンチャー戦略(ベンチャー)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6960
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080562816.rdf
+  Title: 情報化・デフレ構造下のイノベーション政策(ニーズを見据えた研究開発2)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6934
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080563584.rdf
+  Title: 地域産業創出構想におけるコーディネーションの負担と能力とのギャップ(ニーズを見据えた研究開発2)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6932
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080564480.rdf
+  Title: NEDO技術開発機構の研究開発における知的財産権の取得・管理に関する考察(知的財産2)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6915
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080565504.rdf
+  Title: IT活用の駆動力となるインスティチューションの柔軟性を引き出す政策オプションの検証(ITと科学技術)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6902
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080566528.rdf
+  Title: 欧州工科系大学と米国MITにおけるMOT教育の比較(MOT教育の質的検討)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6890
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080567808.rdf
+  Title: MOTは独立した教育分野か(MOT教育の質的検討)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6886
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080570240.rdf
+  Title: 遺伝子組換え作物に関する議会テクノロジー・アセスメント機関報告書の国際比較(科学技術と社会)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6864
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080571648.rdf
+  Title: 独立行政法人NEDOにおける研究加速のマネジメント(独立行政法人化)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6842
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080573568.rdf
+  Title: 米国における産官学連携 : テキサス州を中心とした現状報告(産官学連携)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6834
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080575488.rdf
+  Title: 産学連携に関する大学人の取組と今後の課題について(産官学連携)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6826
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080576768.rdf
+  Title: ストック型社会と市民生活 : 住宅関連支出と環境負荷を中心として
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6816
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080580224.rdf
+  Title: 書誌計量学的手法によるピアレビューの支援可能性の再検討
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6780
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080580992.rdf
+  Title: バイオ科学技術の動向分析 : 「細胞接着」を例にして
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6764
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080582016.rdf
+  Title: 製薬業界の高収益構造 : 企業内製品間の技術スピルオーバーに視点を据えた分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6755
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080583040.rdf
+  Title: 研究開発における目標管理の再吟味 : 個人の創造性とテーマ管理・成果主義を結ぶマネジメントへ
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6741
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080583936.rdf
+  Title: 知財創造マネジメント教育による知財人材育成と知財専門職大学院構想
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6719
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080585600.rdf
+  Title: R&Dプロジェクト決定手法の一考察 : リアル・オプション適用可能性
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6681
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080587776.rdf
+  Title: 女性と産学共同による事業創造
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6667
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080592128.rdf
+  Title: NEDO成果報告書データベースの利用状況分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6620
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080593024.rdf
+  Title: 日本的技術経営システムのIT主導経済へのシフト対応性の分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6616
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080594048.rdf
+  Title: 技術移転事業者のライセンス構造
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6594
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080594688.rdf
+  Title: 国立大学における今日的目的と産学連携の方向性に関する一考察
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6584
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080595584.rdf
+  Title: 中国内陸部大学における知的財産権(知的財産権 (2))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6523
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080596608.rdf
+  Title: 「科学研究調査」の回答実態の分析 : 研究開発統計の再構築に向けて(<ホットイシュー> イノベーションその計測・評価 (4))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6502
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080597120.rdf
+  Title: 半導体設計技術分野におけるグローバルプラットホーム開発の課題(<ホットイシュー> 競争力の二極化 (2))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6494
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080597760.rdf
+  Title: 保健・医療・福祉分野における宇宙技術の寄与に関する考察 : 産学官連携促進の観点から(産学官連携 (3))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6491
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080598272.rdf
+  Title: イノベーションとインスティテューションの共進化ダイナミズム : 主要国製造技術・ITの共進ダイナミズムと競争力の比較実証分析(<ホットイシュー> イノベーションその計測・評価 (2))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6450
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080600192.rdf
+  Title: 文理融合研究の政策推進の試みII(<ホットイシュー> 第3期科学技術基本計画)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6429
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080601088.rdf
+  Title: 戦略ロードマッピング手法を結合・統合した第二世代のビジネスモデル設計手法(<ホットイシュー> イノベーションを実現するためのマネジメント (4))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6410
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080602880.rdf
+  Title: 中小企業との産学連携が進まない構造的要因(<ホットイシュー> 産学連携の再考 (1))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6373
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080604032.rdf
+  Title: 生体認証技術開発にみる市場競争戦略の研究(戦略形成 (1))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6344
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080605952.rdf
+  Title: 諸外国政策機関の事例考察からの食品のリスクコミュニケーション機能に関する研究(科学技術と社会・倫理問題 (2))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6335
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080618112.rdf
+  Title: 東北地域の技術型企業の創業と地域的要因に関する研究(地域クラスター, 第20回年次学術大会講演要旨集II)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6189
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080618624.rdf
+  Title: 技術と市場の相互作用によるイノベーション : 風力発電における事例(環境技術のマネジメント, 第20回年次学術大会講演要旨集II)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6181
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080619264.rdf
+  Title: サービス・サイエンス的アプローチによる企業競争力の増大について(IT・コンテンツ, 第20回年次学術大会講演要旨集II)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6177
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080620672.rdf
+  Title: ジュニアボード・マネジメントによる経営者人材の育成((ホットイシュー) 戦略的人材システムに向けた課題 (4), 第20回年次学術大会講演要旨集II)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6162
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080623360.rdf
+  Title: 一企業における研究開発プロジェクトの事業化までのパフォーマンスの分析(市場, 不確実性と研究開発マネジメント, 第20回年次学術大会講演要旨集II)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6130
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080624384.rdf
+  Title: 不確実性の高い研究開発における少人数型R&Dマネジメント(市場, 不確実性と研究開発マネジメント, 第20回年次学術大会講演要旨集II)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6127
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080626176.rdf
+  Title: 設計と生産の連携強化のための生産技術マネジメント(技術経営, 第20回年次学術大会講演要旨集I)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6089
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080634368.rdf
+  Title: WTO加盟後の中国の発展軌道のシステム選択
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5967
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080635264.rdf
+  Title: 変わる産総研九州センター : 西からイノベーションの風を
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5950
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080636800.rdf
+  Title: イノベーション・システムに関する考察とその展開 (第2報)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5895
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080639488.rdf
+  Title: 産業の成熟・技術進歩・戦略的提携の相互関係分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5881
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080640128.rdf
+  Title: 国立大学の技術を基にした企業創出の実験 (II)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5873
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080680704.rdf
+  Title: 研究業務の費用対効果の数値化手法
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5843
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080681600.rdf
+  Title: 日本の制度的、構造的要因が情報化に与える影響についての実証分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5833
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080684160.rdf
+  Title: TLOの日本型展開の必要性と可能性 : 日本の文化風土に適合したTLO試論
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5788
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080686848.rdf
+  Title: イノベーション・モデルに関する考察とその展開
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5761
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080688512.rdf
+  Title: 医薬品の研究開発と新事業
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5754
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080690048.rdf
+  Title: 中央省庁が行う政策評価についての比較実証分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5733
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080691072.rdf
+  Title: 国立大学の技術を基にした企業創出の実際と問題点
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5723
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080694528.rdf
+  Title: 通産省における技術評価
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5677
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080695296.rdf
+  Title: コーポレート・テクノストック・モデル : 利益回収・再投資から見た持続可能な研究技術開発投資
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5669
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080696320.rdf
+  Title: 製造業の国際競争力の支配要素について (第一報)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5661
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080697344.rdf
+  Title: 科学技術活動の計量と研究評価 : (その2) 引用の理論 (Theories of Citation) と評価
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5648
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080698112.rdf
+  Title: 地域における中堅・中小製造業の活性化活動の国際比較
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5634
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080699648.rdf
+  Title: 米国の技術流通機関に関する調査結果 : 産学官のシステム
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5616
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080700416.rdf
+  Title: 産学連携を中心とするインベーション・システムの変容 : 「新しい知識生産」をめぐって
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5612
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080702208.rdf
+  Title: コーポレート・テクノストック・モデル : 研究開発投入と成果の関係
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5547
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080704128.rdf
+  Title: 学際的研究における分野間知識統合の解析 : 環境科学と生物物理学を対象とした論文傾向の経年変化
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5540
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080709376.rdf
+  Title: 生産関数を用いた研究開発の生産性モデルについて : 研究開発生産性の国際比較(日、米、独)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5449
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080711296.rdf
+  Title: R&D購買力平価の開発
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5430
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080712064.rdf
+  Title: "公共"技術政策の概念的考察と事例分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5402
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080713344.rdf
+  Title: 都道府県別産業構造の特色と地域科学技術政策
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5387
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080715136.rdf
+  Title: 研究・技術者の労働時間と処遇評価
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5284
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080716800.rdf
+  Title: 米国との比較からみた我が国の理学系博士数及び工学系博士数
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5253
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080717568.rdf
+  Title: 研究分野地図に基づく研究開発の計画支援
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5198
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080729216.rdf
+  Title: Suppliers' Roles and Their Impact on Knowledge Transfer in Auto Manufacturing Supply Chain
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/4110
+
+- URI: https://cir.nii.ac.jp/crid/1050574047080731392.rdf
+  Title: Standardization of Decision-Making between Holism and Variety
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/3969
+
+- URI: https://cir.nii.ac.jp/crid/1050574047086971008.rdf
+  Title: タイムプレッシャーの制御による作業効率の向上を目指した非線形時間経過モデルの提案
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17620
+
+- URI: https://cir.nii.ac.jp/crid/1050574047087655808.rdf
+  Title: 両利きの経営における研究開発ポートフォリオマネジメント : ビジョンオリエンテッドコンセプトの可能性
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17449
+
+- URI: https://cir.nii.ac.jp/crid/1050574047087656448.rdf
+  Title: 日本におけるデジタルトランスフォーメーションの比較分析 : 日本CTO協会のアンケートデータより
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17440
+
+- URI: https://cir.nii.ac.jp/crid/1050574047087657344.rdf
+  Title: AIクロスマップによる戦略的産学連携の試み (2) : 情報学分野の大学側論文の分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17416
+
+- URI: https://cir.nii.ac.jp/crid/1050574047087661824.rdf
+  Title: 特許出願の外注に関する研究
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17371
+
+- URI: https://cir.nii.ac.jp/crid/1050574047087669632.rdf
+  Title: 地域・海外との連携による新商品研究開発と海外展開
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17341
+
+- URI: https://cir.nii.ac.jp/crid/1050574047087820928.rdf
+  Title: Sketch2Bento:スケッチベース弁当具材配置支援システム
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17066
+
+- URI: https://cir.nii.ac.jp/crid/1050574047088048128.rdf
+  Title: RESTAIL : 人の身体能力と感情表現を拡張する尻尾型デバイス
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17040
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097665536.rdf
+  Title: エコツーリズム推進における適地性と発展プロセスの比較研究
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16832
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097669120.rdf
+  Title: Monaural Singing Voice Separation Using Fusion-Net with Time-Frequency Masking
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16658
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097671040.rdf
+  Title: 労働コスト調整手段としての所定外労働時間に関する一考察
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16608
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097672960.rdf
+  Title: 科学技術予測調査における基本シナリオ
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16593
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097673728.rdf
+  Title: プログラム評価の実装と課題 : RISTEXの事例より
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16588
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097675008.rdf
+  Title: デジタル経済下でのR&Dモデルの変容 :　エビデンスベースの科学技術イノベーション政策への啓発:構造解析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16586
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097676032.rdf
+  Title: NEDOプロジェクトの成果に関連して出願された特許の登録状況についての考察
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16564
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097677184.rdf
+  Title: デジタル経済下でのR&Dモデルの変容 ― エビデンスベースの科学技術イノベーション政策への啓発 : 制度的枠組み
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16560
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097680000.rdf
+  Title: デジタル・トランスフォーメーション推進のための企業マインドセットに関する探索的研究：顧客、情報、革新、価値の領域を中心として
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16513
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097682432.rdf
+  Title: BugTutor：誤情報を活用したプログラミング学習システム
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16260
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097683712.rdf
+  Title: TKTS法：時間経過によるアイデア生産量の低下を生じない 新たな発想技法の提案とその有効性検証
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16256
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097685888.rdf
+  Title: テトリスにおけるT-spin構成力向上のための問題作成
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16088
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097689600.rdf
+  Title: 旅の「荷物」をめぐるサービスとIDタグの活用可能性
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/15698
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097691776.rdf
+  Title: レンゴー株式会社の段ボール事業 : 「包む」ビジネスの価値形成とビジネスモデルに関する一考察
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/15680
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097692928.rdf
+  Title: 萌芽的科学技術のためのリアルタイム・テクノロジーアセスメントの試み
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/15676
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097694336.rdf
+  Title: 取締役会の多様性と研究開発活動との関係に関する一考察
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/15668
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097698048.rdf
+  Title: 知識産業転換期の持続的好業績実現戦略その展開
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/15577
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097698944.rdf
+  Title: 再生可能エネルギーのイノベーション政策とエビデンス
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/15556
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097701632.rdf
+  Title: 研究「環境」と「成果」の関係という視点による分析フレーム : 学問分野別特性に着目して
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/15050
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097704704.rdf
+  Title: 2050年以降を見据えたエネルギー社会ビジョン検討 : スキャニング手法を用いた長期未来洞察
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/15022
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097708672.rdf
+  Title: 地域における科学技術イノべーションの普及要因の考察 : ファインバブルの農業・水産業への応用事例の検討
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/14985
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097710592.rdf
+  Title: アントレプレナー教育におけるコーチング手法導入の有効性
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/14954
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097711872.rdf
+  Title: 「お菓子工場に変身した学校」 : 廃校施設を有効活用する取り組み (3)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/14950
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097771904.rdf
+  Title: 「MEA Parser」の国際公開から得られたオープンサイエンスの考慮点
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/14895
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097773184.rdf
+  Title: 医療におけるIoTとレギュレーション
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/14860
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097789056.rdf
+  Title: 将来社会における労働と所得の変化に関する考察
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/14043
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097790848.rdf
+  Title: 中国新エネルギー自動車産業普及のための阻害要因分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/14028
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097791744.rdf
+  Title: 大学教員の職務時間調査についての考察 : 本当に教育時間は増加し、研究時間は減少したのか
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/14026
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097792512.rdf
+  Title: エネルギー分野に係る国際事業におけるMOUの役割
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/14015
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097793664.rdf
+  Title: Un-captured GDP : イノベーション通念の刷新 : フィンランド科学アカデミーの挑戦
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/14003
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097798400.rdf
+  Title: 実質的なプログラム化に向けたRISTEX評価の取り組み
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13929
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097799040.rdf
+  Title: 第5期科学技術基本計画によって設定された主要指標の今後の見通しについての考察
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13925
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097800448.rdf
+  Title: 起業家のアイデンティティ変容とビジョン形成過程の考察
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13898
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097801344.rdf
+  Title: 石油減耗とエネルギー資源のシナリオ
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13874
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097804032.rdf
+  Title: 第5期科学技術基本計画に見る科学技術情報 : 第1期～第4期との相違点と課題
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13842
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097806720.rdf
+  Title: 米国におけるイノベーション創出基盤に関する課題 : 基礎研究を中心とした国際比較による理解の試み
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13428
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097809408.rdf
+  Title: イノベーションを強化する組織とマクロ分析の活用法
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13356
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097809920.rdf
+  Title: 政策立案と科学 : 食の安全と地震予知の事例の紹介
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13352
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097810816.rdf
+  Title: Hydrogen Hypeを超えて : 燃料電池に対する社会受容性の分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13348
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097811712.rdf
+  Title: 組立メーカーと部品メーカーの取引関係における技術力蓄積のメカニズムに関する考察
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13319
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097813632.rdf
+  Title: ネットワークの場におけるイノベーション
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13281
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097814400.rdf
+  Title: 標準化研究の動向と研究課題の変遷
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13278
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097830784.rdf
+  Title: 研究開発プロジェクトにおける知財マネジメントに関する分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13266
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097831424.rdf
+  Title: 製造業中小企業の新規事業の好機認識の促進要因について
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13254
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097835392.rdf
+  Title: ナノテク・先端部材実用化研究開発における制度設計の分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/12582
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097837824.rdf
+  Title: 研究者のNIHの研究プロジェクトへの参画とネットワーク形成
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/12523
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097839232.rdf
+  Title: Diversity in mobility patterns of researchers
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/12504
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097839872.rdf
+  Title: 科学技術分野における国際ビックプロジェクトの立ち上げとその意義の変遷に対する考察 : 巨大施設の建設・運用を伴う既存プロジェクトからの示唆
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/12499
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097841152.rdf
+  Title: NEDOプロジェクトが人材育成に与える影響とその分析手法
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/12471
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097843200.rdf
+  Title: GNT企業のイノベーション戦略 : 日本型の特性を生かしたグローバル化推進の一考察
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/12455
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097845248.rdf
+  Title: 知識間距離のポートフォリオ : マルチエージェント・シミュレーションを通して
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/12443
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097846272.rdf
+  Title: 心豊かな暮らしのかたちの構造分析 : 評価グリッド法を用いて
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/12429
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097847168.rdf
+  Title: エビデンスベースの政策形成に向けた取組の課題と展望 : SciREXと科学技術イノベーション政策
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/12422
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097848064.rdf
+  Title: 社会的期待との邂逅に基づく研究開発戦略立案の検討 : 「都市から構築するわが国の新たなエネルギー需給構造」を例として
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/12415
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097849856.rdf
+  Title: 研究成果とイノベーションの橋渡し (「フェーズII」の機能) : 持続可能な素材利用システムのモデル化の事例から
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/12411
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097851776.rdf
+  Title: 次世代製造技術の研究開発 : 米国・全米製造イノベーションネットワークの事例
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/12398
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097853696.rdf
+  Title: 進化言語学における認知バイアスの有効性
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/12343
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097881984.rdf
+  Title: NEDOにおけるリサイクル分野の技術開発助成制度の成果に関する考察
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11880
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097885952.rdf
+  Title: 中国地場企業 (インフラ産業分野)の強かな技術獲得戦略
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11848
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097886592.rdf
+  Title: サービスの価値共創モデルにおける気づきの役割
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11790
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097888000.rdf
+  Title: 植物工場における産業レイヤー構造の検討 : ロボット化する機械産業のモデルから学ぶべきこと
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11762
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097889024.rdf
+  Title: 質倹イノベーションへの社会科学・民族学・心理学の融合アプローチ : 新興国市場での新商品開発の成功・失敗要因の検証
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11755
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097890176.rdf
+  Title: 自社研究開発と外部技術が生産性に与える影響
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11746
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097890816.rdf
+  Title: 科学技術に対する国民意識調査の統計解析による政策アプローチ
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11724
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097891456.rdf
+  Title: NEDO追跡アンケート調査の統計分析による成功モデルの研究
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11694
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097893120.rdf
+  Title: 社会的期待と研究開発課題との邂逅に基づく研究開発戦略の立案 : 2 研究開発戦略課題
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11690
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097897984.rdf
+  Title: タイ日における経済技術移転と企業経営人材雇用問題等の現状と課題
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11667
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097899136.rdf
+  Title: 途上国における日系企業の中央研究所の設立 : タイ日系自動車部品企業のケース
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11663
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097899904.rdf
+  Title: タイ日系企業・日本企業の知財出願から見た研究開発機能の移転 : 自動車産業をケースとして
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11661
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097900800.rdf
+  Title: Study of temperature control using cyber-physical system approach in home environment
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11643
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097905536.rdf
+  Title: モンテカルロ碁における多様な戦略の演出と形勢の制御: 接待碁AIに向けて
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11605
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097909760.rdf
+  Title: 持続可能なワークスタイルの評価構造と社会受容性に関する研究
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11208
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097910912.rdf
+  Title: 環境配慮型商材が人々の環境配慮行動に与える影響の実証分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11184
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097911680.rdf
+  Title: 東日本大震災後の消費財に対する意識変革の分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11180
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097912960.rdf
+  Title: 「大学の研究力」に関する国際競争力分析 : 規模・学際性とガバナンス類型の視点による主要6ケ国間比較
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11164
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097913472.rdf
+  Title: 米国特許が引用する学術論文の計量書誌学的分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11129
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097913984.rdf
+  Title: コンソーシアム型NEDOプロジェクトにおける成功要因の分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11115
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097914752.rdf
+  Title: 中間機関における組織と個人のダイナミクス
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11092
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097916032.rdf
+  Title: 鉱工業系公設試験研究機関の現状と産業振興を図るための効率的活動
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11053
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097916544.rdf
+  Title: サービスイノベーションの新分野 : インフラとサービスの統合
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11040
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097917056.rdf
+  Title: M&A実施に伴う研究開発マネジメントの課題 : 成長戦略のガバナンスに向けて
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11020
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097929728.rdf
+  Title: 顧客タイプ別サービス効果分析システムの提案
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/10967
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097934592.rdf
+  Title: 書き込み内容のリンク機能を有するホワイトボードを用いた思考プロセスの振り返り支援
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/10648
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097937280.rdf
+  Title: Automatic Summarization of Broadcasted Soccer Videos with Adaptive Fast-forwarding
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/10284
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097939072.rdf
+  Title: 金属関連産業を事例とする社会的責任報告書の在り方に関する研究
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/10241
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097939840.rdf
+  Title: 吸収合併前後での知的財産管理部門視点の予備的分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/10221
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097940992.rdf
+  Title: グローバル時代における競争優位の次世代産業モデル
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/10197
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097941760.rdf
+  Title: 科学技術イノベーション政策の効果測定に関する新たな展開
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/10179
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097946880.rdf
+  Title: 欧州におけるLiving Labの現状
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/10103
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097949824.rdf
+  Title: シーズ型産学連携事業のマネジメントの要諦
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/10071
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097950592.rdf
+  Title: 地震・津波・原発 複合的災害をめぐる社会構造／言論
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/10062
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097958912.rdf
+  Title: 自然科学系を専門とする女性大学教員のキャリアパス分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/9471
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097959808.rdf
+  Title: 医療サービスサイエンスの創成と医療専門職の教育プログラム開発
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/9463
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097960832.rdf
+  Title: ロシアにおける高等教育機関の研究開発機能強化とイノベーション創出に向けた取り組み
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/9453
+
+- URI: https://cir.nii.ac.jp/crid/1050574047097961856.rdf
+  Title: 科学技術イノベーション政策の科学のための分析手法の動向
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/9418
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098035840.rdf
+  Title: 地域イノベーションクラスタープログラムにおける研究プロジェクトの統合性・ステージング検証
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/9308
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098036736.rdf
+  Title: 地域イノベーション･システム研究に関する一考察
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/9303
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098040576.rdf
+  Title: 日本企業の研究開発/製品開発の動向 : 3年間の時系列調査の結果より
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/9248
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098043392.rdf
+  Title: アカデミック・イノベーション・マネジメント(1) : 大学・公的研究機関における科学技術経営
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/9235
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098046464.rdf
+  Title: Kairos Chat：自発的な議論記憶の精練化を誘発するチャットシステム
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/9011
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098047872.rdf
+  Title: スパイダーヒーロー： 張力提示システムによるVRアプリケーション
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/9009
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098049152.rdf
+  Title: 海賊版ゲームソフトの普及がゲーム産業に与える影響の分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/8778
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098050176.rdf
+  Title: 中小企業の産学連携による人材育成と新製品開発
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/8771
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098051712.rdf
+  Title: 技術転換への適応 : デジタル液晶テレビ開発の事例分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/8715
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098055168.rdf
+  Title: 経済危機を乗り越える企業戦略の特色とその展開
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/8670
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098055936.rdf
+  Title: ソーシャル・キャピタルと地域科学技術イノベーション
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/8668
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098057088.rdf
+  Title: パテントトロールの定義、問題の所在とその対策の検討
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/8660
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098072192.rdf
+  Title: 科学研究費の採択状況から見たＣＯＥプログラムにおける教育研究拠点形成の分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/8643
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098073088.rdf
+  Title: イノベーション人材の評価・育成システム(3) : 海外の大学・公的機関における事例
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/8634
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098073728.rdf
+  Title: テキストマイニングによる医療分野の課題及びその解決のための制度体系等に関する有用知識の抽出
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/8624
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098075136.rdf
+  Title: 国家レベルの太陽電池技術革新を促進する学術研究構造の分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/8622
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098076032.rdf
+  Title: 韓国におけるポスト・キャッチアップ期の科学技術政策と日本へのインプリケーション
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/8618
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098076928.rdf
+  Title: 社会的価値変化に対応する生活者ニーズドリブン型研究開発の促進課題
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/8614
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098078080.rdf
+  Title: 地域産業クラスターの競争優位の形成と公的研究機関 : 鹿児島県の焼酎産地の事例
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/8576
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098113408.rdf
+  Title: ゼミ型講義におけるテーブルトップ型グループディスカッション支援と評価
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7981
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098114816.rdf
+  Title: Adaptive Flocking of a Swarm of Robots Based on Local Interactions
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7793
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098115968.rdf
+  Title: 高専機構並びに高専における組織変革の一考察 : 個体群生態学モデルを基にした「取り込み」と「逸脱」
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7739
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098116992.rdf
+  Title: 大学等におけるベンチャー起業 : 平成19年度大学等発ベンチャー調査結果を踏まえて
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7731
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098119936.rdf
+  Title: 知的資産としての研究成果の価値評価マニュアル
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7669
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098121216.rdf
+  Title: 中国情報家電メーカーのグローバル戦略 : 事例研究を踏まえて
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7660
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098121984.rdf
+  Title: サービスイノベーションの分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7627
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098124544.rdf
+  Title: 社会のセキュリティに関する国際標準化の動向
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7597
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098126208.rdf
+  Title: 己を知る教育プログラム : 東大駒場・体育の挑戦
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7579
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098127488.rdf
+  Title: 企業環境変革に於けるコア変容期の戦略
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7569
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098128384.rdf
+  Title: 環境規制はイノベーションを促進するか : ポーター仮説の検証
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7567
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098130304.rdf
+  Title: FPD産業における経験曲線効果に関する実証分析と改良モデルの提案
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7558
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098132736.rdf
+  Title: 民間主導による組織的国際技術移転 : 泰日経済技術振興協会を通じた日タイ間技術移転のケース
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7525
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098135040.rdf
+  Title: 研究開発指標の国際比較可能性に関する考察 : 「科学技術総合指標」に関する考察と日米の大学に対する政府研究開発支出の比較分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7512
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098136320.rdf
+  Title: テキストマイニングによる社会課題及びその解決に結びつく科学技術に関する有用知識の抽出
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7509
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098141568.rdf
+  Title: 有形文化財への科学技術の利活用(基礎的研究の社会的意味(1),一般講演,第22回年次学術大会)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7415
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098145024.rdf
+  Title: チャンピオンデータ比較 : 原研と欧州(メトリクス,一般講演,第22回年次学術大会)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7366
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098145664.rdf
+  Title: Kinder-Uni(子どもの大学)にみる科学コミュニケーションの要諦(科学コミュニケーション,一般講演,第22回年次学術大会)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7363
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098146432.rdf
+  Title: 公設試験研究機関の研究費に関する考察(地球科学技術研究(2),一般講演,第22回年次学術大会)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7355
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098147328.rdf
+  Title: 我が国産業における研究開発投資と研究開発マネジメントの特徴に関する考察(技術経営(7),一般講演,第22回年次学術大会)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7348
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098148352.rdf
+  Title: キャッシュフロー・ベースでの研究開発費の評価方法の検討(技術経営(4),一般講演,第22回年次学術大会)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7326
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098163712.rdf
+  Title: NEDO「福祉用具実用化開発推進事業」におけるマネジメントの取り組み(分野別のR&Dマネジメント(1),一般講演,第22回年次学術大会)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7290
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098166528.rdf
+  Title: 研究開発投資が生産性に与えるメカニズムに関する分析(技術進歩の経済分析(1),一般講演,第22回年次学術大会)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7255
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098168576.rdf
+  Title: 製品の普及特性と新技術適用タイミングに関する考察 : テレビ受像機での事例(国際競争力・産業競争力(2),一般講演,第22回年次学術大会)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7233
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098169472.rdf
+  Title: 研究開発投資多角化の動向について : 企業別パネル・データを用いた分析(評価(1),一般講演,第22回年次学術大会)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7226
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098216704.rdf
+  Title: 技術経営システムの革新 : 日米比較(<ホットイシュー>日本型技術経営システムのダイナミズムの解明(2))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7063
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098226048.rdf
+  Title: 科学技術国際共同研究プログラムにおける計画とマネジメント : 事例調査による特徴と課題(政策評価・研究評価)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6940
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098229888.rdf
+  Title: 通信プロトコル技術の技術軌道の分析(ITと科学技術)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6895
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098230912.rdf
+  Title: Successful Engineer育成に関する研究2 : 成果分類と育成の要因分析(MOT教育の質的検討)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6885
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098232448.rdf
+  Title: 情報通信技術に関わる耐久消費財の普及率分析 : なぜBassモデルに従わないのか(技術と経済)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6872
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098235264.rdf
+  Title: 企業における商品化意思決定プロセスとNEDO研究開発事業の関係に関する一考察(独立行政法人化)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6841
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098238464.rdf
+  Title: イノベーションに関する総合的指標開発の試み(第 1報) : イノベーション・インデックスの検証と研究アクティビティ
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6784
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098241920.rdf
+  Title: 九州地域における産学官連携の新たな展開
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6702
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098242944.rdf
+  Title: 変革期におけるR&Dマネジメントに求められる本質的課題
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6693
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098243968.rdf
+  Title: 経済・社会情勢等環境変化を考慮した研究開発プロジェクトの評価手法について
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6682
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098245248.rdf
+  Title: ITの業種間スピルオーバーとその収穫逓増への影響に関する分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6676
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098245888.rdf
+  Title: イノベーションの普及プロセスに関する実証分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6671
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098246528.rdf
+  Title: 欧米大学における学生ビジネスプランコンテストの調査 : 大学スピンオフベンチャー振興施策としての視点から
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6650
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098247424.rdf
+  Title: 企業会計基準の変化とR&D : 予備調査から
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6631
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098248448.rdf
+  Title: 増大する複雑性に関する技術政策と技術経営の課題
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6615
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098250496.rdf
+  Title: LSIの配線設計の課題と設計自動化ツール開発の重要性の考察(国際競争力・産業競争力 (2))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6571
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098254848.rdf
+  Title: 米国中西部大学における技術移転の現状及び考察(産学官連携 (3))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6486
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098255616.rdf
+  Title: 中小企業支援と産学官連携策の経緯 : 中核的推進機関の体制とその変遷(<ホットイシュー> 産学連携の再考 (5))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6479
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098257664.rdf
+  Title: 研究開発と標準化戦略に関する基礎的検討(標準化 (3))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6465
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098258304.rdf
+  Title: 企業における生産性の分析 : 電気機械産業に視点をおいた実証分析(<ホットイシュー> イノベーションその計測・評価 (2))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6453
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098261504.rdf
+  Title: イノベーション・マネジメント・システムにおけるCTOの資質・能力(<ホットイシュー> イノベーションを実現するためのマネジメント (8))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6421
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098263552.rdf
+  Title: 公的応用研究機関における起業支援制度の技術ベンチャー創出への効果(産学官連携 (1))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6395
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098265344.rdf
+  Title: 日本の非鉄金属工業におけるパラダイム転換期の技術革新戦略 : 企業内技術スピルオーバのダイナミズムと効果(研究開発システムとモデル (1))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6375
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098265856.rdf
+  Title: 企業とアカデミアの知の接点としての Scientific Advisory Board : 国内バイオベンチャーにおける活用の状況と課題(<ホットイシュー> 産学連携の再考 (1))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6371
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098268032.rdf
+  Title: 委員の属性による評価視点の相違について(評価 (2))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6357
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098274688.rdf
+  Title: 民間企業の研究開発動向(技術経営 (1))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6305
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098276736.rdf
+  Title: イノベーション創出に向けた目的基礎研究から応用・実用化研究への橋渡しに関するケーススタディ(<ホットイシュー> イノベーションを実現するためのマネジメント (1))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6270
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098283264.rdf
+  Title: 地域産業技術とナノ・IT・バイオ知財経営融合型人材養成(地域クラスター, 第20回年次学術大会講演要旨集II)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6184
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098292736.rdf
+  Title: グランド・デザインに基づく日本の公的研究機関の歴史的発展((ホットイシュー) 地方公設試験場、公立大学の法人化と地域イノベーション政策 (3), 第20回年次学術大会講演要旨集I)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6027
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098294528.rdf
+  Title: 漆喰成形体開発とその展望
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5940
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098298112.rdf
+  Title: EPR(拡大生産者責任)と静脈産業論
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5837
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098299008.rdf
+  Title: 我が国の製造業における特許出願パターンとコア技術分野の関係の分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5827
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098301184.rdf
+  Title: 産学連携システム整備の課題に関する一考察
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5786
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098302720.rdf
+  Title: 標準化活動と知的財産権
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5770
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098305280.rdf
+  Title: 我が国製造業の空間移動と地域産業の構造変化
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5704
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098309120.rdf
+  Title: 「構想提案力/目標設定力の強化」 : MOT分科会WG1研究計画
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5609
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098311040.rdf
+  Title: 産業発展過程と研究開発および技術貿易の構造に関する分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5567
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098313088.rdf
+  Title: 生産技術の研究, 開発, 実用化の統合的マネジメント : 策1報フレームワーク
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5518
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098314368.rdf
+  Title: 核不拡散・核軍縮の動向と今後の展開
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5506
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098316160.rdf
+  Title: グローバリゼーションとコアテクノロジー
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5489
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098320256.rdf
+  Title: 中国のテクノポリスの現状分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5359
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098374144.rdf
+  Title: 民間企業の研究開発活動の実態 : 大企業と研究開発型中小企業の差異
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5283
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098375424.rdf
+  Title: R&Dにおける情報化戦略
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5281
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098376576.rdf
+  Title: 特許出願件数から見た産業別研究開発活動の分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5262
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098377728.rdf
+  Title: 国勢科学試論
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5250
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098379904.rdf
+  Title: A Methodology for Archiving Technological Knowledge
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/4130
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098382464.rdf
+  Title: Sharing and Applying of Knowledge in Reflective Teacher Education
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/4116
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098384640.rdf
+  Title: Interface for Digital Notes Using Stylus Motions Made in the Air
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/4085
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098386176.rdf
+  Title: Intellectual Property Management Capability in Chemical Enterprise
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/4070
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098388864.rdf
+  Title: Systems for Integrating and Creating Knowledge
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/3918
+
+- URI: https://cir.nii.ac.jp/crid/1050574047098392576.rdf
+  Title: Consulting as Outsourcing of Decision Making
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/3867
+
+- URI: https://cir.nii.ac.jp/crid/1050574047104133632.rdf
+  Title: ロンバード効果を応用した第二言語学習者のための会話支援手段実現に向けた基礎的検討
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17623
+
+- URI: https://cir.nii.ac.jp/crid/1050574047104897536.rdf
+  Title: 社会課題解決を目指した研究開発マネジメント及び評価分野におけるケースメソッド教育の可能性検討
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17457
+
+- URI: https://cir.nii.ac.jp/crid/1050574047104899200.rdf
+  Title: AIクロスマップによる戦略的産学連携の試み (3) : 情報学分野の戦略的産学連携の立案
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17454
+
+- URI: https://cir.nii.ac.jp/crid/1050574047104901120.rdf
+  Title: 発明の同期の定量化の試み
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17448
+
+- URI: https://cir.nii.ac.jp/crid/1050574047104906880.rdf
+  Title: 米国の国際共同研究推進政策における課題と動向分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17360
+
+- URI: https://cir.nii.ac.jp/crid/1050574047104910976.rdf
+  Title: 最先端領域の研究開発を基盤とするスタートアップによる新市場創出手法 : BTSアプローチの提案
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17306
+
+- URI: https://cir.nii.ac.jp/crid/1050574047104912000.rdf
+  Title: COVID-19と女性エンジニア活生分科会(JWSE)の挑戦
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17301
+
+- URI: https://cir.nii.ac.jp/crid/1050574047104939520.rdf
+  Title: 創成教育における新しい学習モデルの提案 : サーキットモデルによるプロジェクトマネジメントとその評価方法
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17261
+
+- URI: https://cir.nii.ac.jp/crid/1050574047105014656.rdf
+  Title: 空気圧アクチュエータを用いた全周囲圧力提示システムNaviChokerの開発
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17061
+
+- URI: https://cir.nii.ac.jp/crid/1050574047105187328.rdf
+  Title: GhostCube : 逆再生によるルービックキューブ解法支援
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17038
+
+- URI: https://cir.nii.ac.jp/crid/1050574047114977920.rdf
+  Title: 沿岸域利用の新秩序形成に関する考察
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16934
+
+- URI: https://cir.nii.ac.jp/crid/1050574047114980608.rdf
+  Title: 沿岸域管理における連邦と州の調整機構 : オーストラリアのグレートバリアリーフにおけるケーススタディ
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16813
+
+- URI: https://cir.nii.ac.jp/crid/1050574047114982400.rdf
+  Title: 観光現場ニーズから見えてきた地域における社会人観光教育の提案 : 北海道地域観光マネージャー育成事業の事例考察
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16785
+
+- URI: https://cir.nii.ac.jp/crid/1050574047114983168.rdf
+  Title: GPSを利用した地域周遊バスCANBUS利用客の個別行動パターンの分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16782
+
+- URI: https://cir.nii.ac.jp/crid/1050574047114984448.rdf
+  Title: インテュイティブ・サージカル社の手術支援ロボット「ダ・ヴィンチ」事業 : 「本体・消耗品モデル」を軸とした社会実装と市場拡大に関する一考察
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16610
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115043840.rdf
+  Title: 高等教育における学生のSDGsにおける意識調査分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16561
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115045376.rdf
+  Title: 人文社会科学分野の研究活動を促進するために何が必要か : 研究成果発表媒体に関する研究者の意識調査の自由記述分析をもとに
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16550
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115051264.rdf
+  Title: 新次元未来産業のブレイクスルーの条件と展開
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16486
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115052032.rdf
+  Title: エマージング・テクノロジーの社会実装に向けた政策戦略としての「お手本標準」
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16482
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115055872.rdf
+  Title: “制度”や“社会文化”を梃子にした普及構造の進化と多様化 : ビジネスモデルの観点から見たイノベーション普及に関する一考察
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16459
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115056512.rdf
+  Title: 飲酒者の発想を活用する発散的思考技法の提案
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16265
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115058688.rdf
+  Title: 中空型音声コミュニケーション・メディアのデザインのための声質と対話時間に関する基礎的調査
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16257
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115059840.rdf
+  Title: 共有机のメタファを用いた作業領域の制限による作業プロセス中での相互のリソースの表出化・活用支援システム
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16253
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115062528.rdf
+  Title: ローグライクゲームの研究用ルール提案とモンテカルロ法の適用
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16087
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115065728.rdf
+  Title: 先発医薬品メーカーのジェネリックメーカー向けの自発的ライセンスがもらたす社会的経済的インパクトの分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/15707
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115067776.rdf
+  Title: 所定外労働時間と経済回復力の関係
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/15678
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115069824.rdf
+  Title: 科学技術指標における指標開発の試み : 過去10年間の指標の変遷に注目した考察
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/15670
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115073536.rdf
+  Title: 日本における分野を超えた研究活動の規定要因 : 国立の研究大学所属研究者へ調査票調査の結果から
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/15576
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115074304.rdf
+  Title: Industrie4.0に如何に備えるか？ : 中小・中堅企業支援の立場から
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/15557
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115079168.rdf
+  Title: Sliding Tokens on a Cactus
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/15125
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115081728.rdf
+  Title: Funnel Chat：創造的会議のためのアイデアの埋没を防ぐチャットシステムの提案
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/15109
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115085184.rdf
+  Title: 超長期の科学技術と社会の課題の把握のための定性的将来予測の取組み
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/15015
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115086208.rdf
+  Title: 再生可能エネルギーを使った地域活性化事業の経済的・社会的インパクト評価
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/14995
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115086976.rdf
+  Title: 欧州における科学イノベーション政策研究のための研究インフラ（RISIS）と日本の現状についての考察
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/14987
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115088000.rdf
+  Title: アントレプレナーシップ・モチベーション
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/14960
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115089152.rdf
+  Title: 法規制によるプロジェクトマネジメントへの影響
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/14956
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115090432.rdf
+  Title: 日本企業の研究開発体制再考 : 東大先端研サーベイ
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/14952
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115092864.rdf
+  Title: 新技術による事業開発の動的プロセスモデルの提案
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/14900
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115095680.rdf
+  Title: オープンサイエンス政策の実践とその展望
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/14863
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115096576.rdf
+  Title: 学際的な教育研究活動推進のための戦略 : 研究大学の戦略計画に着目した日英米の比較研究
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/14844
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115099904.rdf
+  Title: A new wireless geolocation technique using joint RSS-based voronoi and factor graph
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/14232
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115105792.rdf
+  Title: 科学技術基本計画のテキストマイニング分析と研究、イノベーションの位置付け
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13994
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115106688.rdf
+  Title: 民間R&Dに対する公的支援の効果
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13982
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115107712.rdf
+  Title: 大学における支援人材の業務分析と組織再構築に向けた提言
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13971
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115109376.rdf
+  Title: 学会や論文の動向から見た分野別の研究者（研究開発人材）規模の把握について
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13954
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115113216.rdf
+  Title: IT活用と企業の持続的競争優位性の関係に関する実証研究
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13906
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115122560.rdf
+  Title: 著作権等管理事業法の政策効果/音楽の著作権市場におけるanticommonsの実証
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13391
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115123072.rdf
+  Title: 日本の化学系企業の特許出願と収益性との関連について
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13383
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115124736.rdf
+  Title: 新たな産学連携モデルの開発と検証3 : 関与者のメンタルモデルの変容に着目して
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13376
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115125888.rdf
+  Title: 新たな産学連携モデルの開発と検証1 : SSMに基づくモデルの構想と実装
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13374
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115126784.rdf
+  Title: 新興国市場開拓に向けた日本企業の研究開発活動の現状と課題
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13332
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115127808.rdf
+  Title: 技術提供の決定要因に関する分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13328
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115129216.rdf
+  Title: 論文・特許テキスト相関分析によるIoT技術の産業化分野の抽出
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13317
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115130112.rdf
+  Title: 国内製薬企業の特許共同出願に見るパートナーシップのネットワーク分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13301
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115131264.rdf
+  Title: 産業技術政策の変遷と今後の新ビジネス検討手法の展望
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13282
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115132160.rdf
+  Title: 科学技術基本計画と「科学技術イノベーション政策の科学」 : 到達点と今後の展望
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13273
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115132928.rdf
+  Title: 物質・エネルギー収支からみた輸入水素の輸送効率に関する比較研究
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13258
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115139712.rdf
+  Title: サードプレースを包含したサービスビジネスモデルの可能性
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/12557
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115141120.rdf
+  Title: イノベーション理論の基盤としての知識構造の可視化
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/12535
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115143808.rdf
+  Title: 海外企業でのインターンシップで学生を実務訓練
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/12488
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115147776.rdf
+  Title: 大規模組織における知識移転 : 知識仲介人の知識賛同要因の分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/12473
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115148800.rdf
+  Title: 特許による科学論文引用を利用した日本の研究開発の特徴についての分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/12467
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115149696.rdf
+  Title: グローバルニッチトップ企業の企業戦略の特性の類型化の試み
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/12456
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115156480.rdf
+  Title: もったいないトレンド: 音楽の過剰消費を防止するミュージックプレイヤー
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/12251
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115160192.rdf
+  Title: 小国の科学技術・イノベーション力 : 台湾の事例
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11840
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115160832.rdf
+  Title: 小国の科学技術・イノベーション力 : アイルランドの事例 : 外国企業誘致によりイノベーションを推進
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11838
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115162496.rdf
+  Title: 構成型研究と科学技術戦略 : 再生可能エネルギーを例として
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11816
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115163776.rdf
+  Title: 中国における産学連携の推進 : 大学側から見た現状と課題
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11793
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115166336.rdf
+  Title: 国際競争の下での大学改革と産業発展効果 : 台湾の事例
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11782
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115167360.rdf
+  Title: 「もてなし」型価値共創の視点 (第3報) : 国内外の宿泊サービスにおける文化依存・拡大志向の事例より
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11779
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115168768.rdf
+  Title: 現代のハイテク中小製造企業群における技術力の向上とイノベーションに関する調査研究
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11751
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115170944.rdf
+  Title: 我が国の研究開発ファンディングに関する基礎的課題
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11715
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115172864.rdf
+  Title: 追跡ヒアリングを中心としたコンソーシアム型NEDOプロジェクトにおける成功要因分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11695
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115176448.rdf
+  Title: TweetChair: モノへの愛着を利用した健康支援の試み
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11629
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115182720.rdf
+  Title: 技術経営に対する地政学の適用可能性
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11187
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115183616.rdf
+  Title: 暗黙の知的財産権同盟によるイノベーションの専有可能性
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11179
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115184640.rdf
+  Title: 知識の吸収、創造、移転の国際展開
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11167
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115185152.rdf
+  Title: 中小企業向け産学官連携支援制度の利活用状況に関する分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11153
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115187456.rdf
+  Title: 早稲田大学重点領域研究における戦略と評価
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11116
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115188736.rdf
+  Title: 省庁所管内の独立行政法人間における共著論文調査
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11099
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115190272.rdf
+  Title: NEDO実用化・企業化促進事業の実用化率向上に向けた制度運営に関する一考察
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11091
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115191808.rdf
+  Title: 日本の博士課程学生による論文生産
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11047
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115192960.rdf
+  Title: 状況基盤アプローチによる新顧客の発見 第2報
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11043
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115193856.rdf
+  Title: サービスとモノづくりの関係性の変容と多様化
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11037
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115255296.rdf
+  Title: ソフトウェア知識受領における障害と要件の検討
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11025
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115256576.rdf
+  Title: 産学官連携創出マトリックス
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11011
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115257344.rdf
+  Title: ビッグデータ活用スキームにおける法制度の壁 : メガ・システムにおけるロングアームス法理の矛盾
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/10978
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115260800.rdf
+  Title: 微少遅延聴覚フィードバックを用いたドラム演奏練習支援システムの基礎的検証
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/10633
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115263488.rdf
+  Title: 非接触型決済による電子マネーの普及に関する研究
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/10266
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115264512.rdf
+  Title: 知的財産活動者中における標準化活動の動向と計測手法について
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/10249
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115265408.rdf
+  Title: 社会的に多大な影響を及ぼしうる危機の発生時における管理判断の基軸について
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/10244
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115266176.rdf
+  Title: 先進国と新進国の共進的内生化過程比較実証分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/10232
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115267072.rdf
+  Title: 科学技術振興機構における科学技術マネジメント人材育成制度
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/10215
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115269632.rdf
+  Title: 米国における基礎研究活動に対する連邦政府の政策の変容
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/10110
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115270656.rdf
+  Title: 日本企業の中国と米国における目的に適合した研究開発マネジメント
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/10088
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115271680.rdf
+  Title: 科学技術政策の弱者救済に向けたクリエィティブ・エコロジーの構築 : 情報ディバイド解消の処方策に係る知財クリニック症例に基づく試論
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/10055
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115281152.rdf
+  Title: Low-Complexity Strategies for Multiple Access Relaying
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/9819
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115283584.rdf
+  Title: 科学技術コミュニケーション人材の能力・スキルに関する調査研究
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/9475
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115284480.rdf
+  Title: 民間企業が研究連携先に選ぶ大学の評価要素
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/9456
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115286528.rdf
+  Title: イノベーションの創造､普及と共同研究における社会ネットワーク特性 : CTスキャナの特許データの分析より
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/9401
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115288960.rdf
+  Title: 宇宙基本法による宇宙開発利用推進の再考
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/9343
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115291648.rdf
+  Title: 基礎科学研究の追跡評価 : 研究室の活性度と外部レビュー
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/9329
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115292800.rdf
+  Title: 研究戦略に基づく構成的な研究評価(II)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/9325
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115293952.rdf
+  Title: 生命基礎研究のベンチャーによる事業化へのリアルオプション応用について
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/9315
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115294848.rdf
+  Title: 人的資本の空間集積に関する経済効果分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/9305
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115295616.rdf
+  Title: 事前標準を前提としたビジネスモデル
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/9290
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115296512.rdf
+  Title: 伝統工芸MOT教育におけるマーケティング教材の開発
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/9242
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115300096.rdf
+  Title: 食材の持ち寄りによるコミュニケーション活性化支援システム
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/9012
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115302016.rdf
+  Title: あいづち機能を用いた分散ブレインストーミング支援システム
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/9010
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115303296.rdf
+  Title: デジタルネット時代における著作権法制度の在り方についての一考察
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/8779
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115306880.rdf
+  Title: 太陽光発電ロードマップ(PV2030＋)を踏まえた今後の戦略的技術開発の展開
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/8718
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115309056.rdf
+  Title: 技術移転プロセスの変遷とオープンマネジメントモデルの研究
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/8700
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115309952.rdf
+  Title: ３つの「オープン戦略」: 技術開発協業、製品技術公開、市場形成分業
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/8696
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115313664.rdf
+  Title: 国立高等専門学校制度における第二次中期計画について : 中央教育審議会の答申を受けて
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/8638
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115314944.rdf
+  Title: 社会的課題から誘発される新興・融合科学技術の発展過程と推進方策
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/8616
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115316736.rdf
+  Title: サービスイノベーションによる新産業成長戦略と展開
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/8582
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115317248.rdf
+  Title: サービスイノベーションの情報科学リンケージの研究
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/8579
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115320064.rdf
+  Title: Fusion of direction sensing RFID and sonar for mobile robot docking
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/8488
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115323648.rdf
+  Title: 物理学分野のポスドク対策への考察
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7740
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115324544.rdf
+  Title: 大学における研究アドミニストレーターの役割
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7737
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115325440.rdf
+  Title: 環境系大学発ベンチャー企業の現状と展望
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7733
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115326336.rdf
+  Title: 探索研究の支援を目的とした高自律型マネジメントモデルの企業における展開
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7694
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115327360.rdf
+  Title: 産学金連携の推進とその課題
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7686
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115328640.rdf
+  Title: NEDOプロジェクトを核とした人材育成、産学連携等の総合的展開の効果的実施に向けた考察
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7682
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115329408.rdf
+  Title: 国際競争力の更なる強化のためのアンブレラ産業を軸とする産業技術俯瞰図
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7675
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115331712.rdf
+  Title: 我が国の産業構造と成長力
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7652
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115333376.rdf
+  Title: 科学・技術の創造的発展のための基盤研究
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7646
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115334144.rdf
+  Title: 国際競争化においての日本鉄鋼業の生産性に関する実証分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7618
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115336448.rdf
+  Title: 自然科学系における「政策」教育の意義と難しさ
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7591
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115337088.rdf
+  Title: 有機EL分野におけるアライアンス動向の分析 : 株式市場における評価
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7574
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115338880.rdf
+  Title: 中小企業の技術開発に対するサポイン法の支援効果の分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7564
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115339904.rdf
+  Title: ケータイユーザの心理的影響に関する考察
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7552
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115342336.rdf
+  Title: サービスの分野横断的モデリングとその試行(II) : サービスにおける顧客参加過程ともてなし文化/サービスの価値推移
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7501
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115343104.rdf
+  Title: 国家技術戦略立案プロセスに関する技術経営論的考察
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7495
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115345280.rdf
+  Title: 開発連携型イノベーションにおけるベンチャー企業の役割(ベンチャー経営と政策(1),一般講演,第22回年次学術大会)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7448
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115349376.rdf
+  Title: アメリカ大学における「外部資金支援研究のマネジメント能力」の発展(産官学連携(5),一般講演,第22回年次学術大会)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7404
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115350144.rdf
+  Title: 不完全なモジュラー性と製品開発力 : 携帯電話端末開発における垂直分裂と製品開発知識の補完(<ホットイシュー>日本企業のアジア展開(1),一般講演,第22回年次学術大会)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7377
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115351168.rdf
+  Title: イノベーションの外生化とインテグレータとしての企業(技術経営(5),一般講演,第22回年次学術大会)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7345
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115353344.rdf
+  Title: イノベーションと間接的組織間学習 : 新聞紙カラー印刷の事例(技術経営(4),一般講演,第22回年次学術大会)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7328
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115356288.rdf
+  Title: 電気事業におけるサービスイノベーションと知識マネジメントに関する考察(ナレッジマネジメント,一般講演,第22回年次学術大会)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7301
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115360000.rdf
+  Title: 製品安全行政の新たな展開と産業政策のパラダイムシフト(科学技術政策と政策論(1),一般講演,第22回年次学術大会)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7221
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115363584.rdf
+  Title: ナノテク政策とそれが関連組織に及ぼした影響 : バーチャル型研究体制(新技術の動向)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7161
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115364608.rdf
+  Title: 高齢化・人口減少社会におけるシニア研究者・開発技術者に望まれる役割(人材問題)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7149
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115365632.rdf
+  Title: 科学技術振興機構における研究開発戦略立案機能の強化(<ホットイシュー>科学技術基本計画のインパクトと次のステップ(3))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7127
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115367680.rdf
+  Title: 知識社会における新たな仲介者 : ネットワークジェネレーターの機能と要件(研究開発型NPOと産官学連携)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7072
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115368576.rdf
+  Title: 日本型技術経営システムのダイナミズムの解明 : 日英のインスティテューションの比較実証分析(<ホットイシュー>日本型技術経営システムのダイナミズムの解明(2))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7061
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115369600.rdf
+  Title: 技術拮抗力の新機能創出・普及への影響に関する分析 : キヤノンプリンタと日本パソコンの実証分析(<ホットイシュー>日本型技術経営システムのダイナミズムの解明(1))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7053
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115372160.rdf
+  Title: 戦後日本の産業技術振興における大学の役割(<ホットイシュー>イノベーションのジレンマへの日本型の解(1))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7023
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115387648.rdf
+  Title: 科学技術基本計画の内容分析・構造分析 (第1報)(政策評価・研究評価)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6941
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115388672.rdf
+  Title: 産学連携道場での実践の報告(ニーズを見据えた研究開発2)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6931
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115389568.rdf
+  Title: ターゲットドリブン型イノベーションモデルに関する研究(ニーズを見据えた研究開発1)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6921
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115390592.rdf
+  Title: 大学知的財産本部整備事業計画に関する調書の分析と考察(知的財産2)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6917
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115394048.rdf
+  Title: 技術史的認識を産業政策に直接応用できるか(科学技術と社会)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6867
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115442560.rdf
+  Title: 環境規制による技術変化の実証的考察
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6766
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115443584.rdf
+  Title: 米国ナノテクノロジーの研究開発体制
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6762
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115444480.rdf
+  Title: 研究開発フロー&ストック・ダイヤグラムに基づいた, エレクトロニクス企業における開発過程の研究
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6742
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115445888.rdf
+  Title: 事業最前線で感じているリサイクル事業政策に必要な視点
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6728
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115446656.rdf
+  Title: 学生ビジネスプランコンテストの新しい試み
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6721
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115447936.rdf
+  Title: インキュベータ運営の米国モデル
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6713
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115449088.rdf
+  Title: データマイニング手法を用いた技術連関分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6683
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115450112.rdf
+  Title: 特定非営利法人創設と事業創造モデル
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6664
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115451264.rdf
+  Title: フランホーファーゲゼルシャフトの研究 : 技術移転とスピンオフベンチャー創業に関する調査と日本における同種組織の設置案検討
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6655
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115453568.rdf
+  Title: ビジネスモデル普及のためのプラットフォーム構築
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6621
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115455488.rdf
+  Title: 成功する産学連携の一方法
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6593
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115484672.rdf
+  Title: コンテンツビジネスにおけるイノベーションの計量分析 : CDが日本の音楽産業に与えた影響(技術進歩の経済分析 (2))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6557
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115486848.rdf
+  Title: 日本人研究者のアメリカ移住(人材問題 (2))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6533
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115487488.rdf
+  Title: イギリスの大学における契約研究員のキャリア・マネジメント(人材問題 (2))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6532
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115489024.rdf
+  Title: イノベーションの構造化(<ホットイシュー> イノベーションを実現するためのマネジメント (6))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6511
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115490688.rdf
+  Title: 自転車産業における標準化と産業競争力(標準化 (2))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6464
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115491328.rdf
+  Title: オープン・ポートフォリオに基づく国内製薬企業のR&Dマネジメント(分野別のR&Dマネジメント (3))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6442
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115492352.rdf
+  Title: 日本の製薬企業における閉鎖的自社内研究開発と企業間再編の考察(分野別のR&Dマネジメント (3))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6438
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115494144.rdf
+  Title: プロダクトイノベーションに関する研究開発投資戦略のモデル分析(研究開発システムとモデル (1))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6377
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115495040.rdf
+  Title: 海外資金配分機関のプログラム・マネジメントに関する比較分析(分野別のR&Dマネジメント (2))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6368
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115499520.rdf
+  Title: アウトカム概念の知識論と事例調査結果(<ホットイシュー> イノベーションその計測・評価 (1))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6300
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115502208.rdf
+  Title: 追跡調査の事例分析による研究開発マネジメント上の課題抽出について(<ホットイシュー> イノベーションを実現するためのマネジメント (1))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6269
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115508352.rdf
+  Title: 再生可能エネルギーの普及促進策と技術課題(環境技術のマネジメント, 第20回年次学術大会講演要旨集II)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6179
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115516160.rdf
+  Title: 研究者集積度による21世紀COE研究拠点の定量的評価の試み(評価 (3), 第20回年次学術大会講演要旨集I)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6060
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115556480.rdf
+  Title: 地域科学技術資源の指標化及びそれに基づく分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5865
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115557504.rdf
+  Title: MOT研究科に関する計画
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5862
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115558272.rdf
+  Title: インスティチューションの臨界状態に照らした新技術製品の開発タイミングの検証 : レーザビームプリンタに視点を据えた実証分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5847
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115559680.rdf
+  Title: 研究開発投資の最適選択理論の検討
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5832
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115562112.rdf
+  Title: 地域における産業の立地要因の分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5794
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115567872.rdf
+  Title: 技術革新構造の変容に関する実証的分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5738
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115568640.rdf
+  Title: 産学官研究コンソーシアム形成における共創的環境構築に関する研究 : ヘルスケア分野における試み
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5710
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115569536.rdf
+  Title: 地方公共団体における科学技術関係経費からみた科学技術政策
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5706
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115571200.rdf
+  Title: 技術予測の変化と差異
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5679
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115571712.rdf
+  Title: 企業の研究開発環境としての試験研究税制の計量経済学的分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5668
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115612800.rdf
+  Title: New Score法による複数研究テーマ評価
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5628
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115615744.rdf
+  Title: 企業におけるディシジョンマネジメント(DM)法の評価
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5551
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115617280.rdf
+  Title: 国際規格制定作業からみた国際貢献度
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5542
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115619328.rdf
+  Title: 公営研究機関に於ける運営形態の多様化とその役割
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5453
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115621120.rdf
+  Title: 技術開発と市場外部性(II) : エネルギー開発を例として
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5448
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115622016.rdf
+  Title: 企業事例にみる研究者・技術者の育成・活用
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5440
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115624448.rdf
+  Title: 研究開発・技術開発活動における外部経済性メカニズム〔I〕
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5403
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115625600.rdf
+  Title: ライフサイクルコスト分析による研究・開発投資の効率比較とその改善策に関する一考察 : 特に人材開発のために
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5397
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115626240.rdf
+  Title: 異分野研究者チームによる新研究テーマ創出活動のプロセスモデルの実証的検討
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5392
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115626880.rdf
+  Title: 地方公設試の人材活用策について
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5389
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115627392.rdf
+  Title: 建設業における戦略的研究開発マネジメント
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5379
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115628032.rdf
+  Title: 技術者の成長を加速する啓発的風土の研究
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5340
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115629056.rdf
+  Title: 科学技術活動のグローバリゼーションの実態に関する我が国研究者及び民間企業の認識
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5320
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115629696.rdf
+  Title: 非線形R&Dマネジメントにおける基礎研究の展開事例
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5315
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115630848.rdf
+  Title: 製品ライフサイクルとOEM戦略
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5310
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115631360.rdf
+  Title: 大規模システム開発における評価メジャーの適用
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5285
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115633408.rdf
+  Title: 科学技術政策の決定過程を巡る考察
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5248
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115635328.rdf
+  Title: 新規分野参入に係るScicncePolicyとCharacterization
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5178
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115649536.rdf
+  Title: 認知症高齢者を受容する価値観創造のための社会システムの構築
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/4416
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115651840.rdf
+  Title: Intellectual Resources in Modern Universities : Knowledge Emergent Mechanism and Adjustable Management
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/4113
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115663616.rdf
+  Title: Role-driven Business Process Models
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/3942
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115664640.rdf
+  Title: Time, processes and cycles
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/3929
+
+- URI: https://cir.nii.ac.jp/crid/1050574047115665536.rdf
+  Title: Research on XML-based Information Retrieval Model
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/3922
+
+- URI: https://cir.nii.ac.jp/crid/1050574047121169536.rdf
+  Title: デジタル描画における消し跡の影響に関する基礎的考察 ～試行錯誤的描画の支援を目指して～
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17622
+
+- URI: https://cir.nii.ac.jp/crid/1050574047121790080.rdf
+  Title: タイ工科系大学の学生の進路選択における日本でのインターンシップ経験の影響
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17458
+
+- URI: https://cir.nii.ac.jp/crid/1050574047121801984.rdf
+  Title: 日本企業のグローバル・イノベ ーションに関する調査報告
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17324
+
+- URI: https://cir.nii.ac.jp/crid/1050574047121803520.rdf
+  Title: 米国における経済的競争力および国家安全保障の要請による新たな「研究公正性」の諸課題
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17318
+
+- URI: https://cir.nii.ac.jp/crid/1050574047121805184.rdf
+  Title: 長期のインプット・アウトプットマクロデータを用いた日本の大学の論文生産の分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17307
+
+- URI: https://cir.nii.ac.jp/crid/1050574047121806208.rdf
+  Title: 開放特許情報データベースに見る大学の発明に基づいた特許の登録状況
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17302
+
+- URI: https://cir.nii.ac.jp/crid/1050574047121942784.rdf
+  Title: FreeDance : 適応型ダンス練習継続支援システム
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17065
+
+- URI: https://cir.nii.ac.jp/crid/1050574047122135296.rdf
+  Title: M5Stackを用いて血流センサとLEDライトを繋げた生体インタラクションの開発
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17029
+
+- URI: https://cir.nii.ac.jp/crid/1050574047122214016.rdf
+  Title: Segment-level Effects of Gender, Nationality and Emotion Information on Text-independent Speaker Verification
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16962
+
+- URI: https://cir.nii.ac.jp/crid/1050574047131988480.rdf
+  Title: 沿岸域の利用における二重構造に関する分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16932
+
+- URI: https://cir.nii.ac.jp/crid/1050574047131989504.rdf
+  Title: エコツーリズムの構造モデルと地域の主体性について
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16878
+
+- URI: https://cir.nii.ac.jp/crid/1050574047131992448.rdf
+  Title: IT サービス運用現場における人材の役割分担モデル : 運用業務の属人化と非属人化
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16644
+
+- URI: https://cir.nii.ac.jp/crid/1050574047131993472.rdf
+  Title: しまねアカデミアという挑戦 3 : 超学際研究の推進と課題
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16640
+
+- URI: https://cir.nii.ac.jp/crid/1050574047131995520.rdf
+  Title: 洗濯用洗剤の商品形態と価値形成の変遷 : ミニベーション連鎖に関する一考察
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16601
+
+- URI: https://cir.nii.ac.jp/crid/1050574047131996928.rdf
+  Title: ブラジル金型集積の形成・発展における移民ネットワークの貢献 : イタリア系移民都市カシアス・ド・スルのケーススタディより
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16595
+
+- URI: https://cir.nii.ac.jp/crid/1050574047131998720.rdf
+  Title: 地域イノベーションと大学発ベンチャーに関するアンケート結果
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16574
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132000896.rdf
+  Title: 再生可能エネルギー分野での政策分析能力 : 日米独比較の試み
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16525
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132002816.rdf
+  Title: 災害からのオープンイノベーション
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16504
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132003584.rdf
+  Title: SDGsを推進するための人材育成の提案
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16494
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132005632.rdf
+  Title: Replica^2：模写過程の模倣による初学者のための描画練習支援システムの提案
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16255
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132006784.rdf
+  Title: 自己観察が認知的作業のパフォーマンスに与える影響の検証
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16249
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132007936.rdf
+  Title: Emotional Bodily Expressions for Culturally Competent Robots through Long Term Human-Robot Interaction
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/16106
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132011648.rdf
+  Title: 大企業とベンチャー企業の連携によるオープンイノベーション
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/15709
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132014464.rdf
+  Title: スマートフォンにおける製品アーキテクチャの変化 : グーグルのモジュール化スマホは何故失敗したのか？
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/15664
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132016896.rdf
+  Title: 米国の研究開発エコシステム再考 : 他国において政策形成の参考とするための視点
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/15653
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132017792.rdf
+  Title: アジアにおける日本企業のSDGs貢献 : 新聞3紙の記事調査から
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/15622
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132025472.rdf
+  Title: インフラに使用される情報機器の品質に関する研究
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/15543
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132030976.rdf
+  Title: Auditory Stamp：Earcon との単純接触効果を利用した音を伴う事物への好意度向上手段の検討　－クラシック音楽を題材として
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/15107
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132034432.rdf
+  Title: 中国におけるスタートアップ支援制度
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/15007
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132035840.rdf
+  Title: モバイル顕微鏡が拓くユーザー参加型イノベーションの新たな地平
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/14998
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132036992.rdf
+  Title: 日本、タイ、ベトナムにおける農村への再生可能エネルギー導入
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/14992
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132040064.rdf
+  Title: 英国におけるスタートアップ支援制度
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/14970
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132044800.rdf
+  Title: 日本企業における海外R&D活動撤退の分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/14867
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132045696.rdf
+  Title: 遊技用機械器具分野における異分野技術の融合による新製品開発
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/14850
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132054912.rdf
+  Title: 大学とイノベーションとの相関からみる責任ある産学連携についての一考察
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/14025
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132059520.rdf
+  Title: ハッカソンとアイデアソンと地域課題解決 : 福島県浪江町「タブレットを利用したきずな再生・強化事業」の事例を通じて
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13973
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132061440.rdf
+  Title: 日系多国籍企業におけるリバース・イノベーションの可能性について
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13936
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132062336.rdf
+  Title: ブリヂストン業務用タイヤ事業への「サービスビジネスモデル」適用 : 事例を通じた製造業のサービス化に関する一考察 ⑥
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13872
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132063488.rdf
+  Title: 所属組織によるデザイナーの取得意匠権の比較分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13867
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132064384.rdf
+  Title: CSR活動が財務パフォーマンスに与える影響に関する一考察
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13866
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132065536.rdf
+  Title: 科学技術イノベーションと人文・社会科学 II : 連携方策の検討と関連する先行事例
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13851
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132067456.rdf
+  Title: 超スマート社会を具現化するための一方策
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13840
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132072192.rdf
+  Title: 論文の謝辞情報を用いたファンディング情報把握に向けて
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13449
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132072960.rdf
+  Title: HRテクノロジーの経営への活用 : サービス業における従業員満足度調査結果のビッグデータ分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13435
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132073984.rdf
+  Title: オープンデータに関する諸外国の取り組み状況とわが国の課題
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13422
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132075008.rdf
+  Title: イノベーションを含む新聞記事のテキストマイニング分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13418
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132076928.rdf
+  Title: なぜ海外の研究人材が集まるのか : 物質・材料研究機構の人材施策に関する質的調査
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13404
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132077952.rdf
+  Title: 社会認知の変化が産業間の新たな連携と既存産業の活動に与える影響
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13400
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132080000.rdf
+  Title: 新産業創造のためのブレイクスルー経営
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13359
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132081024.rdf
+  Title: 政策立案と科学 : 現代社会における科学的助言の潮流
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13350
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132082304.rdf
+  Title: 大型加速器を用いた大規模物理学実験におけるナレッジマネジメント
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13346
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132085504.rdf
+  Title: 高収益部品メーカーにおける製品戦略 : キーエンスとヒロセ電機の比較
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13318
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132086400.rdf
+  Title: ノーベル賞受賞者の特許・論文・研究資金データを用いた研究開発パフォーマンス分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13310
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132087680.rdf
+  Title: 国立高等専門学校制度の現状と課題について : 高度化再編、単一学科改組再編
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13307
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132088704.rdf
+  Title: 科学技術行政の信頼回復に関する計量分析とweb調査補正
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13269
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132091136.rdf
+  Title: 日本企業におけるイノベーション概念
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/13217
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132148864.rdf
+  Title: 中小製造企業が中国で成功するための必要条件
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/12573
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132151808.rdf
+  Title: 不確実性の高いイノベーション創出のための科学技術政策
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/12538
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132153088.rdf
+  Title: 何が大学院生の研究意欲を高めるのか？
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/12487
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132153984.rdf
+  Title: 論文著者IDによる研究者を単位とした計量書誌学的分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/12466
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132154880.rdf
+  Title: 地方のGNT企業の経営 : 内山工業(株)を事例として
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/12463
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132155904.rdf
+  Title: グローバルニッチトップ企業における成長戦略 : 日独企業の比較分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/12459
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132157056.rdf
+  Title: 生活支援ロボット分野における国際標準化及び認証に関する研究
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/12453
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132157952.rdf
+  Title: 日本の生命科学・医学分野のスター研究者におけるサイエンス・リンケージ分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/12439
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132158976.rdf
+  Title: 健康長寿社会の実現に向けた疾病の予知予防・診断・治療技術の俯瞰 : 生活習慣病 (2型糖尿病) を対象として
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/12417
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132172800.rdf
+  Title: 地域企業の産学連携による新製品開発の特徴
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11830
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132174592.rdf
+  Title: ヘルスケア分野のイノベーションを実現するヘルスケア産業プラットフォーム (PHI)の活動に関する研究
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11823
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132176128.rdf
+  Title: 日本企業と中国の大学・公的研究機関との産学官連携について
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11807
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132178944.rdf
+  Title: 家電量販店モデルの国際展開の可能性
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11768
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132181760.rdf
+  Title: Entrepreneurial Venturing in a Consortium : A Case of Advanced Biotech R&D in Japan
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11710
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132183296.rdf
+  Title: 組織間関係における競争構造 : 中国政府との共同研究
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11702
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132184320.rdf
+  Title: STARTプロジェクトにおけるステージゲート方式によるプロジェクトの選択・管理について
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11666
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132187648.rdf
+  Title: Inbound、outboundオープン・イノベーション成果の規定要因
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11192
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132190848.rdf
+  Title: 学術文献分析に基づく市場性の評価アプローチ
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11131
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132193152.rdf
+  Title: ビッグデータ活用統合医療ビジネスにおけるマップ（地図）とセンサによるイノベーション
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11096
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132194304.rdf
+  Title: 地域発のライフイノベーションへの実践的な取り組み : コーディネート機能の新しい試み、三重県の事例から
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11070
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132195584.rdf
+  Title: 大学発ベンチャー起業前段階の政府支援策の再構築
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11055
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132196480.rdf
+  Title: イノベーションを担う企業人材の育成への課題 : 企業の新卒採用に問題はないか
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11045
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132198400.rdf
+  Title: 技術とビジネスモデルのインターラクティブ開発
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/11016
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132199424.rdf
+  Title: 新たな事業モデル競争時代の企業戦略の展開
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/10995
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132200192.rdf
+  Title: 産総研のワーク・ライフ・バランス支援（5） : 休暇制度利用からみたワーク・ライフ・バランスの進展
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/10990
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132204800.rdf
+  Title: Q&Aサイトにおける社会調査型質問への回答に対する良否判断支援システム
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/10639
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132210816.rdf
+  Title: 大学リサーチ・アドミニストレーターの現状と課題
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/10202
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132211840.rdf
+  Title: 産業政策からイノベーション政策へ : 市場や企業の役割と国の役割
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/10199
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132212608.rdf
+  Title: 自動車の電子化のその先に何が見えるか (その1) : 電子化が加速するグローバル経営環境のパラダイムシフト
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/10191
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132236032.rdf
+  Title: 太陽光発電・スマートグリッド等の普及に関わるキーファクター
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/10127
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132236928.rdf
+  Title: 我が国における人文・社会科学系博士課程修了者の進路動向
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/10119
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132237824.rdf
+  Title: 総合科学技術会議の政治的プレゼンスの時系列変化 : 議長の関与状況の分析から
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/10108
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132238848.rdf
+  Title: 長江デルタ経済圏におけるエコシティの特徴 : 江蘇省宜興市の事例から
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/10104
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132247168.rdf
+  Title: ハードウェアにおける高速なオーディオフィンガープリント 生成システムの性能評価
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/9551
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132248704.rdf
+  Title: 産学連携の一つのモデルとしての「オープンコラボレーション」 : 東北大学江刺研の実践から学ぶ
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/9458
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132249600.rdf
+  Title: フランスの科学技術・イノベーション政策と国債を原資とした研究開発投資
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/9454
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132250240.rdf
+  Title: 日・欧の特許出願人名の名寄せとその分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/9421
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132251520.rdf
+  Title: ウェブサイトを通じた国際化戦略と人材育成 : プロ野球リーグの事例から
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/9416
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132252800.rdf
+  Title: 組織の知識吸収能力の遷移を記述した知識相異性表現法の提案 : 有機TFT 研究組織の事例分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/9405
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132260096.rdf
+  Title: 希少疾病医薬品承認・開発の現状および国際比較
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/9399
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132262400.rdf
+  Title: 産業競争力強化に向けた消費者特性資源化の提案
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/9378
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132265216.rdf
+  Title: 研究者の評価モチベーションを考慮した研究活動情報データベースの構築
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/9324
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132268672.rdf
+  Title: 特許生産の空間配置に関する実証分析 : 化学メーカーを例に
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/9304
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132269696.rdf
+  Title: 地域産業クラスターの競争優位の形成と技術開発 : 鹿児島県の焼酎産地の事例
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/9300
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132320640.rdf
+  Title: 我が国におけるサービスロボットの事業化に関する一考察
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/9260
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132331520.rdf
+  Title: 安全性の論証構造を用いた関係者間コミュニケーションの共有プラットフォーム
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/9243
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132338048.rdf
+  Title: 大学教員の流動性究明に向けた統計学的アプローチ
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/8739
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132338816.rdf
+  Title: 米国の政権移行期における科学政策の変容 : 基礎研究政策を中心に
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/8735
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132340480.rdf
+  Title: フォローアップ評価の設計と運営 : CRESTフォローアップ評価のケーススタディ
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/8685
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132343168.rdf
+  Title: 地域活性化を目指した長崎版科学技術振興の実例と考察
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/8667
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132344320.rdf
+  Title: A Comparison of Mobile Financial Services in Japan and Korea
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/8584
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132352000.rdf
+  Title: 認知症介護支援環境の学生によるチーム開発
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7982
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132354432.rdf
+  Title: 理工系離れは本当か : 科学技術人材養成の問題点
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7734
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132356608.rdf
+  Title: イノベーション・ネットワークの可視化 : 地域クラスターのイノベーション創発力の分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7709
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132358912.rdf
+  Title: 共同研究データに見る国立大学の地域内研究連携状況
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7689
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132406400.rdf
+  Title: 日本の競争的研究資金制度の課題
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7637
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132407296.rdf
+  Title: サイエンスマップに見る科学のダイナミクス
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7630
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132408448.rdf
+  Title: 企業の雇用形態の変容と労働市場構造の共進化に関する分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7620
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132410240.rdf
+  Title: 非営利組織と営利組織の境目と本質的な違い
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7607
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132413056.rdf
+  Title: 研究大学のマネジメント : UCSFの事例を中心として
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7577
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132414080.rdf
+  Title: ファインセラミックス産業の成立に関する日本の技術政策の歴史的役割
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7543
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132414848.rdf
+  Title: 国際的な産学連携共同研究創出の事例報告
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7533
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132416128.rdf
+  Title: 新たなサービスイノベーションアプローチ : ロボット技術によるサービス生産性の向上
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7508
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132419712.rdf
+  Title: イノベーション政策における外国モデルの効用と限界(イノベーション政策と政策研究(6),一般講演,第22回年次学術大会)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7442
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132420480.rdf
+  Title: サービスイノベーション促進のための新たな知的財産権の必要性と要件(イノベーション政策と政策研究(5),一般講演,第22回年次学術大会)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7439
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132421376.rdf
+  Title: 基礎的研究の社会的効果を知るための手法の検討(基礎的研究の社会的意味(2),一般講演,第22回年次学術大会)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7416
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132422400.rdf
+  Title: 感性誘導型マーケッティングによるサービス・イノベーション(基礎的研究の社会的意味(1),一般講演,第22回年次学術大会)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7412
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132425344.rdf
+  Title: アジア地域における知的財産制度の経済的インパクト(<ホットイシュー>日本企業のアジア展開(1),一般講演,第22回年次学術大会)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7380
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132426240.rdf
+  Title: ポスト情報化社会におけるネット広告の発展メカニズム(技術経営(5),一般講演,第22回年次学術大会)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7347
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132437632.rdf
+  Title: 地域イノベーション・システムのパフォーマンス評価手法に関する考察(地域科学技術研究(1),一般講演,第22回年次学術大会)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7199
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132441344.rdf
+  Title: 地域における知識科学に基づく産学連携コーディネート実践の現状(知識と文化のマネジメント)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7137
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132443264.rdf
+  Title: 地域活性化へ向けての大学法人(<ホットイシュー>科学技術基本計画のインパクトと次のステップ(3))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7126
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132445056.rdf
+  Title: ランドスケープ理論を用いた航空機産業のアライアンス分析(<ホットイシュー>コア・コンピタンス強化とアウトソーシング・アライアンス(1))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7114
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132449280.rdf
+  Title: 日本型技術経営システムのダイナミズムの解明 : 日中のインスティテューションの比較実証分析(<ホットイシュー>日本型技術経営システムのダイナミズムの解明(2))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7062
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132453504.rdf
+  Title: 研究開発プロジェクトにおける追跡評価の視点の決め方 : 検討結果及び今後の課題(科学技術政策)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/7004
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132455680.rdf
+  Title: 工業系公設試験研究機関の経営課題についての考察(地域の科学技術)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6983
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132456576.rdf
+  Title: バイオ・テクノロジー分野の政府主導の研究開発プロジェクトの政策効果(バイオと科学技術)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6967
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132458368.rdf
+  Title: 静岡大学における知的財産戦略と知的財産本部について(知的財産2)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6914
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132461056.rdf
+  Title: ITの自己増殖機能の誘発 : 供給サイドと需要サイドの拮抗力分析(ITと科学技術)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6901
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132461824.rdf
+  Title: エレクトロニクス・ディバイス開発における関係性マネジメントに関する研究 : 米国レップの活動を中心として(ITと科学技術)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6897
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132462720.rdf
+  Title: 企業理念の浸透要因に関する研究 : フランチャイズチェーンA社における事例調査(ナレッジ・マネジメント)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6836
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132482432.rdf
+  Title: 企業評価と研究開発
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6798
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132487936.rdf
+  Title: 経済性価値評価におけるビジネスモデルの役割
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6745
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132489088.rdf
+  Title: 大学発ベンチャーの育成と新たな試み : TBI プログラムの事例
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6707
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132494336.rdf
+  Title: 人材と事業創造 : 中国企業アンケート
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6666
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132501376.rdf
+  Title: 研究者の流動性とサイエンスコミュニケーションの運営 : 融合マネージメントの立場から(<ホットイシュー> 競争力の二極化 (3))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6501
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132513792.rdf
+  Title: パラダイムシフトを超越した持続的高収益を達成するための新機能創出メカニズム : 電気機械作業における実証分析(<ホットイシュー> イノベーションを実現するためのマネジメント (5))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6413
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132514560.rdf
+  Title: 予見性が低い分野のロードマップ研究(<ホットイシュー> イノベーションを実現するためのマネジメント (4))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6408
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132515456.rdf
+  Title: 技術融合を取込む新たな研究開発システム(研究開発システムとモデル (1))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6378
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132518656.rdf
+  Title: 食品業界を中心とした企業規模及び利益構造の成長性分析(戦略形成 (1))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6346
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132519680.rdf
+  Title: 日本の自動車産業の技術市場における好循環メカニズムの変遷 : 1990年代と2000年代前半との比較実証分析(<ホットイシュー> 競争力の二極化 (1))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6341
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132520448.rdf
+  Title: 単年度予算主義を前提とした競争的資金の配分における有効なキャッシュフローについて(公的資金配分機関のマネジメント)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6324
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132521088.rdf
+  Title: 製造業のサービスビジネス化に対する一考察(科学技術政策と政策論 (1))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6321
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132524544.rdf
+  Title: 環境ビジネスにおける収益構造とプロセスマネジメント(<ホットイシュー> イノベーションを実現するためのマネジメント (3))
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6280
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132529152.rdf
+  Title: 公的研究機関の主たる研究タイプが企業との連携および機関のパフォーマンスに与える影響 : 海外の産業貢献を使命とする公的研究機関を中心とした比較(公的研究開発のマネジメント, 第20回年次学術大会講演要旨集II)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6210
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132534016.rdf
+  Title: バイオ・テクノロジーの事業化を担うアントレプレナーの育成((ホットイシュー) 戦略的人材システムに向けた課題 (4), 第20回年次学術大会講演要旨集II)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6161
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132534528.rdf
+  Title: 石油化学コンビナートにおけるR&Dスピルオーバー((ホットイシュー) 科学技術政策の歩み (2), 第20回年次学術大会講演要旨集II)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6146
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132540288.rdf
+  Title: 公設試政策の変遷と今後の課題((ホットイシュー) 地方公設試験場、公立大学の法人化と地域イノベーション政策 (3), 第20回年次学術大会講演要旨集I)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6031
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132544384.rdf
+  Title: 産学共同研究における企業動向分析(産学連携, 第20回年次学術大会講演要旨集I)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/6003
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132548224.rdf
+  Title: 中国地域の産学官連携マスタープラン
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5931
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132551296.rdf
+  Title: 起業家教育とMOT
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5859
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132552064.rdf
+  Title: 研究機関の業績評価への文献計量学的手法の適用
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5844
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132552704.rdf
+  Title: 政府研究開発投資の拡充政策における論点
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5840
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132553472.rdf
+  Title: トヨタ型技術経営の限界と試論
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5828
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132580608.rdf
+  Title: ナショナルプロジェクトの技術・経済インパクト
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5735
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132581248.rdf
+  Title: 環境産業のパラドックス
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5726
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132581888.rdf
+  Title: 新産業創出のためのイノベーション・マネジメント : 研究開発型ベンチャーを中心として
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5719
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132582656.rdf
+  Title: 衛星搭載温室効果気体センサ開発におけるプロジェクトマネジメント
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5695
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132583680.rdf
+  Title: STS国際会議からの報告
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5687
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132584576.rdf
+  Title: マレーシア標準・工業技術研究所公社化の事例報告
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5676
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132585088.rdf
+  Title: 中核的人材育成のための政策支援のあり方
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5660
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132585984.rdf
+  Title: 科学技術活動の計量と研究評価 : (その3) 学問分野間の論文産出様式の差違について
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5649
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132587776.rdf
+  Title: 研究技術シーズ集の配布とその効果について
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5615
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132590848.rdf
+  Title: 産業の立地空間特性の変化に関する考察
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5596
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132591872.rdf
+  Title: 中小企業における製品開発と技術情報移転
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5562
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132597504.rdf
+  Title: 研究開発における発想の転換とその支援の可能性
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5494
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132598528.rdf
+  Title: 製造業における売上げ高と研究開発費の関係
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5437
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132599424.rdf
+  Title: 光ファイバ開発プロセスの日米企業比較
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5434
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132600704.rdf
+  Title: OVERVIEW OF PORTUGUESE R&D
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5360
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132602240.rdf
+  Title: 施策モジュールに基づく政策決定過程の分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5354
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132603008.rdf
+  Title: 研究開発人材に関する各種統計データの通時的比較分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5347
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132608256.rdf
+  Title: 新分野進出に関する研究開発
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5200
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132610688.rdf
+  Title: 原子力発電を例とする科学技術の社会への受容過程に関する研究
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/5172
+
+- URI: https://cir.nii.ac.jp/crid/1050574047132612480.rdf
+  Title: A computational model of auditory sound localization based on ITD
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/4983
+
+- URI: https://cir.nii.ac.jp/crid/1050574181207977856.rdf
+  Title: 創造プロセスにおけるアイディアの即興的な発展と体験想起
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17931
+
+- URI: https://cir.nii.ac.jp/crid/1050574181207979904.rdf
+  Title: 総合商社はイノベーションを起こせるか : 総合商社によるイノベーションの発生論理
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17916
+
+- URI: https://cir.nii.ac.jp/crid/1050574181207981568.rdf
+  Title: EBPM と統計的因果探索・数理モデルの利活用
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17883
+
+- URI: https://cir.nii.ac.jp/crid/1050574181207982720.rdf
+  Title: 博士課程の教育プログラムへの満足度等に関する調査 (JGRAD ウェブアンケート)
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17878
+
+- URI: https://cir.nii.ac.jp/crid/1050574181207984768.rdf
+  Title: アクセラレーター支援効果の限定性 : 参加時期・研究開発型の影響
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17854
+
+- URI: https://cir.nii.ac.jp/crid/1050574181227304576.rdf
+  Title: 日本における希少疾病用医薬品のライフサイクルマネジメント
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17988
+
+- URI: https://cir.nii.ac.jp/crid/1050574181227307520.rdf
+  Title: ELSIの観点から見た第11回科学技術予測調査結果の特徴
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17926
+
+- URI: https://cir.nii.ac.jp/crid/1050574181227308288.rdf
+  Title: 学生の発明帰属に関する国際比較研究
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17918
+
+- URI: https://cir.nii.ac.jp/crid/1050574181227309056.rdf
+  Title: セミ・オープンイノベーションによる地域中小企業の創発的新規事業の促進
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17915
+
+- URI: https://cir.nii.ac.jp/crid/1050574181227309952.rdf
+  Title: コロナ禍でも中小企業と多数の新製品を開発した堀切川モデルの機能
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17912
+
+- URI: https://cir.nii.ac.jp/crid/1050574181227312000.rdf
+  Title: 漆によるカーボンニュートラルな循環経済システムの創成
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17869
+
+- URI: https://cir.nii.ac.jp/crid/1050574181227313152.rdf
+  Title: 地域の太陽光発電、水力発電などを活かした農業、それに付随したAI、IoTの構築
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17820
+
+- URI: https://cir.nii.ac.jp/crid/1050574181227313792.rdf
+  Title: 特許権担保融資に際してのハイブリッド型審査分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17816
+
+- URI: https://cir.nii.ac.jp/crid/1050574181244087680.rdf
+  Title: GAFAM/BAT と日本企業を分けたもの : DAAE 構想とQCD 思想の比較
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17952
+
+- URI: https://cir.nii.ac.jp/crid/1050574181244088320.rdf
+  Title: With／Post コロナ時代に産学連携で地域振興 : 兵庫県立大学の取組
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17948
+
+- URI: https://cir.nii.ac.jp/crid/1050574181244144768.rdf
+  Title: 業界構造変化にレジリエントな企業生存モデル : 中台から学び、光学事業をケースに
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17895
+
+- URI: https://cir.nii.ac.jp/crid/1050574181244145536.rdf
+  Title: 科学技術基本政策文書検索システムを用いた政策文書の試行的分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17872
+
+- URI: https://cir.nii.ac.jp/crid/1050574181244146688.rdf
+  Title: COVID-19からの経済回復を目指す産学官連携 : 京都府北部地域および大阪府立大学での事例
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17864
+
+- URI: https://cir.nii.ac.jp/crid/1050574181244147456.rdf
+  Title: Nordic Innovation におけるスケールアップに関する取組の一考察
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17853
+
+- URI: https://cir.nii.ac.jp/crid/1050574181244149504.rdf
+  Title: 創薬ベンチャーにおける知的財産戦略と事業開発に関する分析研究
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17823
+
+- URI: https://cir.nii.ac.jp/crid/1050574181244150656.rdf
+  Title: 多様な知識を最適結合させる仕組みを知識フリクションネットワークモデルから解明 : 新製品開発組織の現場体験より
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17813
+
+- URI: https://cir.nii.ac.jp/crid/1050574181259687680.rdf
+  Title: 地域イノベーション・ネットワークにおける境界固定化の罠
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17993
+
+- URI: https://cir.nii.ac.jp/crid/1050574181259690624.rdf
+  Title: CASE 時代に自動車部品サプライヤが考える新たな価値の考察
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17947
+
+- URI: https://cir.nii.ac.jp/crid/1050574181259691776.rdf
+  Title: 徳島バイオコミュニティー構想
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17932
+
+- URI: https://cir.nii.ac.jp/crid/1050574181259693696.rdf
+  Title: 研究室パネル調査から見える我が国の大学の研究活動の組織構造的な特徴
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17913
+
+- URI: https://cir.nii.ac.jp/crid/1050574181259695104.rdf
+  Title: 15年のデータ分析で判明したM&Aの新たな真実とは
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17882
+
+- URI: https://cir.nii.ac.jp/crid/1050574181259696000.rdf
+  Title: 内から外へのデザインプロセスに関する一考察
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17852
+
+- URI: https://cir.nii.ac.jp/crid/1050574181259697152.rdf
+  Title: 地域未来牽引企業の都道府県別定量比較分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17840
+
+- URI: https://cir.nii.ac.jp/crid/1050574181259758336.rdf
+  Title: 新規医薬品モダリティとしてのウイルスベクター遺伝子治療の研究開発戦略
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17830
+
+- URI: https://cir.nii.ac.jp/crid/1050574181259759360.rdf
+  Title: 探索型イノベーションを促す組織マネジメント : 「研究開発マネジメントに関する実態調査」に基づく分析
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/17829
+
+- URI: https://cir.nii.ac.jp/crid/1050574721421207936.rdf
+  Title: Intrinsic proton conduction in 2D sulfonated covalent organic framework through the post-synthetic strategy
+  Abstract: identifier:https://dspace.jaist.ac.jp/dspace/handle/10119/18026

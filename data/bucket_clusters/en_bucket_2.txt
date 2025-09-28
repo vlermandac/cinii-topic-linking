@@ -1,0 +1,147 @@
+Found 10 buckets with >=3 members
+Bucket 1: size 1659
+Bucket 2: size 35
+Bucket 3: size 9
+Bucket 4: size 8
+Bucket 5: size 8
+
+Members of bucket 5 (size 35):
+- URI: https://cir.nii.ac.jp/crid/1050571007507367936.rdf
+  Title: Title page, Content, etc.
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571007507368704.rdf
+  Title: Title page, Content, etc.
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571007507386496.rdf
+  Title: Title page, Content, etc.
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571007507387264.rdf
+  Title: Title page, Content, etc.
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571007507388160.rdf
+  Title: Title page, Content, etc.
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571007507388928.rdf
+  Title: Title page, Content, etc.
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571007507389696.rdf
+  Title: Title page, Content, etc.
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571007507390464.rdf
+  Title: Title page, Content, etc.
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571007507391104.rdf
+  Title: Title page, Content, etc.
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571007507393408.rdf
+  Title: Title page, Content, etc.
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571007513788288.rdf
+  Title: Title page, Content, etc.
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571007513806208.rdf
+  Title: Title page, Content, etc.
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571007513806848.rdf
+  Title: Title page, Content, etc.
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571007513807488.rdf
+  Title: Title page, Content, etc.
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571007513808256.rdf
+  Title: Title page, Content, etc.
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571007513808896.rdf
+  Title: Title page, Content, etc.
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571007513809792.rdf
+  Title: Title page, Content, etc.
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571007513810560.rdf
+  Title: Title page, Content, etc.
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571007513811200.rdf
+  Title: Title page, Content, etc.
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571007513811968.rdf
+  Title: Title page, Content, etc.
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571007519855488.rdf
+  Title: Title page, Content, etc.
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571007519857152.rdf
+  Title: Title page, Content, etc.
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571007519857920.rdf
+  Title: Title page, Content, etc.
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571007519858944.rdf
+  Title: Title page, Content, etc.
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571007519859712.rdf
+  Title: Title page, Content, etc.
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571007519860480.rdf
+  Title: Title page, Content, etc.
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571007525735296.rdf
+  Title: Title page, Content, etc.
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571007525758336.rdf
+  Title: Title page, Content, etc.
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571007525759104.rdf
+  Title: Title page, Content, etc.
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571007525759744.rdf
+  Title: Title page, Content, etc.
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571007525760384.rdf
+  Title: Title page, Content, etc.
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571007525760896.rdf
+  Title: Title page, Content, etc.
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571007525761408.rdf
+  Title: Title page, Content, etc.
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571007525762048.rdf
+  Title: Title page, Content, etc.
+  Abstract: 
+
+- URI: https://cir.nii.ac.jp/crid/1050571007525764096.rdf
+  Title: Title page, Content, etc.
+  Abstract: 

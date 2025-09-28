@@ -1,0 +1,364 @@
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix fos:   <https://example.org/oecd-fos/2007/> .
+
+
+
+fos:FOS2007 a owl:Ontology , skos:ConceptScheme ;
+    dct:title "OECD Fields of Science and Technology (FOS 2007)"@en ;
+    dct:creator "Organisation for Economic Co-operation and Development (OECD)"@en ;
+    dct:bibliographicCitation "OECD. (2015). Frascati Manual 2015: Guidelines for Collecting and Reporting Data on Research and Experimental Development. Paris: OECD Publishing. https://doi.org/10.1787/9789264239012-en"@en ;
+    owl:versionInfo "1.0.1" ;
+    dct:description "Major fields and divisions from the OECD Revised Field of Science and Technology classification (FOS 2007). Definitions paraphrased from the provided OECD list."@en .
+
+
+
+fos:Natural_Sciences a skos:Concept ;
+    skos:inScheme fos:FOS2007 ;
+    skos:topConceptOf fos:FOS2007 ;
+    skos:prefLabel "Natural Sciences"@en ;
+    skos:definition "Covers mathematics; computer and information sciences; physical and chemical sciences; earth, environmental and related sciences; biological sciences; and other natural-science topics."@en .
+
+
+fos:Engineering_and_Technology a skos:Concept ;
+    skos:inScheme fos:FOS2007 ;
+    skos:topConceptOf fos:FOS2007 ;
+    skos:prefLabel "Engineering and Technology"@en ;
+    skos:definition "Covers engineering and technology disciplines including civil, electrical/electronic/information, mechanical and chemical engineering; materials and medical engineering; environmental and industrial biotechnologies; nanotechnology; and other engineering/technology areas."@en .
+
+
+fos:Medical_and_Health_Sciences a skos:Concept ;
+    skos:inScheme fos:FOS2007 ;
+    skos:topConceptOf fos:FOS2007 ;
+    skos:prefLabel "Medical and Health Sciences"@en ;
+    skos:definition "Covers basic and clinical medicine, health sciences, medical biotechnology, and other medical specialties."@en .
+
+
+fos:Agricultural_Sciences a skos:Concept ;
+    skos:inScheme fos:FOS2007 ;
+    skos:topConceptOf fos:FOS2007 ;
+    skos:prefLabel "Agricultural Sciences"@en ;
+    skos:definition "Covers agriculture, forestry and fisheries; animal and dairy science; veterinary science; agricultural biotechnology; and other agricultural topics."@en .
+
+
+fos:Social_Sciences a skos:Concept ;
+    skos:inScheme fos:FOS2007 ;
+    skos:topConceptOf fos:FOS2007 ;
+    skos:prefLabel "Social Sciences"@en ;
+    skos:definition "Covers psychology, economics and business, educational sciences, sociology, law, political science, social and economic geography, media and communications, and other social-science areas."@en .
+
+
+fos:Humanities a skos:Concept ;
+    skos:inScheme fos:FOS2007 ;
+    skos:topConceptOf fos:FOS2007 ;
+    skos:prefLabel "Humanities"@en ;
+    skos:definition "Covers history and archaeology; languages and literature; philosophy, ethics and religion; arts and related studies; and other humanities topics."@en .
+
+
+fos:Mathematics a skos:Concept ;
+    skos:inScheme fos:FOS2007 ;
+    skos:broader fos:Natural_Sciences ;
+    skos:prefLabel "Mathematics"@en ;
+    skos:definition "Pure and applied mathematics, including statistics and probability. Includes statistical methodology; applied statistics should be classified under its field of application (e.g., economics, sociology)."@en .
+
+
+fos:Computer_and_Information_Sciences a skos:Concept ;
+    skos:inScheme fos:FOS2007 ;
+    skos:broader fos:Natural_Sciences ;
+    skos:prefLabel "Computer and Information Sciences"@en ;
+    skos:definition "Computer science, information science and bioinformatics. Hardware development is classified under Electrical/Electronic/Information engineering; social aspects under Media and communications."@en .
+
+
+fos:Physical_Sciences a skos:Concept ;
+    skos:inScheme fos:FOS2007 ;
+    skos:broader fos:Natural_Sciences ;
+    skos:prefLabel "Physical Sciences"@en ;
+    skos:definition "Physics subfields such as atomic and molecular physics (including interactions with radiation), condensed matter, particles and fields, nuclear physics, fluids and plasma (including surface physics), optics (laser and quantum), acoustics, and astronomy/astrophysics/space science."@en .
+
+
+fos:Chemical_Sciences a skos:Concept ;
+    skos:inScheme fos:FOS2007 ;
+    skos:broader fos:Natural_Sciences ;
+    skos:prefLabel "Chemical Sciences"@en ;
+    skos:definition "Organic, inorganic and nuclear chemistry; physical chemistry; polymer science; electrochemistry (e.g., batteries, fuel cells, corrosion, electrolysis); colloid and analytical chemistry."@en .
+
+
+fos:Earth_and_Related_Environmental_Sciences a skos:Concept ;
+    skos:inScheme fos:FOS2007 ;
+    skos:broader fos:Natural_Sciences ;
+    skos:prefLabel "Earth and Related Environmental Sciences"@en ;
+    skos:definition "Multidisciplinary geosciences and specialties such as mineralogy, palaeontology, geochemistry and geophysics, physical geography, geology and volcanology, meteorology and atmospheric sciences (including climatic research), oceanography, hydrology and water resources. Social aspects are classified under Social and economic geography."@en .
+
+
+fos:Biological_Sciences a skos:Concept ;
+    skos:inScheme fos:FOS2007 ;
+    skos:broader fos:Natural_Sciences ;
+    skos:prefLabel "Biological Sciences"@en ;
+    skos:definition "Cell biology, microbiology and virology; biochemistry and molecular biology; biochemical methods; mycology; biophysics; genetics and heredity (medical genetics classified under Medical sciences); reproductive and developmental biology (medical aspects to Medical sciences); plant sciences/botany; zoology (including ornithology and entomology) and behavioural biology; marine, freshwater and limnology; ecology and biodiversity conservation; theoretical and mathematical biology (e.g., thermal, cryobiology, biological rhythms); evolutionary biology; and other biological topics."@en .
+
+
+fos:Other_Natural_Sciences a skos:Concept ;
+    skos:inScheme fos:FOS2007 ;
+    skos:broader fos:Natural_Sciences ;
+    skos:prefLabel "Other Natural Sciences"@en ;
+    skos:definition "Interdisciplinary or other natural-science topics not covered elsewhere."@en .
+
+fos:Natural_Sciences skos:narrower fos:Mathematics, fos:Computer_and_Information_Sciences, fos:Physical_Sciences, fos:Chemical_Sciences, fos:Earth_and_Related_Environmental_Sciences, fos:Biological_Sciences, fos:Other_Natural_Sciences .
+
+
+fos:Civil_Engineering a skos:Concept ;
+    skos:inScheme fos:FOS2007 ;
+    skos:broader fos:Engineering_and_Technology ;
+    skos:prefLabel "Civil Engineering"@en ;
+    skos:definition "Civil, architectural, construction, municipal and structural engineering, and transport engineering."@en .
+
+
+fos:Electrical_Engineering_Electronic_Engineering_Information_Engineering a skos:Concept ;
+    skos:inScheme fos:FOS2007 ;
+    skos:broader fos:Engineering_and_Technology ;
+    skos:prefLabel "Electrical Engineering, Electronic Engineering, Information Engineering"@en ;
+    skos:definition "Electrical and electronic engineering; robotics and automatic control; automation and control systems; communication engineering and systems, telecommunications; computer hardware and architecture."@en .
+
+
+fos:Mechanical_Engineering a skos:Concept ;
+    skos:inScheme fos:FOS2007 ;
+    skos:broader fos:Engineering_and_Technology ;
+    skos:prefLabel "Mechanical Engineering"@en ;
+    skos:definition "Mechanical engineering, applied mechanics and thermodynamics; aerospace engineering; nuclear-related engineering (nuclear physics belongs to Physical sciences); audio engineering and reliability analysis."@en .
+
+
+fos:Chemical_Engineering a skos:Concept ;
+    skos:inScheme fos:FOS2007 ;
+    skos:broader fos:Engineering_and_Technology ;
+    skos:prefLabel "Chemical Engineering"@en ;
+    skos:definition "Chemical engineering (plants and products), including chemical process engineering."@en .
+
+
+fos:Materials_Engineering a skos:Concept ;
+    skos:inScheme fos:FOS2007 ;
+    skos:broader fos:Engineering_and_Technology ;
+    skos:prefLabel "Materials Engineering"@en ;
+    skos:definition "Materials engineering including ceramics; coatings and films; composites (laminates, reinforced plastics, cermets, combined natural/synthetic fibre fabrics, filled composites); paper and wood; textiles (synthetic dyes, colours, fibres). Nanoscale materials belong to Nanotechnology; biomaterials related to medical implants/devices/sensors belong to Industrial biotechnology."@en .
+
+
+fos:Medical_Engineering a skos:Concept ;
+    skos:inScheme fos:FOS2007 ;
+    skos:broader fos:Engineering_and_Technology ;
+    skos:prefLabel "Medical Engineering"@en ;
+    skos:definition "Medical engineering and medical laboratory technology (e.g., analysis of laboratory samples, diagnostic technologies). Biomaterials related to medical implants/devices/sensors are classified under Industrial biotechnology."@en .
+
+
+fos:Environmental_Engineering a skos:Concept ;
+    skos:inScheme fos:FOS2007 ;
+    skos:broader fos:Engineering_and_Technology ;
+    skos:prefLabel "Environmental Engineering"@en ;
+    skos:definition "Environmental and geological engineering, geotechnics; petroleum engineering (fuels, oils); energy and fuels; remote sensing; mining and mineral processing; marine engineering, sea vessels and ocean engineering."@en .
+
+
+fos:Environmental_Biotechnology a skos:Concept ;
+    skos:inScheme fos:FOS2007 ;
+    skos:broader fos:Engineering_and_Technology ;
+    skos:prefLabel "Environmental Biotechnology"@en ;
+    skos:definition "Biotechnologies applied to environmental management, including bioremediation and diagnostic biotechnologies (e.g., DNA chips and biosensing devices); includes related ethical issues."@en .
+
+
+fos:Industrial_Biotechnology a skos:Concept ;
+    skos:inScheme fos:FOS2007 ;
+    skos:broader fos:Engineering_and_Technology ;
+    skos:prefLabel "Industrial Biotechnology"@en ;
+    skos:definition "Industrial biotechnology and bioprocessing technologies (biocatalysis, fermentation) relying on biological agents; production of bioproducts using biological feedstocks, such as biomaterials, bioplastics, biofuels, bio-derived chemicals and novel materials."@en .
+
+
+fos:Nanotechnology a skos:Concept ;
+    skos:inScheme fos:FOS2007 ;
+    skos:broader fos:Engineering_and_Technology ;
+    skos:prefLabel "Nanotechnology"@en ;
+    skos:definition "Nano-materials (their production and properties) and nano-processes (applications at the nano-scale). Biomaterials are classified under Industrial biotechnology."@en .
+
+
+fos:Other_Engineering_and_Technologies a skos:Concept ;
+    skos:inScheme fos:FOS2007 ;
+    skos:broader fos:Engineering_and_Technology ;
+    skos:prefLabel "Other Engineering and Technologies"@en ;
+    skos:definition "Food and beverages; other engineering and technology topics not covered elsewhere."@en .
+
+fos:Engineering_and_Technology skos:narrower fos:Civil_Engineering, fos:Electrical_Engineering_Electronic_Engineering_Information_Engineering, fos:Mechanical_Engineering, fos:Chemical_Engineering, fos:Materials_Engineering, fos:Medical_Engineering, fos:Environmental_Engineering, fos:Environmental_Biotechnology, fos:Industrial_Biotechnology, fos:Nanotechnology, fos:Other_Engineering_and_Technologies .
+
+
+fos:Basic_Medicine a skos:Concept ;
+    skos:inScheme fos:FOS2007 ;
+    skos:broader fos:Medical_and_Health_Sciences ;
+    skos:prefLabel "Basic Medicine"@en ;
+    skos:definition "Anatomy and morphology (plant science to Biological sciences); human genetics; immunology; neurosciences (including psychophysiology); pharmacology and pharmacy; medicinal chemistry; toxicology; physiology (including cytology); pathology."@en .
+
+
+fos:Clinical_Medicine a skos:Concept ;
+    skos:inScheme fos:FOS2007 ;
+    skos:broader fos:Medical_and_Health_Sciences ;
+    skos:prefLabel "Clinical Medicine"@en ;
+    skos:definition "Clinical specialties including andrology; obstetrics and gynaecology; paediatrics; cardiology and cardiovascular systems; peripheral vascular disease; haematology; respiratory systems; critical care and emergency medicine; anaesthesiology; orthopaedics; surgery; radiology, nuclear medicine and medical imaging; transplantation; dentistry, oral surgery and medicine; dermatology and venereal diseases; allergy; rheumatology; endocrinology and metabolism (e.g., diabetes and hormones); gastroenterology and hepatology; urology and nephrology; oncology; ophthalmology; otorhinolaryngology; psychiatry and clinical neurology; geriatrics and gerontology; general and internal medicine; other clinical subjects; integrative and complementary medicine."@en .
+
+
+fos:Health_Sciences a skos:Concept ;
+    skos:inScheme fos:FOS2007 ;
+    skos:broader fos:Medical_and_Health_Sciences ;
+    skos:prefLabel "Health Sciences"@en ;
+    skos:definition "Health care sciences and services (e.g., hospital administration and financing), health policy and services; nursing; nutrition and dietetics; public and environmental health; tropical medicine; parasitology and infectious diseases; epidemiology; occupational health; sport and fitness sciences; social biomedical sciences (e.g., family planning, sexual health, psycho-oncology, political and social effects of biomedical research); medical ethics; substance abuse."@en .
+
+
+fos:Medical_Biotechnology a skos:Concept ;
+    skos:inScheme fos:FOS2007 ;
+    skos:broader fos:Medical_and_Health_Sciences ;
+    skos:prefLabel "Medical Biotechnology"@en ;
+    skos:definition "Health-related biotechnologies including manipulation of cells, tissues, organs or whole organisms (e.g., assisted reproduction); technologies identifying the functioning of DNA, proteins and enzymes and their roles in disease onset and well-being (e.g., gene-based diagnostics, pharmacogenomics, gene-based therapeutics); biomaterials as related to medical implants, devices and sensors; includes related ethics."@en .
+
+
+fos:Other_Medical_Sciences a skos:Concept ;
+    skos:inScheme fos:FOS2007 ;
+    skos:broader fos:Medical_and_Health_Sciences ;
+    skos:prefLabel "Other Medical Sciences"@en ;
+    skos:definition "Forensic science and other medical topics not covered elsewhere."@en .
+
+fos:Medical_and_Health_Sciences skos:narrower fos:Basic_Medicine, fos:Clinical_Medicine, fos:Health_Sciences, fos:Medical_Biotechnology, fos:Other_Medical_Sciences .
+
+
+fos:Agriculture_Forestry_and_Fisheries a skos:Concept ;
+    skos:inScheme fos:FOS2007 ;
+    skos:broader fos:Agricultural_Sciences ;
+    skos:prefLabel "Agriculture, Forestry, and Fisheries"@en ;
+    skos:definition "Agriculture; forestry; fishery; soil science; horticulture and viticulture; agronomy; plant breeding and plant protection. Agricultural biotechnology belongs to Agricultural biotechnology division."@en .
+
+
+fos:Animal_and_Dairy_Science a skos:Concept ;
+    skos:inScheme fos:FOS2007 ;
+    skos:broader fos:Agricultural_Sciences ;
+    skos:prefLabel "Animal and Dairy Science"@en ;
+    skos:definition "Animal and dairy science, husbandry and pets. Animal biotechnology is classified under Agricultural biotechnology."@en .
+
+
+fos:Veterinary_Science a skos:Concept ;
+    skos:inScheme fos:FOS2007 ;
+    skos:broader fos:Agricultural_Sciences ;
+    skos:prefLabel "Veterinary Science"@en ;
+    skos:definition "Veterinary medicine and animal health sciences."@en .
+
+
+fos:Agricultural_Biotechnology a skos:Concept ;
+    skos:inScheme fos:FOS2007 ;
+    skos:broader fos:Agricultural_Sciences ;
+    skos:prefLabel "Agricultural Biotechnology"@en ;
+    skos:definition "Agricultural and food biotechnology, including GM technologies (crops and livestock), livestock cloning, marker-assisted selection; diagnostics (e.g., DNA chips and biosensing devices for early/accurate disease detection); biomass feedstock production technologies; biopharming; includes related ethical issues."@en .
+
+
+fos:Other_Agricultural_Sciences a skos:Concept ;
+    skos:inScheme fos:FOS2007 ;
+    skos:broader fos:Agricultural_Sciences ;
+    skos:prefLabel "Other Agricultural Sciences"@en ;
+    skos:definition "Other or interdisciplinary agricultural topics not covered elsewhere."@en .
+
+fos:Agricultural_Sciences skos:narrower fos:Agriculture_Forestry_and_Fisheries, fos:Animal_and_Dairy_Science, fos:Veterinary_Science, fos:Agricultural_Biotechnology, fos:Other_Agricultural_Sciences .
+
+
+fos:Psychology a skos:Concept ;
+    skos:inScheme fos:FOS2007 ;
+    skos:broader fos:Social_Sciences ;
+    skos:prefLabel "Psychology"@en ;
+    skos:definition "Psychology, including human–machine relations, and special areas such as therapies for learning, speech, hearing, visual and other physical or mental disabilities."@en .
+
+
+fos:Economics_and_Business a skos:Concept ;
+    skos:inScheme fos:FOS2007 ;
+    skos:broader fos:Social_Sciences ;
+    skos:prefLabel "Economics and Business"@en ;
+    skos:definition "Economics, econometrics, industrial relations, business and management."@en .
+
+
+fos:Educational_Sciences a skos:Concept ;
+    skos:inScheme fos:FOS2007 ;
+    skos:broader fos:Social_Sciences ;
+    skos:prefLabel "Educational Sciences"@en ;
+    skos:definition "General education (training, pedagogy, didactics) and special education (e.g., gifted persons, learning disabilities)."@en .
+
+
+fos:Sociology a skos:Concept ;
+    skos:inScheme fos:FOS2007 ;
+    skos:broader fos:Social_Sciences ;
+    skos:prefLabel "Sociology"@en ;
+    skos:definition "Sociology, demography, anthropology and ethnology; social topics such as women’s and gender studies, social issues, family studies and social work."@en .
+
+
+fos:Law a skos:Concept ;
+    skos:inScheme fos:FOS2007 ;
+    skos:broader fos:Social_Sciences ;
+    skos:prefLabel "Law"@en ;
+    skos:definition "Law, criminology and penology."@en .
+
+
+fos:Political_Science a skos:Concept ;
+    skos:inScheme fos:FOS2007 ;
+    skos:broader fos:Social_Sciences ;
+    skos:prefLabel "Political Science"@en ;
+    skos:definition "Political science, public administration and organisation theory."@en .
+
+
+fos:Social_and_Economic_Geography a skos:Concept ;
+    skos:inScheme fos:FOS2007 ;
+    skos:broader fos:Social_Sciences ;
+    skos:prefLabel "Social and Economic Geography"@en ;
+    skos:definition "Environmental sciences with social aspects; cultural and economic geography; urban studies (planning and development); transport planning and social aspects of transport (transport engineering classified under Civil engineering)."@en .
+
+
+fos:Media_and_Communications a skos:Concept ;
+    skos:inScheme fos:FOS2007 ;
+    skos:broader fos:Social_Sciences ;
+    skos:prefLabel "Media and Communications"@en ;
+    skos:definition "Journalism; information science with social aspects; library science; media and socio-cultural communication."@en .
+
+
+fos:Other_Social_Sciences a skos:Concept ;
+    skos:inScheme fos:FOS2007 ;
+    skos:broader fos:Social_Sciences ;
+    skos:prefLabel "Other Social Sciences"@en ;
+    skos:definition "Interdisciplinary or other social-science topics not covered elsewhere."@en .
+
+fos:Social_Sciences skos:narrower fos:Psychology, fos:Economics_and_Business, fos:Educational_Sciences, fos:Sociology, fos:Law, fos:Political_Science, fos:Social_and_Economic_Geography, fos:Media_and_Communications, fos:Other_Social_Sciences .
+
+
+fos:History_and_Archaeology a skos:Concept ;
+    skos:inScheme fos:FOS2007 ;
+    skos:broader fos:Humanities ;
+    skos:prefLabel "History and Archaeology"@en ;
+    skos:definition "History and archaeology. History of science and technology belongs to Philosophy, ethics and religion; histories of specific sciences are classified under their respective scientific headings."@en .
+
+
+fos:Languages_and_Literature a skos:Concept ;
+    skos:inScheme fos:FOS2007 ;
+    skos:broader fos:Humanities ;
+    skos:prefLabel "Languages and Literature"@en ;
+    skos:definition "General and specific language studies; general literature studies and literary theory; specific literatures; linguistics."@en .
+
+
+fos:Philosophy_Ethics_and_Religion a skos:Concept ;
+    skos:inScheme fos:FOS2007 ;
+    skos:broader fos:Humanities ;
+    skos:prefLabel "Philosophy, Ethics and Religion"@en ;
+    skos:definition "Philosophy, including history and philosophy of science and technology; ethics (except ethics that are specific to other subfields); theology and religious studies."@en .
+
+
+fos:Art_Arts_History_of_Arts_Performing_Arts_Music a skos:Concept ;
+    skos:inScheme fos:FOS2007 ;
+    skos:broader fos:Humanities ;
+    skos:prefLabel "Art (Arts, History of Arts, Performing Arts, Music)"@en ;
+    skos:definition "Arts and art history; architectural design; performing arts studies (e.g., musicology, theatre science, dramaturgy); folklore studies; studies on film, radio and television."@en .
+
+
+fos:Other_Humanities a skos:Concept ;
+    skos:inScheme fos:FOS2007 ;
+    skos:broader fos:Humanities ;
+    skos:prefLabel "Other Humanities"@en ;
+    skos:definition "Other or interdisciplinary humanities topics not covered elsewhere."@en .
+
+fos:Humanities skos:narrower fos:History_and_Archaeology, fos:Languages_and_Literature, fos:Philosophy_Ethics_and_Religion, fos:Art_Arts_History_of_Arts_Performing_Arts_Music, fos:Other_Humanities .
