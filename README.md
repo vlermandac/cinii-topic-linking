@@ -39,6 +39,7 @@ A small TUI assists manual labeling:
 ```bash
 uv run src/create_labels_cli.py
 ```
+<img width="1627" height="648" alt="image" src="https://github.com/user-attachments/assets/19622c51-be0e-47e9-a6cd-23cd7c13f317" />
 
 Controls:
 
